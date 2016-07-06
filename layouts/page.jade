@@ -1,0 +1,30 @@
+doctype html
+html
+	head
+		include ./top.jade
+		
+	body
+		.container
+			include ./menu.jade
+			
+			if !path
+				#bannerBox
+					#banner
+					#homeTitle
+						h1 <span class="med">Welcome to</span><br><span class="big">Decoy Community Primary School
+			//- if !path
+			//- 	#banner
+			//- 		h1#homeTitle <span>Welcome to</span> <br> Decoy Community Primary School
+
+			#content
+				section.main
+					h1= title
+					hr
+					!= contents
+
+					if path == 'our-governors'
+						include ./governors.jade
+
+				include ./sidebar.jade
+
+			include ./bottom.jade

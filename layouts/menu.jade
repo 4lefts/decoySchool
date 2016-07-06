@@ -1,0 +1,16 @@
+block menu
+	header
+		.headercontent
+			nav.cf
+				label(for="show_menu", class="show_menu") Menu
+				input(type="checkbox", id="show_menu", role="button")
+				ul(id="menu")
+					if !path 
+						li(class="current"): a(href="/") Home
+					else
+						li: a(href="/") Home
+					each page in collections.pages
+						if page.path == path
+							li(class="current"): a(href="/#{page.path}") #{page.menuLabel}
+						else
+							li: a(href="/#{page.path}") #{page.menuLabel}

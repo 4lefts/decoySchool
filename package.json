@@ -1,0 +1,23 @@
+{
+  "name": "decoymetalsmith",
+  "version": "1.0.0",
+  "description": "Code to build a static site for Decoy Community Primary School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-dev": "node ./index.js",
+    "build-production": "node ./index.js production"
+  },
+  "author": "stephen ball",
+  "license": "ISC",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "metalsmith": "^2.1.0",
+    "metalsmith-autotoc": "^0.1.2",
+    "metalsmith-browser-sync": "^1.1.0",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-layouts": "^1.6.5",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.5.0"
+  }
+}

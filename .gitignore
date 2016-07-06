@@ -1,0 +1,25 @@
+# npm debugging logs
+npm-debug.log*
+
+# project dependencies / dev-dependencies
+node_modules
+
+# OSX folder attributes
+.DS_store
+
+# temporary files
+*.tmp
+*~
+
+#windows desktop files
+*.ini
+
+# metalsmith build
+build
+
+# sass artifacts
+.sass-cache
+
+# other junk we don't want to commit
+misc
+old_templates

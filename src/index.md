@@ -1,0 +1,36 @@
+---
+title: Inspiring Positive Futures
+layout: page.jade
+permalink: false
+---
+
+## ** NUT Strike Action **
+Decoy Community Primary School will be ** closed ** on ** TUESDAY 5th JULY 2016 ** due to Industrial Action.
+Open as normal on Wednesday 6th.
+
+## Safeguarding Statement
+We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B0102cki14zKRkltU20zWi1IbU0/view?usp=sharing).
+
+<div class="infoButtons">
+[Link to Statutory Info](/information)
+</div>
+
+<img src="/images/govs/gilloneill.jpg" class="goPic"alt="Mrs Gill O'Neill, Headteacher">
+At Decoy we aim to support all children to achieve their full potential, in learning and in life. Our team of dedicated teachers and teaching assistants, work together to ensure that all children make great progress.  We are committed to providing a happy, well disciplined, nurturing environment, where children can thrive. 
+
+
+Our Values are:
+** ‘Have a Go’, ‘Make the Right Choices’, ‘Do your Best’, ‘Think of Others’. **
+
+Through these, we encourage the children to work their hardest and support each other, at all times.
+
+We strive to provide a vibrant curriculum, which is enhanced by active learning. Every child will be able to take part in a wide variety of opportunities, including residential trips, sporting activities, performances and creative workshops.
+Decoy is a Community Primary School and we work closely with families to support all children to achieve. Our active Parent Teacher Association support the school, organising fund raising and social events, keeping the school at the heart of the community.
+
+Visitors often comment on the friendly, purposeful atmosphere and the range and quality of work going on here. We always enjoy showing people around; if you would like to make an appointment to see us in action, please contact us on <a href="tel:01626353282">01626 353282</a>.
+
+Thank you, 
+Mrs Gill O'Neill 
+Headteacher
+
+To view our Prospectus please click [here](https://drive.google.com/open?id=0B76W__U5CTntaFhPYlhjYnRiQ2s).

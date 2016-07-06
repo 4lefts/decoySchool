@@ -1,0 +1,10 @@
+footer
+	section#logos
+		- var logos = ["360", "CAS", "eco", "exeterPart", "ffl", "healthy", "pedpass", "sustrans", "travelwise"]
+
+			each logo in logos
+				img(src="/images/footerLogos/#{logo}.png")
+	
+	section#footerContact
+		p.
+			Deer Park Road, Newton Abbot, TQ12 1DH<br><a href="tel:+441626353282")> 01626 353 282</a> &mdash; <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a><br>&copy; Decoy School, #{thisYear}.

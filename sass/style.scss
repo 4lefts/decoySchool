@@ -1,0 +1,441 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*--------------------------------------
+END CSS reset
+--------------------------------------*/
+
+$decoy-green: #008000;
+$cream: #ffffee;
+$orange: #ffbb00;
+$light-green: #00bb00;
+$white: #ffffff;
+$trans-white: rgba(255, 255, 255, 0.3);
+$gutter: 20px;
+
+/* clearfix, from http://nicolasgallagher.com/micro-clearfix-hack/ */
+.cf:before, .cf:after{
+	content: " "; //for opera
+	display: table; //can also use display: block if not using "before"
+}
+
+.cf:after{
+	clear: both;
+}
+
+//for IE 6 and 7, to trigger hasLayout
+.cf{
+	*zoom: 1;
+}
+//end clearfix
+
+body{
+	background-color: $cream;
+}
+
+.container{
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+header{
+	background-color: $decoy-green;
+	nav{
+		ul{
+			display: none;
+			list-style: none;
+			text-align: center;
+			font-size: 0;
+			margin: auto;
+			li{
+				border-right: 0;
+				border-top: 1px solid $cream;
+				a{
+					box-sizing: border-box;
+					display: inline-block;
+					width: 100%;
+					font-size: 16px;
+					line-height: 40px;
+					padding: 0 $gutter;
+					text-align: right;
+					text-decoration: none;
+					color: $white;
+					transition: color 0.3s;
+					&:hover, &:focus, &:active{
+						color: $orange;
+					}
+					&.active{
+						background-color: $trans-white;
+					}
+				}
+			}
+			.current{
+				background-color: $light-green;
+			}
+		}
+	}
+	.show_menu{
+		display: block;
+		text-decoration: none;
+		font-size: 16px;
+		text-align: right;
+		padding: 0 $gutter;
+		line-height: 40px;
+		color: white;
+		background-color: $decoy-green;
+		transition: color 0.3s;
+		&:hover, &:focus, &:active{
+			color: $orange;
+		}
+	}
+	input[type=checkbox]{
+		display: none;
+	}
+	input[type=checkbox]:checked ~ #menu{
+		display: block;
+	}
+}
+
+#bannerBox{
+	box-sizing: border-box;
+	position: relative;
+	height: 75vh;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#banner{
+	box-sizing: border-box;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url(/images/banners/values.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+		-moz-background-size: cover;
+			-o-background-size: cover;
+				background-size: cover;
+	background-size: cover;
+	background-position: top center;
+	background-attachment: fixed;
+	padding: 0;
+	margin: 0;
+	&:before{
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0.7))
+	}
+}
+
+#homeTitle{
+	z-index: 10;
+	box-sizing: border-box;
+	max-width: 960px;
+	font-size: 12vmin;
+	color: $white;
+	span.med{
+		font-size: 8vmin;
+		font-family: 'Shadows Into Light Two', sans-serif;
+	}
+	span.big{
+		font-size: 14vmin;
+		font-family: 'Shadows Into Light Two', sans-serif;
+	}
+}
+
+#content{
+	color: #444444;
+	max-width: 1030px;
+	margin: auto;
+	.sidebar{
+		padding: 0 $gutter;
+	}
+	p{
+		text-align: justify;
+		line-height: 1.6em;
+		padding: 0.6em 0;
+	}
+	h1{
+		font-size: 2.6em;
+		line-height: 1em;
+		padding: 0.5em 0 0.2em 0;
+	}
+	.vision{
+		font-size: 0.8em;
+		color: $decoy-green;
+		text-align: left;
+		h1{
+			padding: 0.3em 0;
+		}
+	}
+	h2{
+		font-size: 1.6em;
+		line-height: 1.3em;
+		padding-top: 0.7em;
+	}
+	h3{
+		font-size: 1.3em;
+		line-height: 1.3em;
+		padding-top: 0.9em;
+	}
+	h5{
+		font-size: 0.8em;
+		text-transform: uppercase;
+		line-height: 2em;
+	}
+	ul{
+		line-height: 1.4em;
+		list-style: disc inside none;
+	}
+	a{
+		color: $decoy-green;
+		text-decoration: underline;
+		&:hover, &:focus, &:active{
+		color: $orange;
+		}
+	}
+	hr{
+		border-top: 1px solid $decoy-green;
+	}
+	.infoButtons a{
+		display: block;
+		margin: $gutter 0;
+		padding: $gutter;
+		box-sizing: border-box;
+		text-align: center;
+		text-decoration: none;
+		color: white;
+		background-color: $decoy-green;
+		border-radius: 10px;
+		font-size: 1.4em;
+		transition: background-color 0.3s;
+		&:hover, &:focus, &:active{
+		background-color: $light-green;
+		color: $white;
+		}
+	}
+	aside{
+	text-align: center;
+	margin: 1.3em auto 1em auto;
+	padding: 0 $gutter;
+	box-sizing: border-box;
+	border-top: 1px solid $decoy-green;
+	border-left: 0;
+		p{
+			padding: 1em 0;
+			border-bottom: 1px solid $decoy-green;
+			text-align: center;
+		}
+		img{
+			max-width: 50%;
+			max-height: 75px;
+			padding-top: 1em;
+		}
+		#fb, #tw{
+			max-width: 25%;
+		}
+		:last-child{
+			border-bottom: 0;
+		}
+	}
+}
+
+.govPic{
+	text-align: center;
+	float: left;
+	box-sizing: border-box;
+	overflow: hidden;
+	margin: 1%;
+	width: 48%;
+	img{
+		width: 100%;
+	}
+	figcaption{
+		line-height: 1.7em;
+	}
+}
+
+.calendar, .map{
+	border-width: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.contentPics{
+	text-align: center;
+	padding-top: $gutter;
+	img{
+		max-width: 49%;
+	}
+}
+
+section.main{
+	width:100%;
+	margin: 0 auto 1em auto;
+	padding: 0 $gutter;
+	box-sizing: border-box;
+	.goPic{
+		max-width: 300px;
+		width: 50%;
+		float: left;
+		box-sizing: border-box;
+		padding: 10px 10px 0 0;
+	}
+	table{
+		margin: 1em 0;
+		border-collapse: collapse;
+		td, th{
+			border: 1px solid #aaa;
+			padding: 10px;
+			text-align: left;
+		}
+
+	}
+	.video{
+		border: none;
+		box-sizing: border-box;
+		width: 100%;
+		height: 360px;
+	}
+}
+
+footer{
+	clear: both;
+	background-color: $decoy-green;
+	margin: auto;
+}
+
+#logos{
+	max-width: 100%;
+	margin: $gutter auto 0 auto;
+	padding: $gutter;
+	border-top: 1px solid $decoy-green;
+	text-align: center;
+	background-color: $cream;
+}
+
+#footerContact{
+	max-width: 960px;
+	margin: auto;
+	box-sizing: border-box;
+	padding: $gutter;
+	line-height: 1.3em;
+	color: $white;
+	a{
+		color: $white;
+		&:hover, &:focus, &:active{
+		color: $orange;
+		}
+	}
+}
+
+@media screen and (min-width: 680px){
+
+	section.main{
+		max-width: 60%;
+		float: left;
+		div.news{
+			border-bottom: 1px solid green;
+		}
+	}
+
+	#content{
+		aside{
+			max-width: 40%;
+			float: left;
+			border-left: 1px solid $decoy-green;
+			border-top: 0;
+		}
+	}
+}
+
+@media screen and (min-width: 1030px){
+
+	header{
+		.show_menu{
+			display: none;
+		}
+
+		#menu{
+			display: block;
+			margin: auto;
+		}
+
+		#menu li{
+			display: inline-block;
+			border-top: 0;
+			border-right: 1px solid $white;
+			a{
+				font-size: 12px;
+			}
+			&:last-child{
+				border-right: 0;
+			}
+		}
+	}
+	#content{
+		h1{
+			font-size: 4em;
+		} 
+		.vision{
+			text-align: right;
+		}
+	}
+}
