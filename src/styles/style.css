@@ -129,7 +129,7 @@ header {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url(/images/banners/values.jpg);
+  background-image: url(/images/banners/banner6.jpg);
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -147,7 +147,7 @@ header {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0.7)); }
+    background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.2) 20%, rgba(0, 0, 0, 0.7)); }
 
 #homeTitle {
   z-index: 10;
@@ -163,7 +163,7 @@ header {
     font-family: 'Shadows Into Light Two', sans-serif; }
 
 #content {
-  color: #444444;
+  color: #222;
   max-width: 1030px;
   margin: auto; }
   #content .sidebar {

@@ -180,7 +180,7 @@ header{
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0.7))
+		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.2) 20%, rgba(0, 0, 0, 0.7))
 	}
 }
 
@@ -201,7 +201,7 @@ header{
 }
 
 #content{
-	color: #444444;
+	color: #222;
 	max-width: 1030px;
 	margin: auto;
 	.sidebar{
