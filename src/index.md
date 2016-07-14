@@ -3,7 +3,7 @@ title: Inspiring Positive Futures
 layout: page.jade
 permalink: false
 ---
-## Safeguarding Statement
+## Safeguarding Statement is Awesome
 We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B0102cki14zKRkltU20zWi1IbU0/view?usp=sharing).
 
 <div class="infoButtons">
