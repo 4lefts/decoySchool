@@ -6,13 +6,6 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 06/07/2016 | Induction Day - Coombeshead Academy & Newton Abbot College |
-| 07/07/2016 | Induction Day - Coombeshead Academy & Newton Abbot College |
-| 07/07/2016 | TBGS Induction Day |
-| 08/07/2016 | End of Year Reports |
-| 12/07/2016 | Foundation Stage Concert - 1415 start |
-| 13/07/2016 | Foundation Stage Concert - 0915 start |
-| 13/07/2016 | Year 6 Production - 1400 & 1800 starts |
 | 15/07/2016 | Foundation Coffee Morning - 0915 start in Community Room |
 | 19/07/2016 | Pupils spending time in New Classes |
 | 19/07/2016 | Open Evening - 1530 - 1700 |
