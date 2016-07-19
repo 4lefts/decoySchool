@@ -34,12 +34,17 @@ In order to prepare pupils for the more ambitious end of year expectations in En
 Please use these links to find detailed information about the curriculum for each year group.
 
 <div class="cf infoButtons">
-	[Nursery Curriculum](/nursery-curriculum)
-	[Reception Curriculum](/reception-curriculum)
+	[Nursery Curriculum][1]
+	[Reception Curriculum][2]
 	[Year 1 Curriculum](/year-1-curriculum)
 	[Year 2 Curriculum](/year-2-curriculum)
-	[Year 3 Curriculum](/year-3-curriculum)
+	[Year 3 Curriculum][5]
 	[Year 4 Curriculum](/year-4-curriculum)
 	[Year 5 Curriculum](/year-5-curriculum)
 	[Year 6 Curriculum](/year-6-curriculum)
 </div>
+
+[1]: https://drive.google.com/open?id=0B76W__U5CTntazB2SDNKYnlldHM
+[2]: https://drive.google.com/open?id=0B76W__U5CTntd25PZjBiTGpCcTA
+
+[5]: https://drive.google.com/open?id=0B76W__U5CTntQXZ5TU5fMEFYd2c

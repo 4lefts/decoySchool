@@ -6,7 +6,6 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 15/07/2016 | Foundation Coffee Morning - 0915 start in Community Room |
 | 19/07/2016 | Pupils spending time in New Classes |
 | 19/07/2016 | Open Evening - 1530 - 1700 |
 | 19/07/2016 | Year 6 Leavers' Presentation - 1700 start |
