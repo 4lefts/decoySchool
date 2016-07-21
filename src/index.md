@@ -6,11 +6,14 @@ permalink: false
 ## Safeguarding Statement
 We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B0102cki14zKRkltU20zWi1IbU0/view?usp=sharing).
 
+## An extra special message to our Year 6 Leavers...
+<iframe src="https://player.vimeo.com/video/175673394" width="540" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Play Worker Vacancy
 We currently have a Play Worker vacancy to start in September 2016 - for more information please click [here][1] and scroll down.
 
 <div class="infoButtons">
-[Link to Statutory Info](/information)
+[Link to Statutory Information](/information)
 </div>
 
 <img src="/images/govs/gilloneill.jpg" class="goPic"alt="Mrs Gill O'Neill, Headteacher">

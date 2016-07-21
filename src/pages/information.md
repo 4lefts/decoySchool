@@ -67,7 +67,7 @@ Below are four companies that all produce our uniform at excellent prices; all i
 ## Job Vacancies
 
 ##### 19th July 2016
-There is currently a Play Worker Vacancy within our After School Club team - to start in September 2016. The closing date has now been extended until Friday 26th August 2016. More information available from <a href="mailto:oprouse@decoyschool.co.uk">oprouse@decoyschool.co.uk</a> Thank you for your interest in Decoy Community Primary School.
+There is currently a Play Worker Vacancy within our After School Club team - to start in September 2016. The closing date has now been extended until Friday 2nd September 2016, with interviews being held on Thursday 8th September. More information available from <a href="mailto:oprouse@decoyschool.co.uk">oprouse@decoyschool.co.uk</a> Thank you for your interest in Decoy Community Primary School.
 For more information please click [here][20], or go directly to Devon Jobs clicking [here][21]
 
 [1]: http://www.legislation.gov.uk/uksi/2012/1124/made
