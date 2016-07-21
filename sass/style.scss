@@ -174,14 +174,14 @@ header{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-image: url(/images/banners/banner6.jpg);
+	background-image: url(/images/banners/banner.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 		-moz-background-size: cover;
 			-o-background-size: cover;
 				background-size: cover;
 	background-position: top center;
-	// background-attachment: fixed;
+	// background-attachment: fixed; //removed - doesn't work on iOS???
 	padding: 0;
 	margin: 0;
 	&:before{
