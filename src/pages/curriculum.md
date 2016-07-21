@@ -39,7 +39,7 @@ Please use these links to find detailed information about the curriculum for eac
 	[Year 1 Curriculum](/year-1-curriculum)
 	[Year 2 Curriculum][4]
 	[Year 3 Curriculum][5]
-	[Year 4 Curriculum](/year-4-curriculum)
+	[Year 4 Curriculum][6]
 	[Year 5 Curriculum](/year-5-curriculum)
 	[Year 6 Curriculum](/year-6-curriculum)
 </div>
@@ -48,3 +48,4 @@ Please use these links to find detailed information about the curriculum for eac
 [2]: https://drive.google.com/open?id=0B76W__U5CTntd25PZjBiTGpCcTA
 [4]: https://drive.google.com/open?id=0B76W__U5CTntbHNaeHQ2TGd2SGc
 [5]: https://drive.google.com/open?id=0B76W__U5CTntQXZ5TU5fMEFYd2c
+[6]: https://drive.google.com/open?id=0B76W__U5CTntUnh0TUJIVkRhMWM
