@@ -6,7 +6,12 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| **05/09/2016** | **First Day of Autumn Term** |
+| 24/10/2016 | Half Term |
+| 31/10/2016 | Back to School |
+| 16/12/2016 | Last Day of Autumn Term |
+| 04/01/2017 | First Day of Spring Term |
+
+More dates coming soon...
 
 ## Family Thrive Information Coming Soon - September 2016##
 

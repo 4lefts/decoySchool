@@ -19,11 +19,11 @@ Mr R. Scott
 
 ## Year 6 Teachers
 
-Mrs R. Hughes, Mrs R. Mangham
+Mrs R. Hughes, Miss J. Fearon
 
 ## Year 5 Teachers
 
-Miss J. Fearon, Miss J. Walker
+Mrs R. Mangham, Miss J. Walker
 
 ## Year 4 Teachers
 
@@ -39,15 +39,15 @@ Mr S. Ball, Mr R. Clutterbuck
 
 ## Year 1 Teachers
 
-Miss E. Steer, Miss H. Thomsett
+Miss L. Bristow, Miss H. Thomsett
 
 ## Reception Teachers
 
-Mrs G. Quantrell, Miss L. Bristow
+Mrs G. Quantrell, Mrs H. Cammack
 
 ## Nursery Teacher
 
-Mrs H. Cammack
+Miss E. Steer
 
 ## P.E. Specialist Teacher
 
