@@ -13,7 +13,6 @@ We take safeguarding seriously at Decoy Community Primary School. If you visit o
 <img src="/images/govs/gilloneill.jpg" class="goPic"alt="Mrs Gill O'Neill, Headteacher">
 At Decoy we aim to support all children to achieve their full potential, in learning and in life. Our team of dedicated teachers and teaching assistants, work together to ensure that all children make great progress.  We are committed to providing a happy, well disciplined, nurturing environment, where children can thrive. 
 
-
 Our Values are:
 ** ‘Have a Go’, ‘Make the Right Choices’, ‘Do your Best’, ‘Think of Others’. **
 
