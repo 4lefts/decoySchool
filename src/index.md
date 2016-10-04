@@ -4,7 +4,9 @@ layout: page.jade
 permalink: false
 ---
 ## Safeguarding Statement
-We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B0102cki14zKRkltU20zWi1IbU0/view?usp=sharing).
+We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B76W__U5CTntQlhvaDJNLS1tYjg/view?usp=sharing).
+
+If you would like more information about any aspect of safeguarding, please click [here][2]
 
 <div class="infoButtons">
 [Link to Statutory Information](/information)
@@ -30,3 +32,4 @@ Headteacher
 To view our Prospectus please click [here](https://drive.google.com/open?id=0B76W__U5CTntaFhPYlhjYnRiQ2s).
 
 [1]: /information 
+[2]: http://www.devonsafeguardingchildren.org/

@@ -8,6 +8,7 @@ order: 6
 |----------|---------------|
 | 26/09/2016 | Year 5 Residential to Heatree |
 | 30/09/2016 | MacMillan Coffee Morning |
+| 06/10/2016 | **School Photographer in for Individual Photos** |
 | 07/10/2016 | Foundation Coffee Morning |
 | 11/10/2016 | Reception Classes - Nursery Rhyme Dress up Day |
 | 17/10/2016 | Parent Teacher Consultation Evening |
@@ -29,19 +30,52 @@ order: 6
 
 More dates coming soon...
 
-## Family Thrive Information Coming Soon - September 2016##
+## Family Thrive Information - September 2016##
 
-This September we will be running our fifth Family Thrive course where parents can learn about the amazing growth of their child’s brain through childhood and help support their emotional development. The sessions will be on Wednesday afternoons (1:15pm - 3:15pm). Please see Mrs Stables for more information or register your interest with Donna in the office.
+This term's Family Thrive course kicked off last week! We will be running another one in January and you can register interest at the Office.
+
+This September we will be running our fifth Family Thrive course where parents can learn about the amazing growth of their child’s brain through childhood and help support their emotional development. The sessions will be on Wednesday afternoons (1:15pm - 3:15pm).
+
 For more information on our Family Thrive courses please click [here][1]
 
 
-## Cake Sale Rota, Autumn Term
+## Cake Sale Rota, 2016 - 2017 Academic Year
 
-| **Date** | **Class** |
-|----------|-----------|
-| Friday ** | ** |
-| Friday ** | ** |
-| Friday ** | ** |
+| **Date** | **Class** | **Amount Raised** |
+|----------|-----------|-------------------|
+| Friday 23rd Sept | Falcons | **£ . ** |
+| Friday 7th Oct | Eagles | **£ . ** |
+| Friday 14th Oct | Owls | **£ .  ** |
+| Friday 21st Oct | Kestrels | **£ .  ** |
+| Friday 4th Nov | Mallards | **£ .  ** |
+| Friday 11th Nov | Kingfishers | **£ .  ** |
+| Friday 25th Nov | Puffins | **£ .  ** |
+| Friday 2nd Dec | **All Bake for Christmas Bazaar!** | **£ .  ** |
+| Friday 9th Dec | Swans | **£ .  ** |
+| **2017** | **2017** | **2017** |
+| Friday 6th Jan | Chaffinches | **£ .  ** |
+| Friday 13th Jan | Partridges | **£ .  ** |
+| Friday 20th Jan | Wrens | **£ .  ** |
+| Friday 27th Jan | Woodpeckers | **£ .  ** |
+| Friday 3rd Feb | Dragonflies | **£ .  ** |
+| Friday 10th Feb | Ladybirds | **£ .  ** |
+| Friday 24th Feb | Falcons | **£ .  ** |
+| Friday 3rd Mar | Eagles | **£ .  ** |
+| Friday 10th Mar | Owls | **£ .  ** |
+| Friday 17th Mar | **The Great Decoy Bake Off** | **£ .  ** |
+| Friday 21st Apr | Kestrels | **£ .  ** |
+| Friday 28th Apr | Mallards | **£ .  ** |
+| Friday 5th May | Kingfishers | **£ .  ** |
+| Friday 12th May | Puffins | **£ .  ** |
+| Friday 19th May | Swans | **£ .  ** |
+| Friday 26th May | Chaffinches | **£ .  ** |
+| Friday 9th Jun | **All Bake for Summer Fete** | **£ .  ** |
+| Friday 16th Jun | Partridges | **£ .  ** |
+| Friday 23rd Jun | Wrens | **£ .  ** |
+| Friday 30th Jun | Woodpeckers | **£ .  ** |
+| Friday 7th Jul | Dragonflies | **£ .  ** |
+| Friday 14th Jul | Ladybirds | **£ .  ** |
+| | Total Raised so far... | **£ .  ** |
 
 Please list all ingredients where possible - We are a **nut free school** due to children with severe allergies
 

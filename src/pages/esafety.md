@@ -1,6 +1,6 @@
 ---
-title: E-Safety Information
-menuLabel: E-Safety
+title: Safety Information
+menuLabel: Safety
 layout: page.jade
 order: 5
 ---

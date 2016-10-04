@@ -3,6 +3,7 @@ const 	gulp = require('gulp'),
 		sass = require('gulp-sass'),
 		prefix = require('gulp-autoprefixer'),
 		//to delete build directory
+		fs = require('fs'),
 		del = require('del'), 
 		// babel = require('gulp-babel'),
 		// metalsmith and plugins
@@ -24,11 +25,16 @@ function errorLog(error){
 	console.error(error.message)
 }
 
-gulp.task('clean', function(){
-	return del('build/**')
-})
+//not using - i'm pretty sure metalsmith automatically
+// gulp.task('clean', function(){
+// 	fs.lstat('build', function(err, stats){
+// 		if(err) throw err
+// 	// return del('build/**')
+// 		console.log('hello' + stats)
+// 	})
+// })
 
-gulp.task('metalsmith', ['clean'], function(){
+gulp.task('metalsmith', function(){
 	return gulp.src('src/**')
 		.pipe(metalsmith({
 			metadata: {
@@ -102,8 +108,8 @@ gulp.task('refresh', ['metalsmith'], function(){
 })
 
 gulp.task('watch', function(){
-	gulp.watch('src/**', ['refresh'])
-	gulp.watch('sass/**/*', ['buildStyles'])
+	gulp.watch('src/**', ['buildStyles', 'refresh'])
+	gulp.watch('sass/**/*', ['buildStyles', 'refresh'])
 	// gulp.watch('es6/**/*.js', ['transpileEs6'])
 })
 

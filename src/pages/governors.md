@@ -10,4 +10,8 @@ order: 8
 
 Details of the make-up of our governing body can be found [here][1].
 
-[1]: https://drive.google.com/file/d/0B0102cki14zKNzBhaWo4dDdzV1U/view?usp=sharing
+All Governors can be contacted through the Clerk to Governors;
+
+Mr Peter Osborne - <a href="mailto:posborne@decoyschool.co.uk">posborne@decoyschool.co.uk</a>
+
+[1]: https://drive.google.com/file/d/0B76W__U5CTntMklxX1RDT3lNQTg/view?usp=sharing

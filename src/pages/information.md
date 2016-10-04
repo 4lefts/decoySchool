@@ -53,7 +53,16 @@ The following statutory information is found on this site.  A hyperlink will tak
 
 Our school lunches are provided by [ISS Education][18], who specialise in school meals catering. You can purchase your dinner tickets online at any time via [ParentMail2][19].
 
+To view our school menu please click [here][21].
+
+If you are having trouble purchasing school dinner tickets please contact us - <a href='tel:+441626353282'>01626 353 282</a> or email us at <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
+
 ## School Uniform
+
+|  |**Winter Uniform**  | **Summer Uniform** | **PE Lessons** |
+|--|--------------------|--------------------|----------------|
+| **Girls** | Grey skirt, grey pinafore or grey trousers. White blouse or white polo shirt. School Sweatshirt. White socks. Sensible black shoes. | As winter / or Green gingham dress. Plain sandals. | White or black PE shorts. White or green polo shirt. Plain black leotard. Plimsoles or trainers. Tracksuit or jogging bottoms. |
+| **Boys** | Grey trousers. White shirt or white polo shirt. School sweatshirt. Grey socks. Sensible black shoes. | As winter / or Grey shorts. Plain sandals. | White or black PE shorts. White or green polo shirt. Plimsoles or trainers. Tracksuit or jogging bottoms. |
 
 Below are four companies that all produce our uniform at excellent prices; all items have been viewed and are of great quality. Which one you use is up to you!
 
@@ -66,7 +75,7 @@ Below are four companies that all produce our uniform at excellent prices; all i
 
 ## Job Vacancies
 
-##### 19th July 2016
+##### Correct as of 4th October 2016
 There are currently no vacancies.</a> Thank you for your interest in Decoy Community Primary School.
 For more information please click [here][20]
 
@@ -90,3 +99,4 @@ For more information please click [here][20]
 [18]: http://www.uk.issworld.com/en-GB/news/news/2012/08/09/Iss-serve-delectable-dinners-at-devon-schools
 [19]: https://www.parentmail2.co.uk
 [20]: https://drive.google.com/open?id=0B76W__U5CTntRXhnb2VNZ0c4bVk
+[21]: https://drive.google.com/file/d/0B76W__U5CTntc2FaLXdYOEFzOFE/view?usp=sharing
