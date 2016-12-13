@@ -174,7 +174,7 @@ header{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-image: url(/images/banners/banner.jpg);
+	background-image: url(/images/banners/banner01.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -191,7 +191,7 @@ header{
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.2) 20%, rgba(0, 0, 0, 0.7))
+		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.6))
 	}
 }
 
@@ -399,6 +399,10 @@ footer{
 
 @media screen and (min-width: 680px){
 
+	#bannerBox{
+		height: 80vh;
+	}
+
 	section.main{
 		max-width: 60%;
 		float: left;
@@ -442,9 +446,6 @@ footer{
 		}
 	}
 
-	#bannerBox{
-		height: 65vh;
-	}
 
 	#content{
 		h1{
