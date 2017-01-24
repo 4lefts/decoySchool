@@ -30,13 +30,26 @@ The table below summarises the main changes in the core subjects.
 
 In order to prepare pupils for the more ambitious end of year expectations in English, Mathematics and Science, as set out in the new curriculum, teachers at Decoy have amended their delivery of the programmes of study detailed above as appropriate. New programmes of study for English and Mathematics have been adopted in full from September 2014, in line with guidance from the Department of Education and our creative curriculum has been fully updated to account for these changes. New maths resources are being invested in, and a new English programme has been adopted from September to take account of these changes.
 
+## Phonics and Reading Schemes
+
+We use a variety of resources to support our youngest children to develop thier phonic and early reading skills.
+
+These include:
+**Jolly Phonics, Letters & Sounds, Big Cat Phonic Books, Ruth Miskin Phonic Books, Songbirds Phonic Readers** and **Dandelion Readers.**
+
+We use a wide variety of reading schemes but make sure that the first books we introduce to the children are phonically decodable.
+
+
 ## <a name="down"></a>Year Group Curriculum
 Please use these links to find detailed information about the curriculum for each year group.
+
+Have a look at our school prospectus, or talk to class teachers if you would like more information about our curriculum. 
+If you would like a flavour of some of the rich learning experiences at Decoy School, please go to our Twitter feed; which can be accessed from the front page of our website.
 
 <div class="cf infoButtons">
 	[Nursery Curriculum][1]
 	[Reception Curriculum][2]
-	[Year 1 Curriculum](/year-1-curriculum)
+	[Year 1 Curriculum][3]
 	[Year 2 Curriculum][4]
 	[Year 3 Curriculum][5]
 	[Year 4 Curriculum][6]
@@ -46,9 +59,10 @@ Please use these links to find detailed information about the curriculum for eac
 
 [1]: https://drive.google.com/open?id=0B76W__U5CTntazB2SDNKYnlldHM
 [2]: https://drive.google.com/open?id=0B76W__U5CTntd25PZjBiTGpCcTA
-[4]: https://drive.google.com/open?id=0B76W__U5CTntbHNaeHQ2TGd2SGc
-[5]: https://drive.google.com/open?id=0B76W__U5CTntQXZ5TU5fMEFYd2c
-[6]: https://drive.google.com/open?id=0B76W__U5CTntUnh0TUJIVkRhMWM
-[7]: https://drive.google.com/open?id=0B76W__U5CTntNlVZcnoyNDd4cmc
-[8]: https://drive.google.com/open?id=0B76W__U5CTntbHY4d3VRNmlDbm8
+[3]: https://drive.google.com/file/d/0B76W__U5CTntVmMxUHNIcUlBSG8/view?usp=sharing
+[4]: https://drive.google.com/file/d/0B76W__U5CTntZ1ZpRktrNFpubVE/view?usp=sharing
+[5]: https://drive.google.com/file/d/0B76W__U5CTntYUJGSmhXcUtic28/view?usp=sharing
+[6]: https://drive.google.com/file/d/0B76W__U5CTntWHI2cERnOV9VUkE/view?usp=sharing
+[7]: https://drive.google.com/file/d/0B76W__U5CTntRkMtX3RyZDRjSlk/view?usp=sharing
+[8]: https://drive.google.com/file/d/0B76W__U5CTntcnBSVzd6ZV9VWE0/view?usp=sharing
 

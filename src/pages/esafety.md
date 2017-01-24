@@ -4,9 +4,20 @@ menuLabel: Safety
 layout: page.jade
 order: 5
 ---
+## Digital Parenting Booklet 2016
+Keeping children safe online is a priority here at Decoy School. For the latest Digital Parenting Magazine from Vodafone please click [here][1].
+
+## Bullying Resources
+If you feel your child is being bullied, or bullying another child, please take a look at the guides below.
+
+<div class="cf infoButtons">
+	[Say No to Bullying - A guide for Pupils](https://issuu.com/dcpsmedia/docs/bullying_book_-_pupils_2013)
+	[Say No to Bullying - A guide for Parents](https://issuu.com/dcpsmedia/docs/bullying_book_-_parents_2013)
+	[Say No to Bullying - A guide for Staff](https://issuu.com/dcpsmedia/docs/bullying_book_-_staff_2013)
+</div>
 
 ## Parent Resources
-The following websites are recommended by the <a href="http://swgfl.org" target="_blank">South West Grid for Learning</a> to support parents to keep their children safe online.
+The following websites are recommended by the <a href="http://swgfl.org.uk" target="_blank">South West Grid for Learning</a> to support parents to keep their children safe online.
 
 <div class="cf infoButtons">
 	[Internet Matters](http://www.internetmatters.org/)
@@ -39,3 +50,5 @@ The following websites are recommended by the South West Grid for Learning to he
 	[Lee and Kim](http://www.thinkuknow.co.uk/5_7/LeeandKim/)
 	[Think U Know](https://www.thinkuknow.co.uk/)
 </div>
+
+[1]: https://drive.google.com/file/d/0B76W__U5CTntMlUxTXBQQnBhYlk/view?usp=sharing

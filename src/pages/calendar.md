@@ -6,35 +6,32 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 26/09/2016 | Year 5 Residential to Heatree |
-| 30/09/2016 | MacMillan Coffee Morning |
-| 06/10/2016 | **School Photographer in for Individual Photos** |
-| 07/10/2016 | Foundation Coffee Morning |
-| 11/10/2016 | Reception Classes - Nursery Rhyme Dress up Day |
-| 17/10/2016 | Parent Teacher Consultation Evening |
-| 18/10/2016 | Parent Teacher Consultation Evening |
-| 20/10/2016 | Harvest Festivals |
-| 21/10/2016 | Last day of Half Term |
-| 24/10/2016 | **Half Term Holiday** |
-| 31/10/2016 | Back to School |
-| 03/11/2016 | Reception Classes - Wellie Walk |
-| 11/11/2016 | Foundation Coffee Morning |
-| 22/11/2016 | Reception Classes - Super Hero Day |
-| 09/12/2016 | Foundation Coffee Morning |
-| 13/12/2016 | Reception Class Christmas Play - 2:15pm |
-| 14/12/2016 | Reception Class Christmas Play - 9:30am |
-| 14/12/2016 | Reception Christmas Party - PM |
-| 15/12/2016 | Foundation "Dogsworthy Puppet Show" |
-| 16/12/2016 | Last Day of Autumn Term |
-| 04/01/2017 | **First Day of Spring Term** |
+| **04/01/2017** | **First Day of Spring Term** |
+| 05/01/2017 | Year 3 Swimming begins - 6 weeks |
+| 12/01/2017 | KS1 Premier Sports Multi-Sports Club begins - 5 weeks |
+| 12/01/2017 | Year 5 Maths Primary Liaison Workshops - Alternate Thursdays 5 weeks |
+| 17/01/2017 | Foundation Night Walk - 6:00pm |
+| 17/01/2017 | Year 4 Netball Club restarts |
+| 24/01/2017 | Reception trip to Living Coasts |
+| 26/01/2017 | Foundation Parents' Meeting (Reading, Writing & Phonics) 6:00pm |
+| 27/01/2017 | Foundation Coffee Morning - 9:00am |
+| 27/01/2017 | PTA Curry & Quiz Night - Details to follow |
+| 06/02/2017 | Parent / Teacher Consultation Evening |
+| 07/02/2017 | Parent / Teacher Consultation Evening |
+| 07/02/2017 | Year 3 Time Travellers |
+| 07/02/2017 | Safer Internet Day
+| 23/02/2017 | Year 4 Swimming begins - 6 weeks |
+| 10/03/2017 | Decoy's Got Talent |
+| 23/03/2017 | Year 2 Trip to Paignton Zoo |
+| 24/03/2017 | Easter Fayre & Great Decoy Bake Off |
+| 22/05/2017 | Full School Photograph - Details to follow in Summer Term |
+
 
 More dates coming soon...
 
-## Family Thrive Information - September 2016##
+## Family Thrive Information - December 2016##
 
-This term's Family Thrive course kicked off last week! We will be running another one in January and you can register interest at the Office.
-
-This September we will be running our fifth Family Thrive course where parents can learn about the amazing growth of their child’s brain through childhood and help support their emotional development. The sessions will be on Wednesday afternoons (1:15pm - 3:15pm).
+This January we will be running our sixth Family Thrive course where parents can learn about the amazing growth of their child’s brain through childhood and ways to support their emotional development. Please see Mrs Stables for more information.
 
 For more information on our Family Thrive courses please click [here][1]
 
@@ -43,19 +40,19 @@ For more information on our Family Thrive courses please click [here][1]
 
 | **Date** | **Class** | **Amount Raised** |
 |----------|-----------|-------------------|
-| Friday 23rd Sept | Falcons | **£ . ** |
-| Friday 7th Oct | Eagles | **£ . ** |
-| Friday 14th Oct | Owls | **£ .  ** |
-| Friday 21st Oct | Kestrels | **£ .  ** |
-| Friday 4th Nov | Mallards | **£ .  ** |
-| Friday 11th Nov | Kingfishers | **£ .  ** |
-| Friday 25th Nov | Puffins | **£ .  ** |
-| Friday 2nd Dec | **All Bake for Christmas Bazaar!** | **£ .  ** |
-| Friday 9th Dec | Swans | **£ .  ** |
+| Friday 23rd Sept | Falcons - No helpers | **£0.00** |
+| Friday 7th Oct | Eagles | **£22.10** |
+| Friday 14th Oct | Owls | **£61.40** |
+| Friday 21st Oct | Kestrels | **£37.70** |
+| Friday 4th Nov | Mallards | **£22.80** |
+| Friday 11th Nov | Kingfishers | **£47.85** |
+| Friday 25th Nov | Puffins | **£58.40** |
+| Friday 2nd Dec |**Christmas Bazaar!**| **£1685.80** |
+| Friday 9th Dec | Swans | **£51.15** |
 | **2017** | **2017** | **2017** |
-| Friday 6th Jan | Chaffinches | **£ .  ** |
-| Friday 13th Jan | Partridges | **£ .  ** |
-| Friday 20th Jan | Wrens | **£ .  ** |
+| Friday 6th Jan | Chaffinches | **£29.50** |
+| Friday 13th Jan | Partridges - No helpers | **£0.00** |
+| Friday 20th Jan | Wrens | **£55.97** |
 | Friday 27th Jan | Woodpeckers | **£ .  ** |
 | Friday 3rd Feb | Dragonflies | **£ .  ** |
 | Friday 10th Feb | Ladybirds | **£ .  ** |
@@ -80,3 +77,4 @@ For more information on our Family Thrive courses please click [here][1]
 Please list all ingredients where possible - We are a **nut free school** due to children with severe allergies
 
 [1]: https://drive.google.com/folderview?id=0B76W__U5CTntM0gxcHpCaG5tazg&usp=sharing
+[2]: https://mydonate.bt.com/fundraisers/decoyprimaryschool

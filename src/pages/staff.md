@@ -17,6 +17,10 @@ Mr S. Bone
 
 Mr R. Scott
 
+## Pupil Premium Champion
+
+Mrs V. Stables
+
 ## Year 6 Teachers
 
 Mrs R. Hughes, Miss J. Fearon

@@ -17,16 +17,22 @@ The following statutory information is found on this site.  A hyperlink will tak
 | **Information** | **Location on our site** |
 |-----------------|--------------------------|
 | **Contact Details** | On our [Contact][2]. |
-| **Admission Arrangements** | On our [Admissions page][3]. Please also see the pages for [First Steps Nursery][4] and our [Breakfast & After School Club][5] |
+| **Admission Arrangements** | On our [Admissions page][3]. Please also see the pages for [First Steps Nursery][4] and our [Breakfast & After School Club][5]. |
+| **Accessibility Plan** | For our 2016 - 2019 Accessibility Plan please click [here][28]. |
 | **Ofsted Report** | Our most recent reports can be found [here][6]. |
-| **Key Stage 2 results** | These can be found [here][7]. |
+| **Ofsted: A Guide for Parents** | A leaflet for parents & carers of children whose school is due for inspection can be found [here][25]. |
+| **2016 Assessments** | These can be found [here][7]. |
 | **School Performance Tables** | Our online performance tables can be viewed [here][8]. |
 | **Behaviour Policy** | Can be found on our [policies page][9]. |
-| **Pupil Premium Allocation** | Can be found [here][10].
-| **Sports Premium Allocation** | Can be found [here][11]. |
+| **Child Protection Policy** | Can be found [here][26]. |
+| **Complaints Procedure** | Can be found here [policies page][22]. |
+| **Pupil Premium Policy & Strategy** | Can be found [here][10]. |
+| **Sports Grant** | Can be found [here][11]. |
 | **SEND Policy** | Can be found on our [policies page][9]. |
 | **SEND Report** | Can be found [here][12]. |
+| **SEND Local Offer** | Devon's Local Offer for SEND can be found [here][24]. |
 | **Charging and Remissions Policy** | Can be found on our [policies page][9]. |
+| **Privacy Notice** | Can be found [here][23]. |
 | **The School's Ethos and Values** | On our [Values page][13]. |
 | **Our Curriculum** | On our [Curriculum page][14]. Please scroll down for links to details of curricula followed by [individual year groups][15]. |
 | **Governors Details** | Can be found [here][16]. |
@@ -49,11 +55,20 @@ The following statutory information is found on this site.  A hyperlink will tak
 
 </div>
 
+## Job Vacancies
+
+## Headteacher Vacancy - Autumn 2017
+The staff, children and governors of Decoy Community Primary School are looking for an enthusiastic and committed experienced Deputy, Head of School, or existing Headteacher to further their career and take the next step in leading our school from Good to Outstanding. For more information please click [here][20] </a> 
+
+Thank you for your interest in Decoy Community Primary School.
+
 ## School Meals
 
 Our school lunches are provided by [ISS Education][18], who specialise in school meals catering. You can purchase your dinner tickets online at any time via [ParentMail2][19].
 
 To view our school menu please click [here][21].
+
+To view our school packed lunch menu please click [here][27].
 
 If you are having trouble purchasing school dinner tickets please contact us - <a href='tel:+441626353282'>01626 353 282</a> or email us at <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
 
@@ -69,15 +84,10 @@ Below are four companies that all produce our uniform at excellent prices; all i
 <div class="contentPics">
 	<a href="http://www.clothingattesco.com/icat/embschoolwear" target="_blank"><img src="../images/uniform/fflogo.jpg" alt="F and F uniform"></a>
 	<a href="https://shop.price-buckland.co.uk/decoy" target="_blank"><img src="../images/uniform/priceAndBuckland.jpg" alt="Price and Buckland uniform"></a>
-	<a href="http://pmgschoolwear.co.uk/" target="_blank"><img src="../images/uniform/PMG.jpg" alt="PMG schoolwear"></a>
+	<a href="http://pmgschoolwear.co.uk/" target="_blank"><img src="../images/uniform/pmg.jpg" alt="PMG schoolwear"></a>
 	<a href="http://www.schooltrends.co.uk/" target="_blank"><img src="../images/uniform/schoolTrends.jpg" alt="School Trends uniform"></a>
 </div>
 
-## Job Vacancies
-
-##### Correct as of 4th October 2016
-There are currently no vacancies.</a> Thank you for your interest in Decoy Community Primary School.
-For more information please click [here][20]
 
 [1]: http://www.legislation.gov.uk/uksi/2012/1124/made
 [2]: /contact-us
@@ -85,7 +95,7 @@ For more information please click [here][20]
 [4]: /first-steps-nursery
 [5]: /extended-schools-admissions
 [6]: http://www.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/113209
-[7]: #
+[7]: https://drive.google.com/file/d/0B76W__U5CTntWjZNVXdLTjlmSG8/view?usp=sharing
 [8]: https://www.compare-school-performance.service.gov.uk/school/113209
 [9]: https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing
 [10]: https://drive.google.com/open?id=0B0102cki14zKcHBaRHRoR25UbjA
@@ -94,9 +104,16 @@ For more information please click [here][20]
 [13]: /our-values
 [14]: /curriculum
 [15]: /curriculum/#down
-[16]: https://drive.google.com/a/decoyschool.co.uk/file/d/0B0102cki14zKNzBhaWo4dDdzV1U/view?usp=sharing
+[16]: https://drive.google.com/file/d/0B76W__U5CTntMklxX1RDT3lNQTg/view?usp=sharing
 [17]: https://drive.google.com/open?id=0B0102cki14zKM1V0bDRJZVFyRmM
 [18]: http://www.uk.issworld.com/en-GB/news/news/2012/08/09/Iss-serve-delectable-dinners-at-devon-schools
 [19]: https://www.parentmail2.co.uk
-[20]: https://drive.google.com/open?id=0B76W__U5CTntRXhnb2VNZ0c4bVk
-[21]: https://drive.google.com/file/d/0B76W__U5CTntc2FaLXdYOEFzOFE/view?usp=sharing
+[20]: https://www.devonjobs.gov.uk/school-leadership-school-posts-headteacher-decoy-community-primary-school/54523.job
+[21]: https://drive.google.com/file/d/0B76W__U5CTntRVo1eXkzNkczRkU/view?usp=sharing
+[22]: https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing
+[23]: https://drive.google.com/drive/folders/0B0102cki14zKbEFTUHJ4RlF4eTA?usp=sharing
+[24]: https://new.devon.gov.uk/educationandfamilies/special-educational-needs-and-disability-send-local-offer
+[25]: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
+[26]: https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing
+[27]: https://drive.google.com/file/d/0B76W__U5CTntNGJvZnhCcXVLems/view?usp=sharing
+[28]: https://drive.google.com/file/d/0B76W__U5CTntdFdLRWlzaHJIWEU/view?usp=sharing
