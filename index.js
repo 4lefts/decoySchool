@@ -2,6 +2,9 @@
 - sass workflow -> sass --watch sass/style.scss:src/styles/style.css from project folder
 */
 
+// this is the old build script - use for REFERENCE ONLY
+// the site itself is built from gulp
+
 //if argument to script is not production this variable = false
 var devBuild = (process.argv[2] || '').trim().toLowerCase() !== 'production'
 

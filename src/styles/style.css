@@ -106,7 +106,6 @@ header nav ul li a {
   text-align: right;
   text-decoration: none;
   color: #ffffff;
-  -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
 
@@ -131,7 +130,6 @@ header .show_menu {
   line-height: 40px;
   color: white;
   background-color: #008000;
-  -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
 
@@ -150,71 +148,105 @@ header input[type=checkbox]:checked ~ #menu {
 #bannerBox {
   box-sizing: border-box;
   position: relative;
-  height: 50vh;
+  overflow: hidden;
   text-align: center;
-  display: -webkit-box;
-  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;
-  /* TWEENER - IE 10 */
-  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;
-  /* Safari 6.1+ */
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  /* Safari 6.1+ */
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-flex-align: center;
-  -ms-flex-align: center;
-  -webkit-box-align: center;
-          align-items: center;
+  max-height: 80vh;
 }
 
-#banner {
-  box-sizing: border-box;
+#bannerBox figure {
+  position: relative;
+  width: 700%;
+  margin: 0;
+  left: 0;
+  text-align: 0;
+  font-size: 0;
+  animation: 30s slide infinite;
+}
+
+#bannerBox figure img {
+  width: 14.2857142857%;
+  float: left;
+}
+
+#bannerBox #bannerTitleContainer {
   position: absolute;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
   width: 100%;
   height: 100%;
-  top: 0;
-  left: 0;
-  background-image: url(/images/banners/banner01.JPG);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top center;
-  padding: 0;
-  margin: 0;
+  box-sizing: border-box;
 }
 
-#banner:before {
+#bannerBox #bannerTitleContainer:before {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: -webkit-radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.6));
   background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.6));
 }
 
-#homeTitle {
-  z-index: 10;
-  box-sizing: border-box;
-  max-width: 960px;
+#bannerBox #bannerTitleContainer #bannerTitle {
+  z-index: 20;
   font-size: 12vmin;
   color: #ffffff;
 }
 
-#homeTitle span.med {
+#bannerBox #bannerTitleContainer #bannerTitle span.med {
   font-size: 8vmin;
   font-family: 'Shadows Into Light Two', sans-serif;
 }
 
-#homeTitle span.big {
+#bannerBox #bannerTitleContainer #bannerTitle span.big {
   font-size: 14vmin;
   font-family: 'Shadows Into Light Two', sans-serif;
+}
+
+@keyframes slide {
+  0% {
+    left: 0%;
+  }
+  14.6666666667% {
+    left: 0%;
+  }
+  16.6666666667% {
+    left: -100%;
+  }
+  31.3333333333% {
+    left: -100%;
+  }
+  33.3333333333% {
+    left: -200%;
+  }
+  48% {
+    left: -200%;
+  }
+  50% {
+    left: -300%;
+  }
+  64.6666666667% {
+    left: -300%;
+  }
+  66.6666666667% {
+    left: -400%;
+  }
+  81.3333333333% {
+    left: -400%;
+  }
+  83.3333333333% {
+    left: -500%;
+  }
+  98% {
+    left: -500%;
+  }
+  100% {
+    left: -600%;
+  }
 }
 
 #content {
@@ -296,7 +328,6 @@ header input[type=checkbox]:checked ~ #menu {
   background-color: #008000;
   border-radius: 10px;
   font-size: 1.4em;
-  -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s;
 }
 
@@ -432,9 +463,6 @@ footer {
 }
 
 @media screen and (min-width: 680px) {
-  #bannerBox {
-    height: 80vh;
-  }
   section.main {
     max-width: 60%;
     float: left;

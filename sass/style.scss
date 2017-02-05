@@ -146,69 +146,70 @@ header{
 #bannerBox{
 	box-sizing: border-box;
 	position: relative;
-	height: 50vh;
+	overflow: hidden;
 	text-align: center;
-	
-	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-	display: -moz-box;
-	display: -ms-flexbox;  /* TWEENER - IE 10 */
-	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-	display: flex;
-	
-	-webkit-flex-direction: column; /* Safari 6.1+ */
-	flex-direction: column;
-	
-	-webkit-justify-content: center; /* Safari 6.1+ */
-	justify-content: center;
-	
-	-webkit-flex-align: center;
-	-ms-flex-align: center;
-	-webkit-align-items: center;
-	align-items: center;
-}
-
-#banner{
-	box-sizing: border-box;
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	background-image: url(/images/banners/banner01.JPG);
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-		-moz-background-size: cover;
-			-o-background-size: cover;
-				background-size: cover;
-	background-position: top center;
-	// background-attachment: fixed; //removed - doesn't work on iOS???
-	padding: 0;
-	margin: 0;
-	&:before{
-		content: '';
-		position: absolute;
-		top: 0;
+	max-height: 80vh;
+	figure{
+		position: relative;
+		width: 700%;
+		margin: 0;
 		left: 0;
-		right: 0;
-		bottom: 0;
-		background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.6))
+		text-align: 0;
+		font-size: 0;
+		animation: 30s slide infinite;
+		img{
+			width: 14.2857142857%;
+			float: left;
+		}
+	}
+	#bannerTitleContainer{
+		&:before{
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-image: radial-gradient(ellipse, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.6))
+		}
+		position: absolute;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+		height: 100%;
+		box-sizing: border-box;
+		#bannerTitle{
+			z-index: 20;
+			font-size: 12vmin;
+			color: $white;
+			span.med{
+				font-size: 8vmin;
+				font-family: 'Shadows Into Light Two', sans-serif;
+			}
+			span.big{
+				font-size: 14vmin;
+				font-family: 'Shadows Into Light Two', sans-serif;
+			}
+		}
 	}
 }
 
-#homeTitle{
-	z-index: 10;
-	box-sizing: border-box;
-	max-width: 960px;
-	font-size: 12vmin;
-	color: $white;
-	span.med{
-		font-size: 8vmin;
-		font-family: 'Shadows Into Light Two', sans-serif;
-	}
-	span.big{
-		font-size: 14vmin;
-		font-family: 'Shadows Into Light Two', sans-serif;
-	}
+
+@keyframes slide{
+	0% { left: 0%; }
+	14.6666666667% { left: 0%; }
+	16.6666666667% { left: -100%; }
+	31.3333333333% { left: -100%; }
+	33.3333333333% { left: -200%; }
+	48% { left: -200%; }
+	50% { left: -300%; }
+	64.6666666667% { left: -300%; }
+	66.6666666667% { left: -400%; }
+	81.3333333333% { left: -400%; }
+	83.3333333333% { left: -500%; }
+	98% { left: -500%; }
+	100% { left: -600%; }
 }
 
 #content{
@@ -399,9 +400,6 @@ footer{
 
 @media screen and (min-width: 680px){
 
-	#bannerBox{
-		height: 80vh;
-	}
 
 	section.main{
 		max-width: 60%;
