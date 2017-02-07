@@ -10,22 +10,55 @@ order: 6
 | 05/01/2017 | Year 3 Swimming begins - 6 weeks |
 | 12/01/2017 | KS1 Premier Sports Multi-Sports Club begins - 5 weeks |
 | 12/01/2017 | Year 5 Maths Primary Liaison Workshops - Alternate Thursdays 5 weeks |
-| 17/01/2017 | Foundation Night Walk - 6:00pm |
-| 17/01/2017 | Year 4 Netball Club restarts |
-| 24/01/2017 | Reception trip to Living Coasts |
-| 26/01/2017 | Foundation Parents' Meeting (Reading, Writing & Phonics) 6:00pm |
-| 27/01/2017 | Foundation Coffee Morning - 9:00am |
-| 27/01/2017 | PTA Curry & Quiz Night - Details to follow |
-| 06/02/2017 | Parent / Teacher Consultation Evening |
 | 07/02/2017 | Parent / Teacher Consultation Evening |
+| 07/02/2017 | Nursery Parent / Teacher Consultation Evening |
 | 07/02/2017 | Year 3 Time Travellers |
-| 07/02/2017 | Safer Internet Day
+| 07/02/2017 | Safer Internet Day |
+| 08/02/2017 | Heatree Meeting for current Year 4 Parents - Kestrels Classroom |
+| **13/02/2017** | **HALF TERM WEEK** |
+| **20/02/2017** | **Back to School** |
 | 23/02/2017 | Year 4 Swimming begins - 6 weeks |
+| 27/02/2017 | Decoy's Got Talent REHEARSALS 3:30pm-4:30pm |
+| 28/02/2017 | Year 4 Trip to Paignton Zoo |
+| 28/02/2017 | Decoy's Got Talent REHEARSALS 3:30pm-4:30pm |
+| 08/03/2017 | Year 2 Sports Festival at NAC |
 | 10/03/2017 | Decoy's Got Talent |
+| 14/03/2017 | Year 5/6 Football Tournament at Blackpool Primary |
+| 16/03/2017 | Year 5/6 Netball Tournament at Blackpool Primary |
 | 23/03/2017 | Year 2 Trip to Paignton Zoo |
 | 24/03/2017 | Easter Fayre & Great Decoy Bake Off |
+| 27/03/2017 | Year 4 Musical in a Day - presentation to Parents at 3:45pm |
+| **31/03/2017** | **Last Day of Spring Term** |
+| **18/04/2017** | **First Day of Summer Term** |
+| 27/04/2017 | Year 2 Clive Pig 1660's Workshop |
+| 11/05/2017 | PTA School Discos |
 | 22/05/2017 | Full School Photograph - Details to follow in Summer Term |
+| 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
+| **29/05/2017** | **HALF TERM WEEK**|
+| 05/06/2017 | Bank Holiday - No School |
+| **06/06/2017** | **Back to School - TUESDAY** |
+| 10/06/2017 | PTA Summer Fete | 
+| 23/06/2017 | PTA Watersports & BBQ Evening |
+| 26/06/2017 | Year 6 Okehampton Residential |
+| **21/07/2017** | **Last Day of Summer Term** |
 
+## Dates for 2017
+
+| **Date** | **What's On** |
+|----------|---------------|
+| 06/09/2017 | First Day of Autumn Term |
+| 23/10/2017 | Half term Week |
+| 30/10/2017 | Back to School |
+| 15/12/2017 | Last Day of Autumn Term |
+| 04/01/2018 | First Day of Spring Term |
+| 12/02/2018 | Half Term Week |
+| 19/02/2018 | Back to School |
+| 29/03/2018 | Last Day of Spring Term |
+| 16/04/2018 | First Day of Summer Term |
+| 07/05/2018 | Bank Holiday - No School |
+| 28/05/2018 | Half Term Week |
+| 05/06/2018 | Back to School |
+| 25/07/2018 | Last Day of Summer Term |
 
 More dates coming soon...
 
@@ -53,8 +86,8 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 6th Jan | Chaffinches | **£29.50** |
 | Friday 13th Jan | Partridges - No helpers | **£0.00** |
 | Friday 20th Jan | Wrens | **£55.97** |
-| Friday 27th Jan | Woodpeckers | **£ .  ** |
-| Friday 3rd Feb | Dragonflies | **£ .  ** |
+| Friday 27th Jan | Woodpeckers | **£85.21** |
+| Friday 3rd Feb | Dragonflies | **£53.99** |
 | Friday 10th Feb | Ladybirds | **£ .  ** |
 | Friday 24th Feb | Falcons | **£ .  ** |
 | Friday 3rd Mar | Eagles | **£ .  ** |
