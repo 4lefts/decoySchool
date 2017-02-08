@@ -9,11 +9,6 @@ order: 6
 | **04/01/2017** | **First Day of Spring Term** |
 | 05/01/2017 | Year 3 Swimming begins - 6 weeks |
 | 12/01/2017 | KS1 Premier Sports Multi-Sports Club begins - 5 weeks |
-| 12/01/2017 | Year 5 Maths Primary Liaison Workshops - Alternate Thursdays 5 weeks |
-| 07/02/2017 | Parent / Teacher Consultation Evening |
-| 07/02/2017 | Nursery Parent / Teacher Consultation Evening |
-| 07/02/2017 | Year 3 Time Travellers |
-| 07/02/2017 | Safer Internet Day |
 | 08/02/2017 | Heatree Meeting for current Year 4 Parents - Kestrels Classroom |
 | **13/02/2017** | **HALF TERM WEEK** |
 | **20/02/2017** | **Back to School** |
@@ -42,7 +37,7 @@ order: 6
 | 26/06/2017 | Year 6 Okehampton Residential |
 | **21/07/2017** | **Last Day of Summer Term** |
 
-## Dates for 2017
+## Dates for Academic Year 2017 / 2018
 
 | **Date** | **What's On** |
 |----------|---------------|
