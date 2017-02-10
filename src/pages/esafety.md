@@ -4,9 +4,6 @@ menuLabel: Safety
 layout: page.jade
 order: 5
 ---
-## Digital Parenting Booklet 2016
-Keeping children safe online is a priority here at Decoy School. For the latest Digital Parenting Magazine from Vodafone please click [here][1].
-
 ## Bullying Resources
 If you feel your child is being bullied, or bullying another child, please take a look at the guides below.
 
@@ -22,7 +19,7 @@ The following websites are recommended by the <a href="http://swgfl.org.uk" targ
 <div class="cf infoButtons">
 	[Internet Matters](http://www.internetmatters.org/)
 	[Know it All for Parents](http://www.childnet.com/resources/kia/)
-	[Vodafone Digital Parenting](http://asp-gb.secure-zone.net/v2/index.jsp?id=1134/2660/5747&lng=en)
+	[Vodafone Digital Parenting](https://drive.google.com/file/d/0B76W__U5CTntMlUxTXBQQnBhYlk/view?usp=sharing)
 	[Parents' Guide to Technology](http://www.saferinternet.org.uk/advice-and-resources/parents-and-carers/parents-guide-to-technology)
 </div>
 
