@@ -6,11 +6,6 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| **04/01/2017** | **First Day of Spring Term** |
-| 05/01/2017 | Year 3 Swimming begins - 6 weeks |
-| 12/01/2017 | KS1 Premier Sports Multi-Sports Club begins - 5 weeks |
-| 08/02/2017 | Heatree Meeting for current Year 4 Parents - Kestrels Classroom |
-| **13/02/2017** | **HALF TERM WEEK** |
 | **20/02/2017** | **Back to School** |
 | 23/02/2017 | Year 4 Swimming begins - 6 weeks |
 | 27/02/2017 | Decoy's Got Talent REHEARSALS 3:30pm-4:30pm |
