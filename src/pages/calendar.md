@@ -8,10 +8,12 @@ order: 6
 |----------|---------------|
 | **20/02/2017** | **Back to School** |
 | 23/02/2017 | Year 4 Swimming begins - 6 weeks |
+| 23/02/2017 | Year 3 Cooking Club with ISS |
 | 27/02/2017 | Decoy's Got Talent REHEARSALS 3:30pm-4:30pm |
 | 28/02/2017 | Year 4 Trip to Paignton Zoo |
 | 28/02/2017 | Decoy's Got Talent REHEARSALS 3:30pm-4:30pm |
 | 08/03/2017 | Year 2 Sports Festival at NAC |
+| 08/03/2017 | Google Expeditions visit to school |
 | 10/03/2017 | Decoy's Got Talent |
 | 14/03/2017 | Year 5/6 Football Tournament at Blackpool Primary |
 | 16/03/2017 | Year 5/6 Netball Tournament at Blackpool Primary |
@@ -78,7 +80,7 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 20th Jan | Wrens | **£55.97** |
 | Friday 27th Jan | Woodpeckers | **£85.21** |
 | Friday 3rd Feb | Dragonflies | **£53.99** |
-| Friday 10th Feb | Ladybirds | **£ .  ** |
+| Friday 10th Feb | Ladybirds | **£96.20** |
 | Friday 24th Feb | Falcons | **£ .  ** |
 | Friday 3rd Mar | Eagles | **£ .  ** |
 | Friday 10th Mar | Owls | **£ .  ** |
@@ -95,7 +97,7 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 30th Jun | Woodpeckers | **£ .  ** |
 | Friday 7th Jul | Dragonflies | **£ .  ** |
 | Friday 14th Jul | Ladybirds | **£ .  ** |
-| | Total Raised so far... | **£ .  ** |
+| | Total Raised so far through Cake Stall... | **£622.27** |
 
 Please list all ingredients where possible - We are a **nut free school** due to children with severe allergies
 
