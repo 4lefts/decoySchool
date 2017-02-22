@@ -57,8 +57,7 @@ The following statutory information is found on this site.  A hyperlink will tak
 
 ## Job Vacancies
 
-## Headteacher Vacancy - Autumn 2017
-The staff, children and governors of Decoy Community Primary School are looking for an enthusiastic and committed experienced Deputy, Head of School, or existing Headteacher to further their career and take the next step in leading our school from Good to Outstanding. For more information please click [here][20] </a> 
+## There are currently no vacancies available.
 
 Thank you for your interest in Decoy Community Primary School.
 
@@ -82,7 +81,7 @@ If you are having trouble purchasing school dinner tickets please contact us - <
 Below are four companies that all produce our uniform at excellent prices; all items have been viewed and are of great quality. Which one you use is up to you!
 
 <div class="contentPics">
-	<a href="http://www.clothingattesco.com/icat/embschoolwear" target="_blank"><img src="../images/uniform/fflogo.jpg" alt="F and F uniform"></a>
+	<a href="https://www.tesco.com/direct/decoy-community-primary-school/7344.school" target="_blank"><img src="../images/uniform/fflogo.jpg" alt="F and F uniform"></a>
 	<a href="https://shop.price-buckland.co.uk/decoy" target="_blank"><img src="../images/uniform/priceAndBuckland.jpg" alt="Price and Buckland uniform"></a>
 	<a href="http://pmgschoolwear.co.uk/" target="_blank"><img src="../images/uniform/pmg.jpg" alt="PMG schoolwear"></a>
 	<a href="http://www.schooltrends.co.uk/" target="_blank"><img src="../images/uniform/schoolTrends.jpg" alt="School Trends uniform"></a>
@@ -108,7 +107,6 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [17]: https://drive.google.com/open?id=0B0102cki14zKM1V0bDRJZVFyRmM
 [18]: http://www.uk.issworld.com/en-GB/news/news/2012/08/09/Iss-serve-delectable-dinners-at-devon-schools
 [19]: https://www.parentmail2.co.uk
-[20]: https://www.devonjobs.gov.uk/school-leadership-school-posts-headteacher-decoy-community-primary-school/54523.job
 [21]: https://drive.google.com/file/d/0B76W__U5CTntRVo1eXkzNkczRkU/view?usp=sharing
 [22]: https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing
 [23]: https://drive.google.com/drive/folders/0B0102cki14zKbEFTUHJ4RlF4eTA?usp=sharing
