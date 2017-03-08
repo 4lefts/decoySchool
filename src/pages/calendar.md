@@ -14,7 +14,10 @@ order: 6
 | 16/03/2017 | Year 5/6 Netball Tournament at Blackpool Primary |
 | 23/03/2017 | Year 2 Trip to Paignton Zoo |
 | 24/03/2017 | Easter Fayre & Great Decoy Bake Off |
+| **24/03/2017** | **NON UNIFORM DAY FOR EASTER FAYRE** |
 | 27/03/2017 | Year 4 Musical in a Day - presentation to Parents at 3:45pm |
+| 31/03/2017 | Decoy's Comic Relief Day |
+| **31/03/2017** | **NON UNIFORM DAY FOR COMIC RELIEF** |
 | **31/03/2017** | **Last Day of Spring Term** |
 | **18/04/2017** | **First Day of Summer Term** |
 | 27/04/2017 | Year 2 Clive Pig 1660's Workshop |
