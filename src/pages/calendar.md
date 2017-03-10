@@ -82,7 +82,9 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 24th Feb | Falcons | **£ .  ** |
 | Friday 3rd Mar | Eagles | **£29.66** |
 | Friday 10th Mar | Owls | **£ .  ** |
-| Friday 17th Mar | **The Great Decoy Bake Off** | **£ .  ** |
+| Friday 17th Mar | No Cake Sale | **£ .  ** |
+| Friday 24th Mar | **The Great Decoy Bake Off** | **£ .  ** |
+| Friday 31st Mar | No Cake Sale | **£ .  ** |
 | Friday 21st Apr | Kestrels | **£ .  ** |
 | Friday 28th Apr | Mallards | **£ .  ** |
 | Friday 5th May | Kingfishers | **£ .  ** |

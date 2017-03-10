@@ -23,13 +23,24 @@ We very much hope this will help our busy families as this gives the option of l
 
 ## Session Times
 Morning Session: 8:55am - 11:30am
+
 Lunch Club: 11:30am - 1:00pm
+
 Afternoon Session: 1:00pm - 3:30pm
 
-## Costs
+## Academis Year 2016/2017 Costs
 Additional hours are charged half termly
+
 AM/PM Session: £8.50 each
+
 Lunch Time Session: £4.25 each
+
+## Academic Year 2017/2018 Costs
+Additional hours are charged half termly
+
+AM/PM Session: £10.00 each
+
+Lunch Time Session: £6.00 each
 
 For more information on Nursery Admissions please click [here][1].
 
