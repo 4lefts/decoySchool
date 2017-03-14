@@ -3,11 +3,6 @@ title: Inspiring Positive Futures
 layout: page.jade
 permalink: false
 ---
-## OFSTED Report
-
-Following the inspection on the 29th and 30th of November, I am pleased to present a copy of our OFSTED report. The school was graded as ‘Good’ overall, and our Early Years provision has been recognised as being ‘Outstanding’. The report shows the excellent progress made by the school since the previous inspection in 2014.
-
-For the full report please click [here][4]
 
 ## Safeguarding Statement
 We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing).

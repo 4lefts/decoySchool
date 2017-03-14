@@ -79,9 +79,9 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 27th Jan | Woodpeckers | **£85.21** |
 | Friday 3rd Feb | Dragonflies | **£53.99** |
 | Friday 10th Feb | Ladybirds | **£96.20** |
-| Friday 24th Feb | Falcons | **£ .  ** |
+| Friday 24th Feb | Falcons | **£11.80** |
 | Friday 3rd Mar | Eagles | **£29.66** |
-| Friday 10th Mar | Owls | **£ .  ** |
+| Friday 10th Mar | Owls | **£59.06** |
 | Friday 17th Mar | No Cake Sale | **£ .  ** |
 | Friday 24th Mar | **The Great Decoy Bake Off** | **£ .  ** |
 | Friday 31st Mar | No Cake Sale | **£ .  ** |
@@ -97,7 +97,7 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 30th Jun | Woodpeckers | **£ .  ** |
 | Friday 7th Jul | Dragonflies | **£ .  ** |
 | Friday 14th Jul | Ladybirds | **£ .  ** |
-| | Total Raised so far through Cake Stall... | **£651.93** |
+| | Total Raised so far through Cake Stall... | **£722.09** |
 
 Please list all ingredients where possible - We are a **nut free school** due to children with severe allergies
 
