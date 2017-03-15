@@ -6,10 +6,6 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 23/02/2017 | Year 4 Swimming begins - 6 weeks |
-| 08/03/2017 | Year 2 Sports Festival at NAC |
-| 08/03/2017 | Google Expeditions visit to school |
-| 10/03/2017 | Decoy's Got Talent |
 | 14/03/2017 | Year 5/6 Football Tournament at Blackpool Primary |
 | 16/03/2017 | Year 5/6 Netball Tournament at Blackpool Primary |
 | 23/03/2017 | Year 2 Trip to Paignton Zoo |

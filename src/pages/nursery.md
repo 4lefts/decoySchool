@@ -28,14 +28,10 @@ Lunch Club: 11:30am - 1:00pm
 
 Afternoon Session: 1:00pm - 3:30pm
 
-## Academic Year 2016/2017 Costs
-Additional hours are charged half termly
+## Sesssion Costs 
 
-AM/PM Session: £8.50 each
+(As of April 2017)
 
-Lunch Time Session: £4.25 each
-
-## Academic Year 2017/2018 Costs
 Additional hours are charged half termly
 
 AM/PM Session: £10.00 each
