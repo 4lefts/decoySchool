@@ -1,15 +1,26 @@
 aside
 	#twitterContainer
-		a(
-			class="twitter-timeline" 
-			data-chrome="transparent nofooter"
-			data-border-color="#008000"
-			data-link-color="#008000"
-			href="https://twitter.com/DecoyPri" 
-			data-widget-id="555105029754204160"
-			) Tweets by @DecoyPri
-		script.
-			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+		if path !='first-steps-nursery'
+			a(
+				class="twitter-timeline" 
+				data-chrome="transparent nofooter"
+				data-border-color="#008000"
+				data-link-color="#008000"
+				href="https://twitter.com/DecoyPri" 
+				data-height="480"
+				) Tweets by @DecoyPri
+			script(async src="//platform.twitter.com/widgets.js" charset="utf-8")
+		else
+			a(
+				class="twitter-timeline" 
+				data-chrome="transparent nofooter"
+				data-border-color="#008000"
+				data-link-color="#008000"
+				href="https://twitter.com/dcpsBUTTERFLIES"
+				data-height="480"
+				) Tweets by dcpsBUTTERFLIES
+			script(async src="//platform.twitter.com/widgets.js" charset="utf-8")
+				
 	a(href="https://pmx.parentmail.co.uk/#core/login", target="_blank")
 		img(src="/images/logos/PMlogo.png", alt="parent mail link")
 	p See letters, order school meals and pay for trips.
