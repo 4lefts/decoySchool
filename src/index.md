@@ -4,10 +4,19 @@ layout: page.jade
 permalink: false
 ---
 
+## Teacher Vacancy - September 2017
+We currently have a Full Time, Fixed Term Maternity Cover Teaching vacancy from September 2017. 
+Closing Date - 0900 21st April 2017
+
+<div class="infoButtons">
+[Link to Vacancy Information](/information)
+</div>
+
 ## Safeguarding Statement
 We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing).
 
 If you would like more information about any aspect of safeguarding, please click [here][2].
+
 
 <div class="infoButtons">
 [Link to Statutory Information](/information)

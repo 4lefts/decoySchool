@@ -8,6 +8,15 @@ autotoc: true
 
 *For more useful information, such as term dates, job vacancies and letters to parents, please scroll [down](#down).*
 ___
+## Job Vacancies
+
+## Full Time, Fixed Term Maternity Cover Teacher vacancy - September 2017.
+
+For the Devon Jobs Advert - please click [here][29].
+
+For job description, person specification and application form - please click [here][30].
+
+Thank you for your interest in Decoy Community Primary School.
 
 ## Statutory Information
 
@@ -54,12 +63,6 @@ The following statutory information is found on this site.  A hyperlink will tak
 [DfE School Data](http://www.education.gov.uk/cgi-bin/schools/performance/school.pl?urn=113209)
 
 </div>
-
-## Job Vacancies
-
-## There are currently no vacancies available.
-
-Thank you for your interest in Decoy Community Primary School.
 
 ## School Meals
 
@@ -115,3 +118,5 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [26]: https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing
 [27]: https://drive.google.com/file/d/0B76W__U5CTntNGJvZnhCcXVLems/view?usp=sharing
 [28]: https://drive.google.com/file/d/0B76W__U5CTntdFdLRWlzaHJIWEU/view?usp=sharing
+[29]: https://www.devonjobs.gov.uk/teaching-primary-and-foundation-stage-school-posts-class-teacher-decoy-community-primary-school/55306.job
+[30]: https://drive.google.com/open?id=0B76W__U5CTntdUw3Q0pOVzhrUlE
