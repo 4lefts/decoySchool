@@ -6,22 +6,17 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 14/03/2017 | Year 5/6 Football Tournament at Blackpool Primary |
-| 16/03/2017 | Year 5/6 Netball Tournament at Blackpool Primary |
-| 23/03/2017 | Year 2 Trip to Paignton Zoo |
-| 24/03/2017 | Easter Fayre & Great Decoy Bake Off |
-| **24/03/2017** | **NON UNIFORM DAY FOR EASTER FAYRE** |
-| 27/03/2017 | Year 4 Musical in a Day - presentation to Parents at 3:45pm |
 | 31/03/2017 | Decoy's Comic Relief Day |
 | **31/03/2017** | **NON UNIFORM DAY FOR COMIC RELIEF** |
 | **31/03/2017** | **Last Day of Spring Term** |
 | **18/04/2017** | **First Day of Summer Term** |
 | 27/04/2017 | Year 2 Clive Pig 1660's Workshop |
+| 01/05/2017 | Bank Holiday - No School |
 | 11/05/2017 | PTA School Discos |
 | 22/05/2017 | Full School Photograph - Details to follow in Summer Term |
 | 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
 | **29/05/2017** | **HALF TERM WEEK**|
-| 05/06/2017 | Bank Holiday - No School |
+| 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
 | 10/06/2017 | PTA Summer Fete | 
 | 23/06/2017 | PTA Watersports & BBQ Evening |
