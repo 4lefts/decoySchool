@@ -18,7 +18,7 @@ order: 6
 | **29/05/2017** | **HALF TERM WEEK**|
 | 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
-| 10/06/2017 | PTA Summer Fete | 
+| 17/06/2017 | PTA Summer Fete | 
 | 23/06/2017 | PTA Watersports & BBQ Evening |
 | 26/06/2017 | Year 6 Okehampton Residential |
 | **21/07/2017** | **Last Day of Summer Term** |
