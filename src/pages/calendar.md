@@ -82,8 +82,8 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 12th May | Puffins | **£ .  ** |
 | Friday 19th May | Swans | **£ .  ** |
 | Friday 26th May | Chaffinches | **£ .  ** |
-| Friday 9th Jun | **All Bake for Summer Fete** | **£ .  ** |
-| Friday 16th Jun | Partridges | **£ .  ** |
+| Friday 9th Jun | Partridges | **£ .  ** |
+| Friday 16th Jun | **All Bake for Summer Fete** | **£ .  ** |
 | Friday 23rd Jun | Wrens | **£ .  ** |
 | Friday 30th Jun | Woodpeckers | **£ .  ** |
 | Friday 7th Jul | Dragonflies | **£ .  ** |
