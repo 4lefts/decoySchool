@@ -17,7 +17,7 @@ To read and download our First Steps Nursery Prospectus please click [here] [3]
 <a id="down"></a>
 ## Admissions to First Steps Nursery
 
-As of September 2010 Pre-School children aged 3+ are entitled to 15 hours of ** free ** provision a week. At Decoy we offer 15 hour free provision to our children and 15.5 to those who choose to use ** 2 ** lunch clubs for some of their allowance. In addition to this, parents have the option to pay for extra hours, providing there are spaces available; this could be a lunch club, a morning session, an afternoon session or, as with funded hours, a combination of sessions.
+Pre-School children aged 3+ are entitled to 15 hours of ** free ** provision a week. In addition to this, parents have the option to pay for extra hours, providing there are spaces available; this could be a lunch club, a morning session, an afternoon session or, as with funded hours, a combination of sessions.
 
 We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
 
