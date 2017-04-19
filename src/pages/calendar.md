@@ -6,22 +6,46 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| 31/03/2017 | Decoy's Comic Relief Day |
-| **31/03/2017** | **NON UNIFORM DAY FOR COMIC RELIEF** |
-| **31/03/2017** | **Last Day of Spring Term** |
 | **18/04/2017** | **First Day of Summer Term** |
+| 20/04/2017 | PTA Meeting - 7:30pm, The Keyberry Hotel |
+| 24/04/2017 | PTA Summer Fete Meeting - 7:30pm, The Keyberry Hotel |
+| 25/04/2017 | Year 3 Stone Age Experience |
+| 26/04/2017 | Year 1 Trip to Pennywell Farm | 
 | 27/04/2017 | Year 2 Clive Pig 1660's Workshop |
 | 01/05/2017 | Bank Holiday - No School |
+| 02/05/2017 | Year 5 Bikeability All Week |
+| 08/05/2017 | Key Stage 2 SATs Week | 
 | 11/05/2017 | PTA School Discos |
+| 22/05/2017 | Book Fair Open 8:45am & 3:30pm | 
 | 22/05/2017 | Full School Photograph - Details to follow in Summer Term |
+| 23/05/2017 | Book Fair Open 8:45am & 3:30pm | 
 | 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
+| 24/05/2017 | Year 3 & Year 4 Athletics Competition |
 | **29/05/2017** | **HALF TERM WEEK**|
 | 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
+| 08/06/2017 | Year 5 & Year 6 Athletics Competition |
+| 09/06/2017 | Year 4 Olympic Day |
+| 13/06/2017 | Year 3 visit to Bellever/Widecombe |
+| 14/06/2017 | Year 3 Dartmoor Talk from Orlando Rutter |
 | 17/06/2017 | PTA Summer Fete | 
+| 20/06/2017 | Coombeshead Academy performance of 'Cinderella' to Year 5 & Year 6 |
 | 23/06/2017 | PTA Watersports & BBQ Evening |
 | 26/06/2017 | Year 6 Okehampton Residential |
 | **21/07/2017** | **Last Day of Summer Term** |
+
+## Decoy Coffee Mornings - KS1 & KS2
+
+We will be running the Decoy Coffee Mornings once a month - they are a chance to discuss home or school issues, celebrate successes and find out more about the Thrive support we offer here at Decoy.
+
+So come and join us for a cuppa and a piece of cake!
+
+| **Date** | **Time** |
+|----------|----------|
+| 03/05/2017 | 9:00am - 10:00am |
+| 14/06/2017 | 9:00am - 10:00am |
+| 19/07/2017 | 9:00am - 10:00am |
+
 
 ## Dates for Academic Year 2017 / 2018
 
@@ -43,9 +67,8 @@ order: 6
 
 More dates coming soon...
 
-## Family Thrive Information - December 2016##
+## Family Thrive Information - April 2017##
 
-This January we will be running our sixth Family Thrive course where parents can learn about the amazing growth of their child’s brain through childhood and ways to support their emotional development. Please see Mrs Stables for more information.
 
 For more information on our Family Thrive courses please click [here][1]
 
