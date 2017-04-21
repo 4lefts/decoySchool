@@ -10,11 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-## Full Time, Fixed Term Maternity Cover Teacher vacancy - September 2017.
-
-For the Devon Jobs Advert - please click [here][29].
-
-For job description, person specification and application form - please click [here][30].
+There are currently no vacancies available.
 
 Thank you for your interest in Decoy Community Primary School.
 
