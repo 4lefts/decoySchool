@@ -7,13 +7,9 @@ order: 6
 | **Date** | **What's On** |
 |----------|---------------|
 | **18/04/2017** | **First Day of Summer Term** |
-| 20/04/2017 | PTA Meeting - 7:30pm, The Keyberry Hotel |
-| 24/04/2017 | PTA Summer Fete Meeting - 7:30pm, The Keyberry Hotel |
-| 25/04/2017 | Year 3 Stone Age Experience |
-| 26/04/2017 | Year 1 Trip to Pennywell Farm | 
-| 27/04/2017 | Year 2 Clive Pig 1660's Workshop |
 | 01/05/2017 | Bank Holiday - No School |
 | 02/05/2017 | Year 5 Bikeability All Week |
+| 03/05/2017 | Decoy Coffee Morning - KS1 & KS2 |
 | 08/05/2017 | Key Stage 2 SATs Week | 
 | 11/05/2017 | PTA School Discos |
 | 22/05/2017 | Book Fair Open 8:45am & 3:30pm | 
