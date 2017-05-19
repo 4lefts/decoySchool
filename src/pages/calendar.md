@@ -7,27 +7,28 @@ order: 6
 | **Date** | **What's On** |
 |----------|---------------|
 | **18/04/2017** | **First Day of Summer Term** |
-| 01/05/2017 | Bank Holiday - No School |
-| 02/05/2017 | Year 5 Bikeability All Week |
-| 03/05/2017 | Decoy Coffee Morning - KS1 & KS2 |
-| 08/05/2017 | Key Stage 2 SATs Week | 
-| 11/05/2017 | PTA School Discos |
+| 19/05/2017 | Book Fair Open 3:30pm |
 | 22/05/2017 | Book Fair Open 8:45am & 3:30pm | 
-| 22/05/2017 | Full School Photograph - Details to follow in Summer Term |
+| 22/05/2017 | **Full School Photograph** |
 | 23/05/2017 | Book Fair Open 8:45am & 3:30pm | 
 | 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
 | 24/05/2017 | Year 3 & Year 4 Athletics Competition |
 | **29/05/2017** | **HALF TERM WEEK**|
 | 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
+| 07/06/2017 | Year 2 Trip to Brixham | 
 | 08/06/2017 | Year 5 & Year 6 Athletics Competition |
 | 09/06/2017 | Year 4 Olympic Day |
 | 13/06/2017 | Year 3 visit to Bellever/Widecombe |
 | 14/06/2017 | Year 3 Dartmoor Talk from Orlando Rutter |
+| 14/06/2017 | Decoy Coffee Morning in Community Room |
 | 17/06/2017 | PTA Summer Fete | 
 | 20/06/2017 | Coombeshead Academy performance of 'Cinderella' to Year 5 & Year 6 |
 | 23/06/2017 | PTA Watersports & BBQ Evening |
 | 26/06/2017 | Year 6 Okehampton Residential |
+| 04/07/2017 | Year 5 @ Coombeshead Academy to watch 'High School Musical' |
+| 05/07/2017 | Coombeshead Induction Day | 
+| 19/07/2017 | Decoy Coffee Morning in Community Room | 
 | **21/07/2017** | **Last Day of Summer Term** |
 
 ## Decoy Coffee Mornings - KS1 & KS2
@@ -93,12 +94,12 @@ For more information on our Family Thrive courses please click [here][1]
 | Friday 3rd Mar | Eagles | **£29.66** |
 | Friday 10th Mar | Owls | **£59.06** |
 | Friday 17th Mar | No Cake Sale | **£ .  ** |
-| Friday 24th Mar | **The Great Decoy Bake Off** | **£ .  ** |
+| Friday 24th Mar | **The Great Decoy Bake Off** |
 | Friday 31st Mar | No Cake Sale | **£ .  ** |
-| Friday 21st Apr | Kestrels | **£ .  ** |
-| Friday 28th Apr | Mallards | **£ .  ** |
-| Friday 5th May | Kingfishers | **£ .  ** |
-| Friday 12th May | Puffins | **£ .  ** |
+| Friday 21st Apr | Kestrels | **£30.60** |
+| Friday 28th Apr | Mallards | **£19.60** |
+| Friday 5th May | Kingfishers | **£20.70** |
+| Friday 12th May | Puffins | **£30.90** |
 | Friday 19th May | Swans | **£ .  ** |
 | Friday 26th May | Chaffinches | **£ .  ** |
 | Friday 9th Jun | Partridges | **£ .  ** |
