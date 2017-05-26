@@ -65,7 +65,8 @@ gulp.task('metalsmith', function(){
 gulp.task('buildStyles', function(){
 	return gulp.src('sass/**/*')
 		.pipe(sass({
-			outputStyle: 'expanded',
+			outputStyle: 'compressed',
+			sourceMaps: false,
 		}))
 		.on('error', errorLog)
 		.pipe(prefix({

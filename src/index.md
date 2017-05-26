@@ -4,7 +4,7 @@ layout: page.jade
 permalink: false
 ---
 
-## Safeguarding Statement
+## Safeguarding Statements
 We take safeguarding seriously at Decoy Community Primary School. If you visit our school please take time to read the safeguarding information that comes with your visitor badge. To read our policy, * Safeguarding and Child Protection Policy and Procedures *, please click [here](https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing).
 
 If you would like more information about any aspect of safeguarding, please click [here][2].
@@ -15,7 +15,7 @@ If you would like more information about any aspect of safeguarding, please clic
 </div>
 
 <img src="/images/govs/gilloneill.jpg" class="goPic"alt="Mrs Gill O'Neill, Headteacher">
-At Decoy we aim to support all children to achieve their full potential, in learning and in life. Our team of dedicated teachers and teaching assistants, work together to ensure that all children make great progress.  We are committed to providing a happy, well disciplined, nurturing environment, where children can thrive. 
+At Decoy we aim to support all children to achieve their full potential, in learning and in life. Our team of dedicated teachers and teaching assistants, work together to ensure that all children make great progress.  We are committed to providing a happy, well disciplined, nurturing environment, where children can thrive.
 
 Our Values are:
 ** ‘Have a Go’, ‘Make the Right Choices’, ‘Do your Best’, ‘Think of Others’. **
@@ -27,13 +27,13 @@ Decoy is a Community Primary School and we work closely with families to support
 
 Visitors often comment on the friendly, purposeful atmosphere and the range and quality of work going on here. We always enjoy showing people around; if you would like to make an appointment to see us in action, please contact us on <a href="tel:01626353282">01626 353282</a>.
 
-Thank you, 
-Mrs Gill O'Neill 
+Thank you,
+Mrs Gill O'Neill
 Headteacher
 
 To view our Prospectus please click [here](https://drive.google.com/open?id=0B76W__U5CTntaFhPYlhjYnRiQ2s).
 
-[1]: /information 
+[1]: /information
 [2]: http://www.devonsafeguardingchildren.org/
 [3]: https://mydonate.bt.com/fundraisers/decoyprimaryschool
 [4]: https://drive.google.com/file/d/0B76W__U5CTntbmpxVXBLSG1sTnM/view?usp=sharing

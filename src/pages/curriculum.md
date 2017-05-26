@@ -43,7 +43,7 @@ We use a wide variety of reading schemes but make sure that the first books we i
 ## <a name="down"></a>Year Group Curriculum
 Please use these links to find detailed information about the curriculum for each year group.
 
-Have a look at our school prospectus, or talk to class teachers if you would like more information about our curriculum. 
+Have a look at our school prospectus, or talk to class teachers if you would like more information about our curriculum.
 If you would like a flavour of some of the rich learning experiences at Decoy School, please go to our Twitter feed; which can be accessed from the front page of our website.
 
 <div class="cf infoButtons">
@@ -65,4 +65,3 @@ If you would like a flavour of some of the rich learning experiences at Decoy Sc
 [6]: https://drive.google.com/file/d/0B76W__U5CTntWHI2cERnOV9VUkE/view?usp=sharing
 [7]: https://drive.google.com/file/d/0B76W__U5CTntRkMtX3RyZDRjSlk/view?usp=sharing
 [8]: https://drive.google.com/file/d/0B76W__U5CTntcnBSVzd6ZV9VWE0/view?usp=sharing
-

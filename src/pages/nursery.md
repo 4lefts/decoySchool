@@ -28,7 +28,7 @@ Lunch Club: 11:30am - 1:00pm
 
 Afternoon Session: 1:00pm - 3:30pm
 
-## Sesssion Costs 
+## Sesssion Costs
 
 (As of April 2017)
 

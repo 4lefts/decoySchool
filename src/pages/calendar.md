@@ -8,27 +8,27 @@ order: 6
 |----------|---------------|
 | **18/04/2017** | **First Day of Summer Term** |
 | 19/05/2017 | Book Fair Open 3:30pm |
-| 22/05/2017 | Book Fair Open 8:45am & 3:30pm | 
+| 22/05/2017 | Book Fair Open 8:45am & 3:30pm |
 | 22/05/2017 | **Full School Photograph** |
-| 23/05/2017 | Book Fair Open 8:45am & 3:30pm | 
+| 23/05/2017 | Book Fair Open 8:45am & 3:30pm |
 | 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
 | 24/05/2017 | Year 3 & Year 4 Athletics Competition |
 | **29/05/2017** | **HALF TERM WEEK**|
 | 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
-| 07/06/2017 | Year 2 Trip to Brixham | 
+| 07/06/2017 | Year 2 Trip to Brixham |
 | 08/06/2017 | Year 5 & Year 6 Athletics Competition |
 | 09/06/2017 | Year 4 Olympic Day |
 | 13/06/2017 | Year 3 visit to Bellever/Widecombe |
 | 14/06/2017 | Year 3 Dartmoor Talk from Orlando Rutter |
 | 14/06/2017 | Decoy Coffee Morning in Community Room |
-| 17/06/2017 | PTA Summer Fete | 
+| 17/06/2017 | PTA Summer Fete |
 | 20/06/2017 | Coombeshead Academy performance of 'Cinderella' to Year 5 & Year 6 |
 | 23/06/2017 | PTA Watersports & BBQ Evening |
 | 26/06/2017 | Year 6 Okehampton Residential |
 | 04/07/2017 | Year 5 @ Coombeshead Academy to watch 'High School Musical' |
-| 05/07/2017 | Coombeshead Induction Day | 
-| 19/07/2017 | Decoy Coffee Morning in Community Room | 
+| 05/07/2017 | Coombeshead Induction Day |
+| 19/07/2017 | Decoy Coffee Morning in Community Room |
 | **21/07/2017** | **Last Day of Summer Term** |
 
 ## Decoy Coffee Mornings - KS1 & KS2

@@ -12,7 +12,7 @@ order: 1
 
 Decoy Community Primary School actively encourages its children to become caring, hardworking, creative and interesting citizens of the future. Pupils are supported to develop respect for each other and positive relationships.
 
-## Aims 
+## Aims
 
 At Decoy Community Primary School, we aim to:
 - Provide a happy and stimulating learning environment which promotes curiosity, creativity, enjoyment and interest in all aspects of learning.

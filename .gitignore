@@ -23,6 +23,7 @@ build
 # other junk we don't want to commit
 misc
 old_templates
+layouts_old
 
 #my notes to self
 todo.md
