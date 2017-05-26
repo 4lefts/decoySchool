@@ -10,7 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There is currently a vacancy for a FULL TIME, TEMPORARY to work in Key Stage 1 or 2. 
+There is currently a vacancy for a FULL TIME, TEMPORARY class teacher to work in Key Stage 1 or 2. 
 
 Closing Date - 12th June 2017, 9:00am.
 
