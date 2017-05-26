@@ -10,7 +10,13 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies available.
+There is currently a vacancy for a FULL TIME, TEMPORARY to work in Key Stage 1 or 2. 
+
+Closing Date - 12th June 2017, 9:00am.
+
+Interview Date - 19th June 2017.
+
+Please click [here][31] for more information.
 
 Thank you for your interest in Decoy Community Primary School.
 
@@ -116,3 +122,4 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [28]: https://drive.google.com/file/d/0B76W__U5CTntdFdLRWlzaHJIWEU/view?usp=sharing
 [29]: https://www.devonjobs.gov.uk/teaching-primary-and-foundation-stage-school-posts-class-teacher-decoy-community-primary-school/55306.job
 [30]: https://drive.google.com/open?id=0B76W__U5CTntdUw3Q0pOVzhrUlE
+[31]: https://drive.google.com/drive/folders/0B76W__U5CTntRWJJQ2VLV3BvOHM?usp=sharing
