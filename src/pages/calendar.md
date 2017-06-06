@@ -6,15 +6,6 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| **18/04/2017** | **First Day of Summer Term** |
-| 19/05/2017 | Book Fair Open 3:30pm |
-| 22/05/2017 | Book Fair Open 8:45am & 3:30pm |
-| 22/05/2017 | **Full School Photograph** |
-| 23/05/2017 | Book Fair Open 8:45am & 3:30pm |
-| 24/05/2017 | Year 3 Escot Residential (24th - 26th) |
-| 24/05/2017 | Year 3 & Year 4 Athletics Competition |
-| **29/05/2017** | **HALF TERM WEEK**|
-| 05/06/2017 | Non Pupil Day - No School |
 | **06/06/2017** | **Back to School - TUESDAY** |
 | 07/06/2017 | Year 2 Trip to Brixham |
 | 08/06/2017 | Year 5 & Year 6 Athletics Competition |

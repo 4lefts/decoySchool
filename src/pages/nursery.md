@@ -40,6 +40,8 @@ Lunch Time Session: £6.00 each
 
 For more information on Nursery Admissions please click [here][1].
 
+** Devon County Council - Early Years & Childcare Website - please click [here][4]. **
+
 ** September places for children who will be 3 years old before August 30th will be allocated at the beginning of March.
 Parents are advised to apply as early as possible as places are offered with a term's notice. **
 
@@ -50,4 +52,5 @@ If you have any further queries about our nursery, please do not hesitate to con
 
 [1]: https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKSGFZeWRwLUlyRHM&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU
 [2]: ../extended-schools-admissions
-[3]:  https://drive.google.com/open?id=0B76W__U5CTntSUhiNVZqNmxucFU
+[3]: https://drive.google.com/open?id=0B76W__U5CTntSUhiNVZqNmxucFU
+[4]: https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare
