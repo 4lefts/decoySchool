@@ -6,20 +6,27 @@ order: 6
 ---
 | **Date** | **What's On** |
 |----------|---------------|
-| **06/06/2017** | **Back to School - TUESDAY** |
-| 07/06/2017 | Year 2 Trip to Brixham |
-| 08/06/2017 | Year 5 & Year 6 Athletics Competition |
-| 09/06/2017 | Year 4 Olympic Day |
-| 13/06/2017 | Year 3 visit to Bellever/Widecombe |
-| 14/06/2017 | Year 3 Dartmoor Talk from Orlando Rutter |
-| 14/06/2017 | Decoy Coffee Morning in Community Room |
-| 17/06/2017 | PTA Summer Fete |
 | 20/06/2017 | Coombeshead Academy performance of 'Cinderella' to Year 5 & Year 6 |
-| 23/06/2017 | PTA Watersports & BBQ Evening |
+| 21/06/2017 | Reception, Year 1 & Year 2 Sports Day - 9:30am |
+| 22/06/2017 | Year 3 & Year 4 Sports Day - 1:30pm |
+| 23/06/2017 | Year 5 & Year 6 Sports Day - 1:30pm | 
 | 26/06/2017 | Year 6 Okehampton Residential |
+| 27/06/2017 | New Reception Transition | 
+| 30/06/2017 | PTA Watersports & BBQ Evening |
+| 03/06/2017 | Class Photos
 | 04/07/2017 | Year 5 @ Coombeshead Academy to watch 'High School Musical' |
 | 05/07/2017 | Coombeshead Induction Day |
+| 07/07/2017 | End of Year Reports |
+| 10/07/2017 | Foundation Stage Concert - 2:15pm |
+| 11/07/2017 | Foundation Stage Concert - 9:30am |
+| 11/07/2017 | Year 6 Production - 6:30pm |
+| 12/07/2017 | Year 6 Production - 2:00pm & 6:30pm |
+| 18/07/2017 | Pupils spending time in their new classes |
+| 18/07/2017 | Open Evening - Meet the Teacher (Details to follow) |
+| 18/07/2017 | Year 6 Leavers Presentation - 5:00pm |
 | 19/07/2017 | Decoy Coffee Morning in Community Room |
+| 19/07/2017 | Year 6 Leavers BBQ & Games |
+| 21/07/2017 | Final assembly on School Field at 2:30pm (weather permitting) |
 | **21/07/2017** | **Last Day of Summer Term** |
 
 ## Decoy Coffee Mornings - KS1 & KS2
@@ -30,8 +37,6 @@ So come and join us for a cuppa and a piece of cake!
 
 | **Date** | **Time** |
 |----------|----------|
-| 03/05/2017 | 9:00am - 10:00am |
-| 14/06/2017 | 9:00am - 10:00am |
 | 19/07/2017 | 9:00am - 10:00am |
 
 
