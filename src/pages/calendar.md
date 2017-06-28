@@ -16,11 +16,11 @@ order: 6
 | 03/06/2017 | Class Photos
 | 04/07/2017 | Year 5 @ Coombeshead Academy to watch 'High School Musical' |
 | 05/07/2017 | Coombeshead Induction Day |
-| 07/07/2017 | End of Year Reports |
 | 10/07/2017 | Foundation Stage Concert - 2:15pm |
 | 11/07/2017 | Foundation Stage Concert - 9:30am |
 | 11/07/2017 | Year 6 Production - 6:30pm |
 | 12/07/2017 | Year 6 Production - 2:00pm & 6:30pm |
+| 14/07/2017 | End of Year Reports |
 | 18/07/2017 | Pupils spending time in their new classes |
 | 18/07/2017 | Open Evening - Meet the Teacher (Details to follow) |
 | 18/07/2017 | Year 6 Leavers Presentation - 5:00pm |
