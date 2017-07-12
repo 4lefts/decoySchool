@@ -1,14 +1,18 @@
+
 		// gulp and plugins
-const 	gulp = require('gulp'),
-		sass = require('gulp-sass'),
-		prefix = require('gulp-autoprefixer'),
-		// metalsmith and plugins
-		metalsmith = require('gulp-metalsmith'),
-		markdown = require('metalsmith-markdown'),
-		layouts = require('metalsmith-layouts'),
-		collections = require('metalsmith-collections'),
-		permalinks = require('metalsmith-permalinks'),
-		browserSync = require('browser-sync').create() //create method gives unique browsersync instance and allows multiple servers
+const gulp = require('gulp'),
+			// sass = require('gulp-sass'),
+			// prefix = require('gulp-autoprefixer'),
+			// metalsmith and plugins
+			metalsmith = require('metalsmith'),
+			markdown = require('metalsmith-markdown'),
+			layouts = require('metalsmith-layouts'),
+			collections = require('metalsmith-collections'),
+			permalinks = require('metalsmith-permalinks'),
+			sass = require('metalsmith-sass'),
+			prefixer = require('metalsmith-autoprefixer'),
+			ignore = require('metalsmith-ignore'),
+			browserSync = require('browser-sync').create() //create method gives unique browsersync instance and allows multiple servers
 
 //stuff for date (used in templates)
 var d = new Date()
@@ -18,64 +22,59 @@ function errorLog(error){
 	console.error(error.message)
 }
 
-gulp.task('metalsmith', function(){
-	return gulp.src('src/**')
-		.pipe(metalsmith({
-			metadata: {
-				site: {
-					title: "Decoy School",
-					bannerImage: "learning",
-				},
-				thisYear: year,
+gulp.task('buildSite', () => {
+	return metalsmith(__dirname)
+		.metadata({
+			site: {
+				title: "Decoy School",
+				bannerImage: "learning",
 			},
-			use: [
-				collections({
-					pages: {
-						pattern: 'pages/*.md',
-						sortBy: 'order',
-					},
-					yearGroups: {
-						pattern: 'yearGroups/*.md',
-					},
-					footerLogos: {
-						pattern: 'images/footerLogos/*.png'
-					},
-					extra: {
-						pattern: 'extra/*.md',
-					},
-				}),
-				markdown({
-					"smartypants": true,
-					"gfm": true,
-					"tables": true,
-				}),
-				permalinks({
-	 				pattern: ":title",
-	 				relative: false
-				}),
-				layouts({
-					'engine': 'jade'
-				}),
-			]
+			thisYear: year,
+		})
+		.source('./src')
+		.destination('./build')
+		.clean(true)
+		.use(sass({
+			outputDir: function(originalPath){
+				return originalPath.replace('sass', 'styles')
+			},
+			outputStyle: 'expanded',
 		}))
-		.on('error', errorLog)
-		.pipe(gulp.dest('build'))
+		.use(prefixer())
+		.use(collections({
+			pages: {
+				pattern: 'pages/*.md',
+				sortBy: 'order',
+			},
+			yearGroups: {
+				pattern: 'yearGroups/*.md',
+			},
+			footerLogos: {
+				pattern: 'images/footerLogos/*.png'
+			},
+			extra: {
+				pattern: 'extra/*.md',
+			},
+		}))
+		.use(ignore(['sass/**']))
+		.use(markdown({
+			"smartypants": true,
+			"gfm": true,
+			"tables": true,
+		}))
+		.use(permalinks({
+			pattern: ":title",
+			relative: false
+		}))
+		.use(layouts({
+			'engine': 'jade'
+		}))
+		.build((err) => {
+			if(err) throw err
+		})
 })
 
-gulp.task('buildStyles', function(){
-	return gulp.src('sass/**/*')
-		.pipe(sass({
-			outputStyle: 'compressed',
-			sourceMaps: false,
-		}))
-		.on('error', errorLog)
-		.pipe(prefix({
-			browsers: ['last 2 versions'],
-		}))
-		.pipe(gulp.dest('src/styles'))
-})
-
-gulp.task('serve', function(){
+gulp.task('serve', () => {
 	browserSync.init({
 		server: {
 			baseDir: 'build',
@@ -83,14 +82,12 @@ gulp.task('serve', function(){
 	})
 })
 
-gulp.task('refresh', ['metalsmith'], function(){
-	return browserSync.reload()
+gulp.task('refresh', ['buildSite'], () => {
+	setTimeout(function(){
+		return browserSync.reload()
+	}, 1500)
 })
 
-gulp.task('watch', function(){
-	gulp.watch('layouts/**/*', ['buildStyles', 'refresh'])
-	gulp.watch('src/**/*', ['buildStyles', 'refresh'])
-	gulp.watch('sass/**/*', ['buildStyles', 'refresh'])
-})
+gulp.task('watch', () => gulp.watch(['src/**', 'layouts/**'], ['refresh']))
 
-gulp.task('default', ['buildStyles', 'metalsmith', 'serve', 'watch'])
+gulp.task('default', ['buildSite', 'serve', 'watch'])
