@@ -9,9 +9,9 @@ order: 6
 | 20/06/2017 | Coombeshead Academy performance of 'Cinderella' to Year 5 & Year 6 |
 | 21/06/2017 | Reception, Year 1 & Year 2 Sports Day - 9:30am |
 | 22/06/2017 | Year 3 & Year 4 Sports Day - 1:30pm |
-| 23/06/2017 | Year 5 & Year 6 Sports Day - 1:30pm | 
+| 23/06/2017 | Year 5 & Year 6 Sports Day - 1:30pm |
 | 26/06/2017 | Year 6 Okehampton Residential |
-| 27/06/2017 | New Reception Transition | 
+| 27/06/2017 | New Reception Transition |
 | 30/06/2017 | PTA Watersports & BBQ Evening |
 | 03/06/2017 | Class Photos
 | 04/07/2017 | Year 5 @ Coombeshead Academy to watch 'High School Musical' |
@@ -28,6 +28,18 @@ order: 6
 | 19/07/2017 | Year 6 Leavers BBQ & Games |
 | 21/07/2017 | Final assembly on School Field at 2:30pm (weather permitting) |
 | **21/07/2017** | **Last Day of Summer Term** |
+| 04/09/2017 | Non-pupil Day |
+| 05/09/2017 | Non-pupil Day |
+| 06/09/2017 | **Back to School** |
+| 14/09/2017 | Year 6 Swimming |
+| 20/09/2017 | Puffins Lunch with Parents |
+| 21/09/2017 | Year 6 Swimming |
+| 22/09/2017 | Swans Lunch with Parents |
+| 25/09/2017 | Year 5 Heatree Residential all week |
+| 28/09/2017 | Year 6 Swimming |
+| 05/10/2017 | Year 6 Swimming |
+| 12/10/2017 | Year 6 Swimming |
+| 19/10/2017 | Year 6 Swimming |
 
 ## Decoy Coffee Mornings - KS1 & KS2
 
