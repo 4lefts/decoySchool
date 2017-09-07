@@ -6,52 +6,52 @@ order: 9
 ---
 ## Headteacher
 
-Mrs G. O'Neill
+Mrs H. Poustie
 
 ## Deputy Head
 
 Mr S. Bone
+
+## Pupil Premium Champion
+
+Mrs V. Stables
 
 ## SEND Co-Ordinator
 ##### (Special Eduactional Needs and Disabilities)
 
 Mr R. Scott
 
-## Pupil Premium Champion
-
-Mrs V. Stables
-
 ## Year 6 Teachers
 
-Mrs R. Hughes, Miss J. Fearon
+Mr S. Ball, Miss J. Fearon
 
 ## Year 5 Teachers
 
-Mrs R. Mangham, Miss J. Walker
+Mrs R. Mangham, Mr R. Clutterbuck
 
 ## Year 4 Teachers
 
-Mrs S. Cartwright, Mrs Y. Morrell
+Mrs R. Hughes, Mrs Y. Morrell
 
 ## Year 3 Teachers
 
-Mrs C. Hodgson, Mrs E. Pryde, Mrs E. Lidbury, Mrs M. Stevens
+Miss L. Martin, Mrs E. Pryde,
 
 ## Year 2 Teachers
 
-Mr S. Ball, Mr R. Clutterbuck
+Mrs A. Donnai, Mrs E. Lidbury, Mrs C. Hodgson
 
 ## Year 1 Teachers
 
-Miss L. Bristow, Miss H. Thomsett
+Mr R. Scott, Mrs. V. Stables, Miss H. Thomsett
 
 ## Reception Teachers
 
-Mrs G. Quantrell, Mrs H. Cammack
+Mrs G. Quantrell, Miss L. Bristow, Mrs H. Cammack
 
 ## Nursery Teacher
 
-Miss E. Steer
+Mrs C. Smith, Miss E. Steer
 
 ## P.E. Specialist Teacher
 
