@@ -4,7 +4,7 @@ menuLabel: Contact
 layout: page.jade
 order: 10
 ---
-**Headteacher: Mrs Gill O'Neill**  
+**Headteacher: Mrs H. Poustie**  
 For general enquiries, please contact Donna O'Halloran at:  
 Decoy Community Primary School, Deer Park Road, Newton Abbot, TQ12 1DH.  
 <a href='tel:+441626353282'>01626 353 282</a> - <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
