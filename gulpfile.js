@@ -1,6 +1,7 @@
 			// gulp and plugins
 const gulp = require('gulp'),
 			sass = require('gulp-sass'),
+			imagemin = require('gulp-imagemin'),
 			prefix = require('gulp-autoprefixer'),
 			// metalsmith and plugins
 			metalsmith = require('gulp-metalsmith'),
@@ -75,6 +76,12 @@ gulp.task('buildStyles', function(){
 		.pipe(gulp.dest('src/styles'))
 })
 
+gulp.task('minifyImages', function(){
+	return gulp.src('images/**/*')
+		.pipe(imagemin())
+		.pipe(gulp.dest('src/images'))
+})
+
 gulp.task('serve', function(){
 	browserSync.init({
 		server: {
@@ -90,9 +97,10 @@ gulp.task('refresh', ['metalsmith'], function(){
 })
 
 gulp.task('watch', function(){
-	gulp.watch('layouts/**/*', ['buildStyles', 'refresh'])
-	gulp.watch('src/**/*', ['buildStyles', 'refresh'])
+	gulp.watch('images/**/*', ['minifyImages', 'refresh'])
+	gulp.watch('layouts/**/*', ['refresh'])
+	gulp.watch('src/**/*', ['refresh'])
 	gulp.watch('sass/**/*', ['buildStyles', 'refresh'])
 })
 
-gulp.task('default', ['buildStyles', 'metalsmith', 'serve', 'watch'])
+gulp.task('default', ['buildStyles', 'minifyImages', 'metalsmith', 'serve', 'watch'])

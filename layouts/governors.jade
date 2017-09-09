@@ -2,20 +2,8 @@
 	var governors = [{img: "drdavidmasheder.jpg", description: "Dr David Masheder, Chair"}, {img: "stevebone.jpg", description: "Steve Bone, Co-opted"}, {img: "simonbarnes.jpg", description: "Simon Barnes, Parent"}, {img: "judyfine.jpg", description: "Judy Fine, Co-Opted"}, {img: "paulevemy.jpg", description: "Paul Evemy, Local Authority"}, {img: "clairemoors.jpg", description: "Claire Moors, Co-Opted"}, {img: "alexkirkbride.jpg", description: "Alex Kirkbride, Parent"}, {img: "natashalaws.jpg", description: "Natasha Laws, Co-opted"}, {img: "keithmoore.jpg", description: "Keith Moore, Parent"}, {img: "oliverlaity.jpg", description: "Oliver Laity, Parent"}, {img: "peteosborne.jpg", description: "Pete Obsorne, Clerk"}, {img: "stephenball.jpg", description: "Stephen Ball, Staff"}, {img: "placeholder.png", description: "We have a Parent Governor vacancy"}, {img: "placeholder.png", description: "...and we have a Co-Opted Governor vacancy"}]
 	var counter = governors.length
 
-each governor, index in governors
-
-	-
-		var x = ''
-		if(index % 2 == 0){
-			x = '<div class="cf">'
-		}
-	!=x
-		figure.govPic.cf
+.gov-container 
+	each governor in governors
+		figure.govPic
 			img(src="/images/govs/#{governor.img}", alt="#{governor.description}")
 			figcaption= governor.description
-	-
-		var y = ''
-		if(index % 2 == 1){
-			y = '</div>'
-		}
-	!=y
