@@ -13,32 +13,24 @@ Decoy First Steps Nursery is part of the Early Years Foundation Stage Team at De
 ## Nursery Prospectus
 
 To read and download our First Steps Nursery Prospectus please click [here] [3]
+<a id="down"></a> 
 
-<a id="down"></a>
 ## Admissions to First Steps Nursery
 
-Pre-School children aged 3+ are entitled to 15 hours of ** free ** provision a week. In addition to this, parents have the option to pay for extra hours, providing there are spaces available; this could be a lunch club, a morning session, an afternoon session or, as with funded hours, a combination of sessions.
+At Decoy we can offer, subject to availability, up to fifteen hours, using your early years funding. We can also offer, subject to availabilty, up to thirty hours, using extended entitlement for those who meet the government criteria, please click [here][5] for further information.
 
-We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
+You can also request additional hours that will be charged at a rate of £4 an hour.
 
-## Session Times
-Morning Session: 8:55am - 11:30am
-
-Lunch Club: 11:30am - 1:00pm
-
-Afternoon Session: 1:00pm - 3:30pm
-
-## Sesssion Costs
-
-(As of April 2017)
-
-Additional hours are charged half termly
-
-AM/PM Session: £10.00 each
-
-Lunch Time Session: £6.00 each
+Nursury children can also access breakfast and after school clubs. If this is something you are iterested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
 
 For more information on Nursery Admissions please click [here][1].
+
+## Session Times
+Morning Session: 9:00am - 12:00am
+
+Lunch Club: 12:00am - 1:00pm
+
+Afternoon Session: 1:00pm - 3:30pm
 
 ** Devon County Council - Early Years & Childcare Website - please click [here][4]. **
 
@@ -54,3 +46,4 @@ If you have any further queries about our nursery, please do not hesitate to con
 [2]: ../extended-schools-admissions
 [3]: https://drive.google.com/open?id=0B76W__U5CTntSUhiNVZqNmxucFU
 [4]: https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare
+[5]: https://www.childcarechoices.gov.uk
