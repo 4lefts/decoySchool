@@ -10,14 +10,12 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School.
-
-Thank you for your interest in Decoy Community Primary School.
+There are currently no vacancies at Decoy School. Thank you for your interest.
 
 ## Statutory Information
 
 The [School Information Regulations 2012][1] define the statutory information that must be easily available on school websites. This is to help parents make informed choices and to assist Ofsted in their evaluation of our school.
-The following statutory information is found on this site.  A hyperlink will take you to the relevant section of the site.
+The following statutory information is found on this site.  A hyperlink will take you to the relevant section of the site. If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
 
 | **Information** | **Location on our site** |
 |-----------------|--------------------------|
