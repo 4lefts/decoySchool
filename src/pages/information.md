@@ -10,7 +10,9 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School. Thank you for your interest.
+There is currently an opportunity for a teaching assistant to join our nursery team. Further information about the role can be found in [this document](/docs/nurseryVacancyDetails.docx), and job description can be downloaded [here](/docs/nurseryGradeCJobDescription.docx). 
+
+Please click [here to download an application form](/docs/supportStaffApplication.docx).
 
 ## Statutory Information
 
