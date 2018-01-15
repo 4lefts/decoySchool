@@ -27,7 +27,7 @@ Mr S. Ball, Miss J. Fearon
 
 ## Year 5 Teachers
 
-Mrs R. Mangham, Mr R. Clutterbuck
+Mr J. Kilkelly, Mr R. Clutterbuck
 
 ## Year 4 Teachers
 
@@ -43,7 +43,7 @@ Mrs A. Donnai, Mrs E. Lidbury, Mrs C. Hodgson
 
 ## Year 1 Teachers
 
-Mr R. Scott, Mrs. V. Stables, Miss H. Thomsett
+Mr R. Scott, Mrs. V. Stables, Miss H. Thomsett, Ms E. Peck
 
 ## Reception Teachers
 

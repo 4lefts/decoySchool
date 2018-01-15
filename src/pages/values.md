@@ -49,4 +49,6 @@ It's as easy as that!
 
 ## Behaviour
 
-It is  a primary aim of our school that every member of the school community feels  valued and respected, and that each person is treated fairly and well. At Decoy  School we believe that all children have the right to learn and feel safe and  happy at school. We are a caring community, whose values are built on mutual  trust and respect for all. We believe in an environment which encourages  children and builds self esteem, so that children become more confident, mature  independent learners and members of society. The school behaviour policy is  therefore designed to support a structure for managing behaviour within the  school that is sensible and understood by all members of the school community.
+It is  a primary aim of our school that every member of the school community feels  valued and respected, and that each person is treated fairly and well. At Decoy  School we believe that all children have the right to learn and feel safe and  happy at school. We are a caring community, whose values are built on mutual  trust and respect for all. We believe in an environment which encourages  children and builds self esteem, so that children become more confident, mature  independent learners and members of society. The school [behaviour policy][1] is  therefore designed to support a structure for managing behaviour within the  school that is sensible and understood by all members of the school community.
+
+[1]: https://drive.google.com/open?id=0B76W__U5CTntNi1EV2FFZEpKdHM

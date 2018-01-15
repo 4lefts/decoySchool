@@ -21,7 +21,7 @@ The following statutory information is found on this site.  A hyperlink will tak
 
 | **Information** | **Location on our site** |
 |-----------------|--------------------------|
-| **Contact Details** | On our [Contact][2]. |
+| **Contact Details** | On our [Contact Page][2]. |
 | **Admission Arrangements** | On our [Admissions page][3]. Please also see the pages for [First Steps Nursery][4] and our [Breakfast & After School Club][5]. |
 | **Accessibility Plan** | For our 2016 - 2019 Accessibility Plan please click [here][28]. |
 | **Ofsted Report** | Our most recent reports can be found [here][6]. |
@@ -107,7 +107,7 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [23]: https://drive.google.com/drive/folders/0B0102cki14zKbEFTUHJ4RlF4eTA?usp=sharing
 [24]: https://new.devon.gov.uk/educationandfamilies/special-educational-needs-and-disability-send-local-offer
 [25]: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
-[26]: https://drive.google.com/file/d/0B76W__U5CTntMVBuQTNMY2UzTnM/view?usp=sharing
+[26]: https://drive.google.com/open?id=10E202ibBKpTv5QFdyMiYDnQuikmluP5F
 [27]: https://drive.google.com/file/d/0B76W__U5CTntbGxfWE15dXhRVEk/view?usp=sharing
 [28]: https://drive.google.com/file/d/0B76W__U5CTntdFdLRWlzaHJIWEU/view?usp=sharing
 [29]: https://www.devonjobs.gov.uk/teaching-primary-and-foundation-stage-school-posts-class-teacher-decoy-community-primary-school/55306.job

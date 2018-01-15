@@ -21,7 +21,7 @@ At Decoy we can offer, subject to availability, up to fifteen hours, using your 
 
 You can also request additional hours that will be charged at a rate of £4 an hour.
 
-Nursury children can also access breakfast and after school clubs. If this is something you are iterested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
+Nursery children can also access breakfast and after school clubs. If this is something you are iterested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
 
 For more information on Nursery Admissions please click [here][1].
 
