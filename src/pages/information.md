@@ -6,13 +6,12 @@ order: 4
 autotoc: true
 ---
 
-*For more useful information, such as term dates, job vacancies and letters to parents, please scroll [down](#down).*
+*For more useful information, such as term dates and letters to parents, please scroll [down](#down).*
 ___
 ## Job Vacancies
 
-There is currently an opportunity for a teaching assistant to join our nursery team. Further information about the role can be found in [this document](/docs/nurseryVacancyDetails.docx), and job description can be downloaded [here](/docs/nurseryGradeCJobDescription.docx). 
-
-Please click [here to download an application form](/docs/supportStaffApplication.docx).
+Following the promotion of our current Deputy Headteacher, the Governors of Decoy Primary School are
+seeking to appoint a positive and inspirational Deputy Headteacher to start September 2018. Please download an [application form](/docs/applicationFormTeaching.docx) and an [application pack](/docs/DECOY_DH_Application_Pack.pdf) for further information.
 
 ## Statutory Information
 
