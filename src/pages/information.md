@@ -61,9 +61,7 @@ The following statutory information is found on this site.  A hyperlink will tak
 
 ## School Meals
 
-Our school lunches are provided by [ISS Education][18], who specialise in school meals catering. You can purchase your dinner tickets online at any time via <a href="https://pmx.parentmail.co.uk/#core/login" target="_blank">ParentMail</a>. You can view our **new** school menu [here][21], and **new** school packed lunch menu can be found [here][27].
-
-If you are having trouble purchasing school dinner tickets please contact us - <a href='tel:+441626353282'>01626 353 282</a> or email us at <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
+Our school lunches are provided by [ISS Education][18], who specialise in school meals catering. You can order and pay for school meals online by registering at [feedinghungryminds.co.uk](http://www.feedinghungryminds.co.uk).
 
 ## School Uniform
 
@@ -99,8 +97,8 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [15]: /curriculum/#down
 [16]: https://drive.google.com/file/d/0B76W__U5CTntMklxX1RDT3lNQTg/view?usp=sharing
 [17]: https://drive.google.com/open?id=0B0102cki14zKM1V0bDRJZVFyRmM
-[18]: http://www.uk.issworld.com/en-GB/news/news/2012/08/09/Iss-serve-delectable-dinners-at-devon-schools
-[19]: 
+[18]: http://www.uk.issworld.com/
+[19]:
 [21]: https://drive.google.com/file/d/0B76W__U5CTntODdGdG9HX0JTTW8/view?usp=sharing
 [22]: https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing
 [23]: https://drive.google.com/drive/folders/0B0102cki14zKbEFTUHJ4RlF4eTA?usp=sharing
