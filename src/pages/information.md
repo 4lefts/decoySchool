@@ -10,8 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-Following the promotion of our current Deputy Headteacher, the Governors of Decoy Primary School are
-seeking to appoint a positive and inspirational Deputy Headteacher to start September 2018. Please download an [application form](/docs/applicationFormTeaching.docx) and an [application pack](/docs/DECOY_DH_Application_Pack.pdf) for further information.
+There are currently no vacancies at Decoy School. Thank you for your interest.
 
 ## Statutory Information
 
