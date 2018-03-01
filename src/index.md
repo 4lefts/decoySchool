@@ -1,8 +1,12 @@
 ---
-title: Inspiring Positive Futures
+title: School Closed Friday 2nd March
 layout: page.jade
 permalink: false
 ---
+The school is closed on Thursday 1st and Friday 2nd of March, due to the weather warnings issued by the Met Office for Newton Abbot, Exeter and the surrounding area. We will update this message, and use ParentMail and Twitter, to keep everyone updated as the situation changes.
+
+Thank you for your support.
+
 ## Welcome
 On behalf of the children, staff, and governors I should like to welcome you to Decoy Primary School.
 

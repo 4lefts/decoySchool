@@ -16,7 +16,7 @@
     "gulp-autoprefixer": "^3.1.1",
     "gulp-imagemin": "^3.3.0",
     "gulp-metalsmith": "^1.1.0",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.1.0",
     "jade": "^1.11.0",
     "metalsmith": "^2.3.0",
     "metalsmith-autoprefixer": "^1.1.1",
