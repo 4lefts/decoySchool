@@ -10,7 +10,11 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School. Thank you for your interest.
+We currently have a vacancy in our Breakfast and After School clubs. Please use the links below to download additional information and an application form.
+
+- [Vacancy Information](/docs/basc/BASC_vacancy_info.docx)
+- [Job Description](/docs/basc/Breakfast_Club_Playworker_JD.pdf)
+- [Application Form](/docs/basc/Application_Form_Support_Staff.docx)
 
 ## Statutory Information
 
