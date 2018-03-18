@@ -1,8 +1,10 @@
 ---
-title: Inspiring Positive Futures
+title: School Closure - Monday 19th March
 layout: page.jade
 permalink: false
 ---
+Due to the weather conditions, the school will be closed on Monday 19th March. Thank you for your understanding.
+
 ## Welcome
 On behalf of the children, staff, and governors I should like to welcome you to Decoy Primary School.
 
