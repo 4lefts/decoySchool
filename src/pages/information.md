@@ -10,11 +10,16 @@ autotoc: true
 ___
 ## Job Vacancies
 
-We currently have a vacancy in our Breakfast and After School clubs. Please use the links below to download additional information and an application form.
+### Class Teachers
 
-- [Vacancy Information](/docs/basc/BASC_vacancy_info.docx)
-- [Job Description](/docs/basc/Breakfast_Club_Playworker_JD.pdf)
-- [Application Form](/docs/basc/Application_Form_Support_Staff.docx)
+We are currently looking to appoint two class teachers to start in September 2018. Please use the links below for further information:
+
+- [Teaching Post Advertisment](/docs/teacherVacancies/teachers_advert_sept_2018.docx)
+- [Application Form](/docs/teacherVacancies/application_form_teaching.docx)
+
+### Business Manager
+
+We are also looking to appoint a school business manager for September 2018. An application form can be downloaded [here](/docs/businessManager/application_form_support_staff.docx).
 
 ## Statutory Information
 
