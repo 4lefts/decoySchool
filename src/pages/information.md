@@ -14,12 +14,27 @@ ___
 
 We are currently looking to appoint two class teachers to start in September 2018. Please use the links below for further information:
 
-- [Teaching Post Advertisment](/docs/teacherVacancies/teachers_advert_sept_2018.docx)
-- [Application Form](/docs/teacherVacancies/application_form_teaching.docx)
+- [Job Advertisment](/docs/teacherVacancies/teacher_advert.pdf)
+- [Job Description](/docs/teacherVacancies/teacher_jd.pdf)
+- [Person Specification](/docs/teacherVacancies/teacher_spec.pdf)
+- [Application Form](/docs/teacherVacancies/teacher_application.docx)
 
 ### Business Manager
 
-We are also looking to appoint a school business manager for September 2018. An application form can be downloaded [here](/docs/businessManager/application_form_support_staff.docx).
+We are looking to appoint a school business manager for September 2018. Information about this post can be found here:
+
+- [Job Advertisment](/docs/businessManager/bm_advert.pdf)
+- [Job Description and Person Specification](/docs/businessManager/bm_jd_spec.pdf)
+- [Application Form](/docs/businessManager/support_staff_application.docx)
+
+### Administrative Assistant
+
+We also have a vacancy for an adminstrative assistant, details of which are below:
+
+- [Job Advertisment](/docs/admin/admin_advert.pdf)
+- [Job Description](/docs/admin/admin_jd.pdf)
+- [Person Specification](/docs/admin/admin_spec.pdf)
+- [Application Form](/docs/admin/support_staff_application.docx)
 
 ## Statutory Information
 
