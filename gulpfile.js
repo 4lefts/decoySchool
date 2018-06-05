@@ -1,5 +1,5 @@
 			// gulp and plugins
-const gulp = require('gulp'),
+const 		gulp = require('gulp'),
 			sass = require('gulp-sass'),
 			imagemin = require('gulp-imagemin'),
 			prefix = require('gulp-autoprefixer'),
@@ -22,6 +22,7 @@ function errorLog(error){
 gulp.task('metalsmith', function(){
 	return gulp.src('src/**')
 		.pipe(metalsmith({
+			clean: true,
 			metadata: {
 				site: {
 					title: "Decoy School",

@@ -100,14 +100,18 @@ header{
 	max-height: 80vh;
 	figure{
 		position: relative;
-		width: 700%;
+		// width: 700%; //pre-gdpr slider
 		margin: 0;
 		left: 0;
 		text-align: 0;
 		font-size: 0;
-		animation: 30s slide infinite;
+		// animation: 30s slide infinite; //pre-gdpr slider
+		// img{
+		// 	width: 14.2857142857%;
+		// 	float: left;
+		// }
 		img{
-			width: 14.2857142857%;
+			width: 100%;
 			float: left;
 		}
 	}
@@ -144,22 +148,22 @@ header{
 	}
 }
 
-
-@keyframes slide{
-	0% { left: 0%; }
-	14.6666666667% { left: 0%; }
-	16.6666666667% { left: -100%; }
-	31.3333333333% { left: -100%; }
-	33.3333333333% { left: -200%; }
-	48% { left: -200%; }
-	50% { left: -300%; }
-	64.6666666667% { left: -300%; }
-	66.6666666667% { left: -400%; }
-	81.3333333333% { left: -400%; }
-	83.3333333333% { left: -500%; }
-	98% { left: -500%; }
-	100% { left: -600%; }
-}
+//css for pre-gdpr slider
+// @keyframes slide{
+// 	0% { left: 0%; }
+// 	14.6666666667% { left: 0%; }
+// 	16.6666666667% { left: -100%; }
+// 	31.3333333333% { left: -100%; }
+// 	33.3333333333% { left: -200%; }
+// 	48% { left: -200%; }
+// 	50% { left: -300%; }
+// 	64.6666666667% { left: -300%; }
+// 	66.6666666667% { left: -400%; }
+// 	81.3333333333% { left: -400%; }
+// 	83.3333333333% { left: -500%; }
+// 	98% { left: -500%; }
+// 	100% { left: -600%; }
+// }
 
 #content{
 	color: #222;
