@@ -3,6 +3,10 @@ title: Inspiring Positive Futures
 layout: page.jade
 permalink: false
 ---
+
+*We are currently updating our website. Thank you for your understanding.*
+___
+
 ## Welcome
 On behalf of the children, staff, and governors I should like to welcome you to Decoy Primary School.
 

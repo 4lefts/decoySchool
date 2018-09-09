@@ -10,52 +10,48 @@ Mrs H. Poustie
 
 ## Deputy Head
 
-Mr S. Bone
+Mr D. Lee
 
 ## Pupil Premium Champion
 
-Mrs V. Stables
+Miss H. Thomsett
 
 ## SEND Co-Ordinator
 ##### (Special Eduactional Needs and Disabilities)
 
-Mr R. Scott
+Mrs
 
 ## Year 6 Teachers
 
-Mr S. Ball, Miss J. Fearon
+Mrs R. Hughes, Mr S. Ball
 
 ## Year 5 Teachers
 
-Mr J. Kilkelly, Mr R. Clutterbuck
+Mr C. Veal, Mr J. Smith
 
 ## Year 4 Teachers
 
-Mrs R. Hughes, Mrs Y. Morrell
+Mrs Y. Morrell, Miss, Mrs E. Lidbury
 
 ## Year 3 Teachers
 
-Miss L. Martin, Mrs E. Pryde,
+Mrs E. Pryde, Mr J. Kilkelly, Mrs
 
 ## Year 2 Teachers
 
-Mrs A. Donnai, Mrs E. Lidbury, Mrs C. Hodgson
+Mrs A. Donnai, Mrs C. Hodgson, Miss H. Thomsett
 
 ## Year 1 Teachers
 
-Mr R. Scott, Mrs. V. Stables, Miss H. Thomsett, Ms E. Peck
+Mrs G. Quantrell, Miss M. Luff
 
 ## Reception Teachers
 
-Mrs G. Quantrell, Miss L. Bristow, Mrs H. Cammack
+Mrs E. Simpson, Mrs H. Cammack
 
 ## Nursery Teacher
 
-Mrs C. Smith, Miss E. Steer
-
-## P.E. Specialist Teacher
-
-Mrs D. Flory
+Mrs C. Smith
 
 ## Modern Foreign Languages
 
@@ -63,7 +59,7 @@ Mrs L. Cheeseworth
 
 ## Business Manager
 
-Mrs M. Carrodus
+Mrs 
 
 ## Attendance Officer
 
