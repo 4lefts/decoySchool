@@ -12,59 +12,105 @@ Mrs H. Poustie
 
 Mr D. Lee
 
-## Pupil Premium Champion
+## Senior Leadership Team
 
-Miss H. Thomsett
+Mrs G. Quantrell - EYFS and KS1 Team Leader
+Mrs Y. Morrell - Numeracy, Year 3 and 4 Team Leader
+Mrs Becky Hughes - Literacy, Year 5 and 6 Team Leader
 
 ## SEND Co-Ordinator
 ##### (Special Eduactional Needs and Disabilities)
 
-Mrs
+Mrs M. Archer
 
-## Year 6 Teachers
+## Pupil Premium Champion
 
-Mrs R. Hughes, Mr S. Ball
+Miss H. Thomsett
+
+## TA Thrive Practitioner
+
+Sue Stevenson
+
+## Nursery Team
+
+Mrs C. Smith (Teacher)
+Mrs L. Iddon (HLTA)
+Ms E. Griffiths (TA)
+Mrs S. Rowland (TA)
+Ms M. Hindom (TA)
+Ms L. Cundy-Knight (MTA)
+Ms A. Perkins (MTA)
+
+## Reception Team
+
+Mrs E. Simpson (Teacher)
+Mrs H. Cammack (Teacher)
+Miss S. Fraser (Teacher)
+Ms. H Dawes (TA)
+Mrs Helen Yip (TA)
+Mrs Marie Cogavin (TA)
+Ms. A Perkins (TA)
+Mrs Tania Bull (TA)
+
+## Year 1 Team
+
+Mrs G. Quantrell (Teacher)
+Miss M. Luff (Teacher)
+Mrs B. Osborne (TA)
+Mrs J. Huxtable (TA)
+Ms L. Cundy-Knight (TA)
+
+## Year 2 Team
+
+Mrs A. Donnai (Teacher)
+Mrs C. Hodgson (Teacher)
+Miss H. Thomsett (Teacher)
+Mrs V. Weir (TA)
+Mrs L. Morgan-Anstee (TA)
+Mrs D. Connor (TA)
+
+## Year 3 Team
+
+Mrs E. Pryde (Teacher)
+Mrs M. Stevens (Teacher)
+Mr J. Kilkelly (Teacher)
+Mrs S. Cartwright (Teacher)
+Mrs J. Sweatman (TA)
+Mrs T. Hudson (TA)
+Mrs T. Cleary (TA)
+
+## Year 4 Team
+
+Mrs Y. Morrell (Teacher)
+Mrs E. Lidbury (Teacher)
+Mrs R. Lawton (Teacher)
+Ms K. Braund (TA)
+Ms C. Finch (TA)
+Ms M. Redfern (TA)
+Ms E. Rogers (TA)
 
 ## Year 5 Teachers
 
-Mr C. Veal, Mr J. Smith
+Mr C. Veal (Teacher)
+Mr J. Smith (Teacher)
+Ms G. Grey (TA)
+Ms D. Rogers (TA)
+Ms M. Wright (TA)
 
-## Year 4 Teachers
+## Year 6 Teachers
 
-Mrs Y. Morrell, Miss, Mrs E. Lidbury
-
-## Year 3 Teachers
-
-Mrs E. Pryde, Mr J. Kilkelly, Mrs
-
-## Year 2 Teachers
-
-Mrs A. Donnai, Mrs C. Hodgson, Miss H. Thomsett
-
-## Year 1 Teachers
-
-Mrs G. Quantrell, Miss M. Luff
-
-## Reception Teachers
-
-Mrs E. Simpson, Mrs H. Cammack
-
-## Nursery Teacher
-
-Mrs C. Smith
+Mrs R. Hughes (Teacher)
+Mr S. Ball (Teacher)
+Mrs D. Minear (TA)
+Mrs M. Dower (TA)
+Ms S. Hunt (TA)
 
 ## Modern Foreign Languages
 
 Mrs L. Cheeseworth
 
-## Business Manager
+## Administration Team
 
-Mrs 
-
-## Attendance Officer
-
-Mrs. L. Coe
-
-## Administrative Assistant
-
-Miss. D. O'Halloran
+Business Manager - Mrs K. Dicken
+Administrators - Ms D. O'Halloran, Ms J. Edwards
+Admissions and Attendence Officer - Ms. L. Coe
