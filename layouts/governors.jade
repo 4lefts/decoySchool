@@ -1,9 +1,10 @@
 -
-	var governors = [{img: "drdavidmasheder.jpg", description: "Dr David Masheder, Chair"}, {img: "stevebone.jpg", description: "Steve Bone, Co-opted"}, {img: "simonbarnes.jpg", description: "Simon Barnes, Parent"}, {img: "paulevemy.jpg", description: "Paul Evemy, Local Authority"}, {img: "clairemoors.jpg", description: "Claire Moors, Co-Opted"}, {img: "alexkirkbride.jpg", description: "Alex Kirkbride, Parent"}, {img: "natashalaws.jpg", description: "Natasha Laws, Co-opted"}, {img: "keithmoore.jpg", description: "Keith Moore, Parent"}, {img: "oliverlaity.jpg", description: "Oliver Laity, Parent"}, {img: "peteosborne.jpg", description: "Pete Obsorne, Clerk"}, {img: "stephenball.jpg", description: "Stephen Ball, Staff"}]
+	var governors = [{img: "drdavidmasheder.jpg", description: "Dr David Masheder, Chair"}, {description: "Heather Poustie, Headteacher"}, {img: "simonbarnes.jpg", description: "Simon Barnes, Parent"}, {img: "paulevemy.jpg", description: "Paul Evemy, Local Authority"}, {img: "clairemoors.jpg", description: "Claire Moors, Co-Opted"}, {description: "Sandra Cartwright, co-opted"}, {description: "Paul Reynolds, co-opted"}, {description: "Jo Billings, parent"}, {img: "natashalaws.jpg", description: "Natasha Laws, Co-opted"}, {img: "keithmoore.jpg", description: "Keith Moore, Parent"}, {img: "oliverlaity.jpg", description: "Oliver Laity, Parent"}, {img: "peteosborne.jpg", description: "Pete Obsorne, Clerk"}, {img: "stephenball.jpg", description: "Stephen Ball, Staff"}]
 	var counter = governors.length
 
 .gov-container 
 	each governor in governors
+		- var src = governor.img ? "/images/govs/" + governor.img : "https://via.placeholder.com/300x300"
 		figure.govPic
-			img(src="/images/govs/#{governor.img}", alt="#{governor.description}")
+			img(src="#{src}", alt="#{governor.description}")
 			figcaption= governor.description
