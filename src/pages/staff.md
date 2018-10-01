@@ -31,6 +31,10 @@ Miss H. Thomsett
 
 Mrs S. Stevenson
 
+## Specialist SEND TA
+
+Mrs M. Carson
+
 ## Nursery Team
 
 Mrs C. Smith *(Teacher)*  
