@@ -10,7 +10,12 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School. Thank you for your interest.
+Decoy Primary School is seeking to recruit a Senior Administrative Officer to join our happy and hardworking administration team. Documents for this vacancy can be downloaded here:
+
+* [Advertisment](/docs/admin_advert.pdf)
+* [Job Description](/docs/admin_job_description.pdf)
+* [Person Specification](/docs/admin_person_spec.pdf)
+* [Application Form](/docs/support_staff_application_form.docx)
 
 ## Statutory Information
 
