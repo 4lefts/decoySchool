@@ -93,7 +93,7 @@ Ms C. Finch *(TA)*
 Ms M. Redfern *(TA)*  
 Ms E. Rogers *(TA)*  
 
-## Year 5 Teachers
+## Year 5 Team
 
 Mr C. Veal *(Teacher)*  
 Mr J. Smith *(Teacher)*  
@@ -101,7 +101,7 @@ Ms G. Grey *(TA)*
 Ms D. Rogers *(TA)*  
 Ms M. Wright *(TA)*  
 
-## Year 6 Teachers
+## Year 6 Team
 
 Mrs R. Hughes *(Teacher)*  
 Mr S. Ball *(Teacher)*  

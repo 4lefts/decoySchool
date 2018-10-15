@@ -10,11 +10,11 @@ autotoc: true
 ___
 ## Job Vacancies
 
-Decoy Primary School is seeking to recruit a Senior Administrative Officer to join our happy and hardworking administration team. Documents for this vacancy can be downloaded here:
+Decoy Primary School is looking to appoint two part time teaching assistants who are passionate about supporting all children including children with special needs to make sure that they can learn in a safe and happy environment.
 
-* [Advertisment](/docs/admin_advert.pdf)
-* [Job Description](/docs/admin_job_description.pdf)
-* [Person Specification](/docs/admin_person_spec.pdf)
+* [Advertisment](/docs/taAdvert.pdf)
+* [Job Description](/docs/taJobDesc.pdf)
+* [Person Specification](/docs/taJobSpec.pdf)
 * [Application Form](/docs/support_staff_application_form.docx)
 
 ## Statutory Information
