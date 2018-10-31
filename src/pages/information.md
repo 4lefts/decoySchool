@@ -10,12 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-Decoy Primary School is looking to appoint two part time teaching assistants who are passionate about supporting all children including children with special needs to make sure that they can learn in a safe and happy environment.
-
-* [Advertisment](/docs/taAdvert.pdf)
-* [Job Description](/docs/taJobDesc.pdf)
-* [Person Specification](/docs/taJobSpec.pdf)
-* [Application Form](/docs/support_staff_application_form.docx)
+There are currently no vacancies at Decoy School. Thank you for your interest.
 
 ## Statutory Information
 
