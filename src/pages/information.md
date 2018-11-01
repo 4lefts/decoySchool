@@ -83,7 +83,6 @@ Below are four companies that all produce our uniform at excellent prices; all i
 	<a href="http://www.schooltrends.co.uk/" target="_blank"><img src="../images/uniform/schoolTrends.jpg" alt="School Trends uniform"></a>
 </div>
 
-
 [1]: http://www.legislation.gov.uk/uksi/2012/1124/made
 [2]: /contact-us
 [3]: /admissions-information
@@ -102,7 +101,7 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [16]: https://drive.google.com/file/d/0B76W__U5CTntMklxX1RDT3lNQTg/view?usp=sharing
 [17]: https://drive.google.com/open?id=0B0102cki14zKM1V0bDRJZVFyRmM
 [18]: http://www.uk.issworld.com/
-[19]:
+
 [21]: https://drive.google.com/file/d/0B76W__U5CTntODdGdG9HX0JTTW8/view?usp=sharing
 [22]: https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing
 [23]: https://drive.google.com/drive/folders/0B0102cki14zKbEFTUHJ4RlF4eTA?usp=sharing
