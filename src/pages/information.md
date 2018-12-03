@@ -10,9 +10,16 @@ autotoc: true
 ___
 ## Job Vacancies
 
-Decoy Primary School is seeking to recruit an Administrator to join our happy and hardworking administration team. If you are interested in applying, please refer to the documents linked below:
+We are looking to appoint a part time teaching assistant who is passionate about supporting all children including children with special needs to make sure that they can learn in a safe and happy environment. 
 
-- [Administrator Job Advertisment](/docs/admin-job-advert.pdf)
+- [Teaching Assistant Grade C Job Advertisement](/docs/grade-c-ta-advert-dec-2018.pdf)
+- [Teaching Assistant Grade C Job Description](/docs/grade-c-ta-job-description.pdf)
+- [Teaching Assistant Grade C Person Specification](/docs/grade-c-ta-person-spec.pdf)
+- [Application Form](/docs/application-form-support-staff.docx)
+
+We are also seeking to recruit an Administrator to join our happy and hardworking administration team. If you are interested in applying, please refer to the documents linked below:
+
+- [Administrator Job Advertisement](/docs/admin-job-advert.pdf)
 - [Administrator Job Description](/docs/admin-job-description.pdf)
 - [Administrator Grade C Person Specification](/docs/person-spec-admin-grade-c.pdf)
 - [Application Form](/docs/application-form-support-staff.docx)
