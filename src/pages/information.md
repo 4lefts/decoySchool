@@ -36,18 +36,17 @@ The following statutory information is found on this site.  A hyperlink will tak
 | **Accessibility Plan** | For our 2016 - 2019 Accessibility Plan please click [here][28]. |
 | **Ofsted Report** | Our most recent reports can be found [here][6]. |
 | **Ofsted: A Guide for Parents** | A leaflet for parents & carers of children whose school is due for inspection can be found [here][25]. |
-| **2016 Assessments** | These can be found [here][7]. |
-| **School Performance Tables** | Our online performance tables can be viewed [here][8]. |
+| **Most Recent Assessments** | Our online performance tables can be viewed [here][8]. |
 | **Behaviour Policy** | Can be found on our [policies page][9]. |
-| **Child Protection Policy** | Can be found [here][26]. |
-| **Complaints Procedure** | Can be found here [policies page][22]. |
+| **Child Protection Policy** | Can also be found on our [policies page][9]. |
+| **Complaints Procedure** | Is also found on the [policies page][9]. |
 | **Pupil Premium Policy & Strategy** | Can be found [here][10]. |
 | **Sports Grant** | Can be found [here][11]. |
 | **SEND Policy** | Can be found on our [policies page][9]. |
 | **SEND Report** | Can be found [here][12]. |
 | **SEND Local Offer** | Devon's Local Offer for SEND can be found [here][24]. |
 | **Charging and Remissions Policy** | Can be found on our [policies page][9]. |
-| **Privacy Notice** | Can be found [here][23]. |
+| **Privacy Notice** | Can be found [here][9]. |
 | **The School's Ethos and Values** | On our [Values page][13]. |
 | **Our Curriculum** | On our [Curriculum page][14]. Please scroll down for links to details of curricula followed by [individual year groups][15]. |
 | **Governors Details** | Is with other [Governors information][17], together with meetings of minutes and reports by members of the governing body. |
@@ -59,12 +58,10 @@ The following statutory information is found on this site.  A hyperlink will tak
 <div class="cf infoButtons">
 
 [Useful Documents](https://drive.google.com/folderview?id=0B0102cki14zKUmg5Y1FYcVhwUlU&usp=sharing)
-[Prospectus](https://drive.google.com/open?id=0B76W__U5CTntaFhPYlhjYnRiQ2s)
 [Letters to Parents](https://drive.google.com/folderview?id=0B0102cki14zKOVZRWUpkSDdUSnc&usp=sharing)
 [Term Dates](https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKMHplN1ptRkp5N00&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU#grid)
 [Policies](https://drive.google.com/folderview?id=0B0102cki14zKb1RVdnV6T0dQOG8&usp=sharing)
 [Governors Information](https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing)
-[PTA Information](https://drive.google.com/folderview?id=0B0102cki14zKeXFpRG4zamI5Rmc&usp=sharing)
 [Ofsted Reports](http://www.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/113209)
 [DfE School Data](http://www.education.gov.uk/cgi-bin/schools/performance/school.pl?urn=113209)
 

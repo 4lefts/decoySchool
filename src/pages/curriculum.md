@@ -40,21 +40,21 @@ These include:
 We use a wide variety of reading schemes but make sure that the first books we introduce to the children are phonically decodable.
 
 
-## <a name="down"></a>Year Group Curriculum
-Please use these links to find detailed information about the curriculum for each year group.
-
-Have a look at our school prospectus, or talk to class teachers if you would like more information about our curriculum.
+## <a name="down"></a>Year Group Curricula
+___
+*These links will show the details of each year group's curriculum. However, these documents are currently being updated. Thank you for your patience.*
+___
 If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
 <div class="cf infoButtons">
-	[Nursery Curriculum][1]
-	[Reception Curriculum][2]
-	[Year 1 Curriculum][3]
-	[Year 2 Curriculum][4]
-	[Year 3 Curriculum][5]
-	[Year 4 Curriculum][6]
-	[Year 5 Curriculum][7]
-	[Year 6 Curriculum][8]
+	[Nursery Curriculum](#down)
+	[Reception Curriculum](#down)
+	[Year 1 Curriculum](#down)
+	[Year 2 Curriculum](#down)
+	[Year 3 Curriculum](#down)
+	[Year 4 Curriculum](#down)
+	[Year 5 Curriculum](#down)
+	[Year 6 Curriculum](#down)
 </div>
 
 [1]: https://drive.google.com/open?id=0B76W__U5CTntazB2SDNKYnlldHM
