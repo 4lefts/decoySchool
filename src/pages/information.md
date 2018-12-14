@@ -17,13 +17,6 @@ We are looking to appoint a part time teaching assistant who is passionate about
 - [Teaching Assistant Grade C Person Specification](/docs/grade-c-ta-person-spec.pdf)
 - [Application Form](/docs/application-form-support-staff.docx)
 
-We are also seeking to recruit an Administrator to join our happy and hardworking administration team. If you are interested in applying, please refer to the documents linked below:
-
-- [Administrator Job Advertisement](/docs/admin-job-advert.pdf)
-- [Administrator Job Description](/docs/admin-job-description.pdf)
-- [Administrator Grade C Person Specification](/docs/person-spec-admin-grade-c.pdf)
-- [Application Form](/docs/application-form-support-staff.docx)
-
 ## Statutory Information
 
 The [School Information Regulations 2012][1] define the statutory information that must be easily available on school websites. This is to help parents make informed choices and to assist Ofsted in their evaluation of our school.
