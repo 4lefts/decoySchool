@@ -10,12 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-We are looking to appoint a part time teaching assistant who is passionate about supporting all children including children with special needs to make sure that they can learn in a safe and happy environment. 
-
-- [Teaching Assistant Grade C Job Advertisement](/docs/grade-c-ta-advert-dec-2018.pdf)
-- [Teaching Assistant Grade C Job Description](/docs/grade-c-ta-job-description.pdf)
-- [Teaching Assistant Grade C Person Specification](/docs/grade-c-ta-person-spec.pdf)
-- [Application Form](/docs/application-form-support-staff.docx)
+There are currently no job vacancies at Decoy School. Thank you for your interest.
 
 ## Statutory Information
 
