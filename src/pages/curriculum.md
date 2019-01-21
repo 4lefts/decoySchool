@@ -41,27 +41,15 @@ We use a wide variety of reading schemes but make sure that the first books we i
 
 
 ## <a name="down"></a>Year Group Curricula
-___
-*These links will show the details of each year group's curriculum. However, these documents are currently being updated. Thank you for your patience.*
-___
-If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
+
+Please use this links below for an overview of the curriculum being followed by each year group, for the spring term 2019. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
 <div class="cf infoButtons">
-	[Nursery Curriculum](#down)
-	[Reception Curriculum](#down)
-	[Year 1 Curriculum](#down)
-	[Year 2 Curriculum](#down)
-	[Year 3 Curriculum](#down)
-	[Year 4 Curriculum](#down)
-	[Year 5 Curriculum](#down)
-	[Year 6 Curriculum](#down)
+	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Spring-2019.pdf)
+	[Year 1 Curriculum](/docs/Year-1-Curriculum-Overview-Spring-2019.pdf)
+	[Year 2 Curriculum](/docs/Year-2-Curriculum-Overview-Spring-2019.pdf)
+	[Year 3 Curriculum](/docs/Year-3-Curriculum-Overview-Spring-2019.pdf)
+	[Year 4 Curriculum](/docs/Year-4-Curriculum-Overview-Spring-2019.pdf)
+	[Year 5 Curriculum](/docs/Year-5-Curriculum-Overview-Spring-2019.pdf)
+	[Year 6 Curriculum](/docs/Year-6-Curriculum-Overview-Spring-2019.pdf)
 </div>
-
-[1]: https://drive.google.com/open?id=0B76W__U5CTntazB2SDNKYnlldHM
-[2]: https://drive.google.com/open?id=0B76W__U5CTntd25PZjBiTGpCcTA
-[3]: https://drive.google.com/file/d/0B76W__U5CTntVmMxUHNIcUlBSG8/view?usp=sharing
-[4]: https://drive.google.com/file/d/0B76W__U5CTntZ1ZpRktrNFpubVE/view?usp=sharing
-[5]: https://drive.google.com/file/d/0B76W__U5CTntYUJGSmhXcUtic28/view?usp=sharing
-[6]: https://drive.google.com/file/d/0B76W__U5CTntWHI2cERnOV9VUkE/view?usp=sharing
-[7]: https://drive.google.com/file/d/0B76W__U5CTntRkMtX3RyZDRjSlk/view?usp=sharing
-[8]: https://drive.google.com/file/d/0B76W__U5CTntcnBSVzd6ZV9VWE0/view?usp=sharing
