@@ -69,11 +69,14 @@ Our school lunches are provided by [ISS Education][18], who specialise in school
 Below are four companies that all produce our uniform at excellent prices; all items have been viewed and are of great quality. Which one you use is up to you!
 
 <div class="contentPics">
-	<a href="https://www.tesco.com/direct/decoy-community-primary-school/7344.school " target="_blank"><img src="../images/uniform/fflogo.jpg" alt="F and F uniform"></a>
+	<a href="https://myclothing.com/" target="_blank"><img src="../images/uniform/my-clothing-logo.png" alt="my clothing uniform"></a>
 	<a href="https://shop.price-buckland.co.uk/decoy" target="_blank"><img src="../images/uniform/priceAndBuckland.jpg" alt="Price and Buckland uniform"></a>
 	<a href="http://pmgschoolwear.co.uk/" target="_blank"><img src="../images/uniform/pmg.jpg" alt="PMG schoolwear"></a>
 	<a href="http://www.schooltrends.co.uk/" target="_blank"><img src="../images/uniform/schoolTrends.jpg" alt="School Trends uniform"></a>
 </div>
+
+
+
 
 [1]: http://www.legislation.gov.uk/uksi/2012/1124/made
 [2]: /contact-us
