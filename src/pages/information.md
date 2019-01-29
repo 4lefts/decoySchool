@@ -14,19 +14,19 @@ We are looking to appoint a full-time teaching assistant who is passionate about
 
 - [SEND Teaching Assistant Job Advertisment](/docs/SEND-TA-Advert.pdf)
 - [Teaching Assistant Job Description](/docs/TA-Information-Guidance.pdf)
-- [Application Form](/docs/Application-Form-Support-Staff.docx)
+- [Application Form](/docs/application-form.docx)
 
 Also, we are looking to appoint a part-time teaching assistant who is passionate about supporting all children to join our enthusiastic and hard working team.
 
 - [Teaching Assistant Job Advertisment](/docs/TA-Advert.pdf)
 - [Teaching Assistant Job Description](/docs/TA-Information-Guidance.pdf)
-- [Application Form](/docs/Application-Form-Support-Staff.docx)
+- [Application Form](/docs/application-form.docx)
 
 An exciting opportunity has arisen due to a vacancy for an Out of School Play Worker (Grade B) at our thriving Breakfast and After School Clubs.
 
 - [Play Worker Job Advertisment](/docs/BASC-Advert.pdf)
 - [Play Worker Job Description](/docs/BASC-job-description.pdf)
-- [Application Form](/docs/Application-Form-Support-Staff.docx)
+- [Application Form](/docs/application-form.docx)
 
 ## Statutory Information
 
