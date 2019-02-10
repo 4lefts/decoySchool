@@ -10,23 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-We are looking to appoint a full-time teaching assistant who is passionate about supporting children with SEND to make sure they learn in a safe and happy environment.
-
-- [SEND Teaching Assistant Job Advertisment](/docs/SEND-TA-Advert.pdf)
-- [Teaching Assistant Job Description](/docs/TA-Information-Guidance.pdf)
-- [Application Form](/docs/application-form.docx)
-
-Also, we are looking to appoint a part-time teaching assistant who is passionate about supporting all children to join our enthusiastic and hard working team.
-
-- [Teaching Assistant Job Advertisment](/docs/TA-Advert.pdf)
-- [Teaching Assistant Job Description](/docs/TA-Information-Guidance.pdf)
-- [Application Form](/docs/application-form.docx)
-
-An exciting opportunity has arisen due to a vacancy for an Out of School Play Worker (Grade B) at our thriving Breakfast and After School Clubs.
-
-- [Play Worker Job Advertisment](/docs/BASC-Advert.pdf)
-- [Play Worker Job Description](/docs/BASC-job-description.pdf)
-- [Application Form](/docs/application-form.docx)
+There are currently no vacancies at Decoy School. Thank you for your interest.
 
 ## Statutory Information
 
