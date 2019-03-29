@@ -295,6 +295,23 @@ header{
 	}
 }
 
+.uniformPics{
+	a{
+		display: flex;
+		padding: $gutter;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin: $gutter 0;
+		border: 1px solid $decoy-green;
+		border-radius: 5px;
+	}
+	img{
+		display: block;
+		margin: $gutter 0 0 0;
+	}
+}
+
 section.main{
 	width:100%;
 	margin: 0 auto 1em auto;
