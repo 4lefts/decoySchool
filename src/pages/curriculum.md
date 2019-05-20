@@ -1,5 +1,5 @@
 ---
-title: Curriculum
+title: Our School Curriculum
 menuLabel: Curriculum
 layout: page.jade
 order: 2
@@ -7,37 +7,43 @@ order: 2
 
 *For details of the curriculum followed by each year group, please scroll [down](#down).*
 ___
-From September 2014 a new National Curriculum has been introduced in England with new programmes of study and attainment targets.
 
-## Why the big curriculum change?
+The curriculum is planned for Foundation Stage, Key Stage 1 and Key Stage 2. Key Stage 2 is now in two phases, "Lower" and "Upper" Key Stage 2.
 
-The main aim is to raise standards. The new curriculum has been developed partly by comparing England’s curriculum to those in other countries. As the Department of Education puts it, it’s all about trying to compete in the global economy and the forthcoming curriculum “combines the best elements of what is taught in the world’s most successful school systems, including Hong Kong, Massachusetts, Singapore and Finland, with some of the most impressive [existing] practice from schools in England.”
+**Curriculum Intent** (currently under review): All children learn, practice, develop and refine a wide range of skills in their work across the curriculum. Every child's ability is recognised, developed and rewarded with our curriculum tailored to meet individual needs and aspirations. We have high expectations and a strong focus on literacy and numeracy across the curriculum.
 
-Although the new curriculum is intended to be more challenging, the content is actually slimmer than the current curriculum, focusing on essential core subject knowledge and skills such as essay writing and computer programming.
+We promote enjoyment for learning and encourage children to work independently, with partners and in groups helping them embed social skills though collaboration and cooperation. To meet each child's individual needs, we provide extra support, enrichment and new challenges to help every child fulfil their potential.
 
-## The main changes
+Pupil engagement is key to pupil success and we plan relevant, enjoyable and interesting experiences to broaden thinking and develop a love of lifelong learning. All children access a wide range of extra-curricular activities - we welcome visitors, plan exciting trips off site and organise residential stays to France and the Isle of Wight to support learning and enthuse and inspire.
 
-The table below summarises the main changes in the core subjects.
+Alongside the statutory National Curriculum, PSHE and RE, our curriculum also includes the 'hidden curriculum'. We aim to teach children how to grow into positive, responsible people, who can work and co-operate with others while developing knowledge and skills and crucially achieve all that they can.
 
-| **Subject** |	**What’s new?** |
-|-------------|-----------------|
-| **English** | <ul><li>Stronger emphasis on vocabulary development, grammar, punctuation and spelling (for example, the use of commas and apostrophes will be taught in KS1)</li><li>Handwriting (not currently assessed under the national curriculum) is expected to be fluent, legible and speedy</li><li>Spoken English has a greater emphasis, with children to be taught debating and presenting skills</li></ul>|
-| **Maths**	|<ul><li>Five-year-olds will be expected to learn to count up to 100 (compared to 20 under the current curriculum) and learn number bonds to 20 (currently up to 10)</li><li>Simple fractions (1/4 and 1/2) will be taught from KS1, and by the end of primary school, children should be able to convert decimal fractions to simple fractions (e.g. 0.375 = 3/8)</li><li>By the age of nine, children will be expected to know times tables up to 12×12 (currently 10×10 by the end of primary school)</li><li>Calculators will not be introduced until near the end of KS2, to encourage mental arithmetic</li></ul>|
-| **Science** |<ul><li>Strong focus on scientific knowledge and language, rather than understanding the nature and methods of science in abstract terms</li><li>Evolution will be taught in primary schools for the first time</li><li>Non-core subjects like caring for animals will be replaced by topics like the human circulatory system</li></ul>|
-| **Design & Technology** |<ul><li>Design and Technology has become more important in the new curriculum, setting children on the path to becoming the designers and engineers of the future</li><li>More sophisticated use of design equipment such as electronics and robotics</li><li>In KS2, children will learn about how key events and individuals in design and technology have shaped the world.</li></ul>|
-| **ICT** |<ul><li>Computing replaces Information and Communication Technology (ICT), with a greater focus on programming rather than on operating programs</li><li>From age five, children will learn to write and test simple programs, and to organise, store and retrieve data</li><li>From seven, they will be taught to understand computer networks, including the internet</li><li>Internet safety – currently only taught from 11-16 – will be taught in primary schools</li></ul>|
-| **Languages**	|<ul><li>Currently not statutory, a modern foreign language or ancient language (Latin or Greek) will be mandatory in KS2. Children will be expected to master basic grammar and accurate pronunciation and to converse, present, read and write in the language</li></ul>|
+The links below outline the curriculum during the academic year for each year group and the termly overviews.
 
-In order to prepare pupils for the more ambitious end of year expectations in English, Mathematics and Science, as set out in the new curriculum, teachers at Decoy have amended their delivery of the programmes of study detailed above as appropriate. New programmes of study for English and Mathematics have been adopted in full from September 2014, in line with guidance from the Department of Education and our creative curriculum has been fully updated to account for these changes. New maths resources are being invested in, and a new English programme has been adopted from September to take account of these changes.
+If you would like any other information about our school curriculum, please contact Mrs. Heather Poustie, Headteacher.
 
 ## Phonics and Reading Schemes
-
-We use a variety of resources to support our youngest children to develop thier phonic and early reading skills.
-
-These include:
-**Jolly Phonics, Letters & Sounds, Big Cat Phonic Books, Ruth Miskin Phonic Books, Songbirds Phonic Readers** and **Dandelion Readers.**
-
+We use a variety of resources to support our youngest children to develop their phonic and early reading skills.
+These include: **Jolly Phonics**, **Letters & Sounds**, **Big Cat Phonic Books**, **Ruth Miskin Phonic Books**, **Songbirds Phonic Readers** and **Dandelion Readers**.
 We use a wide variety of reading schemes but make sure that the first books we introduce to the children are phonically decodable.
+Letters and Sounds is a phonics resource published by the Department for Education and Skills in 2007. It aims to build children's speaking and listening skills in their own right as well as to prepare children for learning to read by developing their phonic knowledge and skills. It sets out a detailed and systematic programme for teaching phonic skills for children starting by the age of five, with the aim of them becoming fluent readers by age seven.
+The programme develops through six phases, with children learning new phonic skills in a well-resourced environment. All our teachers and teaching assistants are trained in the delivery of Letters and Sounds and so we are able to run a number of small, ability-based groups.
+We use Jolly Phonics to support children’s learning of phonics. Jolly Phonics is a fun and child centred approach to teaching literacy through synthetic phonics. With actions for each of the sounds, the multi-sensory method is very motivating for children and teachers, who can see their students achieve.
+We also run parent workshops to enable parents to better support their children in learning phonics.
+
+| **Phase** | **Phonic Knowledge and Skills** |
+|-------|-----------------------------|
+| *Phase One* (Nursery/Reception) | Activities are divided into seven aspects, including environmental sounds, instrumental sounds, body sounds, rhythm and rhyme, alliteration, voice sounds and finally oral blending and segmenting. |
+| *Phase Two* (Reception) up to 6 weeks | Learning 19 letters of the alphabet and one sound for each. Blending sounds together to make words. Segmenting words into their separate sounds. Beginning to read simple captions. |
+| *Phase Three* (Reception) up to 12 weeks | The remaining 7 letters of the alphabet, one sound for each. Graphemes such as ch, oo, th representing the remaining phonemes not covered by single letters. Reading captions, sentences and questions. On completion of this phase, children will have learnt the "simple code", i.e. one grapheme for each phoneme in the English language. |
+| *Phase Four* (Reception) 4 to 6 weeks | No new grapheme-phoneme correspondences are taught in this phase. Children learn to blend and segment longer words with adjacent consonants, e.g. swim, clap, jump. |
+| *Phase Five* (Throughout Year 1) | Now we move on to the "complex code". Children learn more graphemes for the phonemes which they already know, plus different ways of pronouncing the graphemes they already know |
+| *Phase Six* (Throughout Year 2 and beyond) | Working on spelling, including prefixes and suffixes, doubling and dropping letters, etc. |
+
+## Early Reading
+
+Teaching of phonics is integral to the teaching of reading and although a major part, it is not the only thing we do. We have a range of reading books from which the children can choose. These are organised into colour bands, through which children progress as their phonic and comprehension skills develop. In addition to Letters and Sounds sessions, the children are taught by their teacher in what are called "guided reading" groups where teachers teach and assess children's reading skills. Children are also free to borrow books from our school library.
+
 
 
 ## <a name="down"></a>Year Group Curricula
