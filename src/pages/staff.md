@@ -117,4 +117,4 @@ Mrs L. Cheeseworth
 
 Mrs K. Dicken - *Business Manager*  
 Ms D. O'Halloran, Ms J. Edwards - *Administrators*  
-Ms. L. Coe - *Admissions and Attendence Officer*
+Ms. L. Coe - *Admissions and Attendance Officer*

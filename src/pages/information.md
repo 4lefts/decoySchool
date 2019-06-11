@@ -10,7 +10,10 @@ autotoc: true
 ___
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School. Thank you for your interest.
+We are currently looking to appoint a teacher to join our year 1 team. Please use the links below to download a person specification and an application form:
+
+- [Person Specification](/docs/Person-Spec-Teacher.pdf)
+- [Application Form](/docs/Application-Form-Teaching.docx)
 
 ## Statutory Information
 
@@ -63,7 +66,7 @@ Our school lunches are provided by [ISS Education][18], who specialise in school
 
 |  |**Winter Uniform**  | **Summer Uniform** | **PE Lessons** |
 |--|--------------------|--------------------|----------------|
-| **Girls** | Grey skirt, grey pinafore or grey trousers. White blouse or white polo shirt. School Sweatshirt. White socks. Sensible black shoes. | As winter / or Green gingham dress. Plain sandals. | White or black PE shorts. White or green polo shirt. Plain black leotard. Plimsoles or trainers. Tracksuit or jogging bottoms. |
+| **Girls** | Grey skirt, grey pinafore or grey trousers. White blouse or white polo shirt. School Sweatshirt. White socks. Sensible black shoes. | As winter / or Green gingham dress. Plain sandals. | White or black PE shorts. White or green polo shirt. Plimsoles or trainers. Tracksuit or jogging bottoms. |
 | **Boys** | Grey trousers. White shirt or white polo shirt. School sweatshirt. Grey socks. Sensible black shoes. | As winter / or Grey shorts. Plain sandals. | White or black PE shorts. White or green polo shirt. Plimsoles or trainers. Tracksuit or jogging bottoms. |
 
 Below are four companies that all produce our uniform at excellent prices; all items have been viewed and are of great quality. Which one you use is up to you!
