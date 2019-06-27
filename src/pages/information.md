@@ -10,10 +10,7 @@ autotoc: true
 ___
 ## Job Vacancies
 
-We are currently looking to appoint a teacher to join our year 1 team. Please use the links below to download a person specification and an application form:
-
-- [Person Specification](/docs/Person-Spec-Teacher.pdf)
-- [Application Form](/docs/Application-Form-Teaching.docx)
+There are currently no vacancies at Decoy School.
 
 ## Statutory Information
 
