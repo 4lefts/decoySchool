@@ -51,11 +51,11 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 Please use this links below for an overview of the curriculum being followed by each year group, for the spring term 2019. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
 <div class="cf infoButtons">
-	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Spring-2019.pdf)
-	[Year 1 Curriculum](/docs/Year-1-Curriculum-Overview-Spring-2019.pdf)
-	[Year 2 Curriculum](/docs/Year-2-Curriculum-Overview-Spring-2019.pdf)
-	[Year 3 Curriculum](/docs/Year-3-Curriculum-Overview-Spring-2019.pdf)
-	[Year 4 Curriculum](/docs/Year-4-Curriculum-Overview-Spring-2019.pdf)
-	[Year 5 Curriculum](/docs/Year-5-Curriculum-Overview-Spring-2019.pdf)
-	[Year 6 Curriculum](/docs/Year-6-Curriculum-Overview-Spring-2019.pdf)
+	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 1 Curriculum](/docs/Year-1-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 2 Curriculum](/docs/Year-2-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 3 Curriculum](/docs/Year-3-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 4 Curriculum](/docs/Year-4-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 5 Curriculum](/docs/Year-5-Curriculum-Overview-Autumn-2019.pdf)
+	[Year 6 Curriculum](/docs/Year-6-Curriculum-Overview-Autumn-2019.pdf)
 </div>

@@ -6,7 +6,7 @@ order: 4
 autotoc: true
 ---
 
-*For more useful information, such as term dates and letters to parents, please scroll [down](#down).*
+*For further useful information, such as term dates and letters to parents, please scroll [down](#down).*
 ___
 ## Job Vacancies
 
