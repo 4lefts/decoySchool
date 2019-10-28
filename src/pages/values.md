@@ -4,6 +4,7 @@ menuLabel: Values
 layout: page.jade
 order: 1
 ---
+
 <div class="vision cf">
 	<h1><em>Inspiring<br>Positive Futures</em></h1>
 </div>
@@ -15,6 +16,7 @@ Decoy Community Primary School actively encourages its children to become caring
 ## Aims
 
 At Decoy Community Primary School, we aim to:
+
 - Provide a happy and stimulating learning environment which promotes curiosity, creativity, enjoyment and interest in all aspects of learning.
 - Provide high quality education suitable for the needs of each child using a wide range of teaching methods and experiences.
 - Ensure all members of the school staff are confident in their respective roles, working together as a team, co-ordinated by effective leadership.
@@ -49,6 +51,6 @@ It's as easy as that!
 
 ## Behaviour
 
-It is  a primary aim of our school that every member of the school community feels  valued and respected, and that each person is treated fairly and well. At Decoy  School we believe that all children have the right to learn and feel safe and  happy at school. We are a caring community, whose values are built on mutual  trust and respect for all. We believe in an environment which encourages  children and builds self esteem, so that children become more confident, mature  independent learners and members of society. The school [behaviour policy][1] is  therefore designed to support a structure for managing behaviour within the  school that is sensible and understood by all members of the school community.
+It is a primary aim of our school that every member of the school community feels valued and respected, and that each person is treated fairly and well. At Decoy School we believe that all children have the right to learn and feel safe and happy at school. We are a caring community, whose values are built on mutual trust and respect for all. We believe in an environment which encourages children and builds self esteem, so that children become more confident, mature independent learners and members of society. The school [behaviour policy][1] is therefore designed to support a structure for managing behaviour within the school that is sensible and understood by all members of the school community.
 
-[1]: https://drive.google.com/open?id=0B76W__U5CTntNi1EV2FFZEpKdHM
+[1]: https://drive.google.com/open?id=1T9S1LezXR3_Y6Hpu3YeCwt7Hhu_aMssM

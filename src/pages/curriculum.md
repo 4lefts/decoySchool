@@ -62,7 +62,7 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 ## <a name="down"></a>Year Group Curricula
 
-Please use this links below for an overview of the curriculum being followed by each year group, for the spring term 2019. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
+Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
 <div class="cf infoButtons">
 	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Autumn-2019.pdf)
