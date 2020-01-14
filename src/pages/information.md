@@ -12,7 +12,11 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-There are currently no vacancies at Decoy School.
+We are currently looking to appoint a class teacher to cover maternity leave in our EYFS setting. Please use the links below to download documentation for this role:
+
+- [Application Pack](/docs/EYFS-Application-Pack.pdf)
+- [Job Description](/docs/EYFS-Class-Teacher-JD.pdf)
+- [Person Specification](/docs/EYFS-Class-Teacher-Person-Specification.pdf)
 
 ## Statutory Information
 
