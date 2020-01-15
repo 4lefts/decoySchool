@@ -17,6 +17,7 @@ We are currently looking to appoint a class teacher to cover maternity leave in 
 - [Application Pack](/docs/EYFS-Application-Pack.pdf)
 - [Job Description](/docs/EYFS-Class-Teacher-JD.pdf)
 - [Person Specification](/docs/EYFS-Class-Teacher-Person-Specification.pdf)
+- [Application Form](/docs/Application-Form-Teaching.docx)
 
 ## Statutory Information
 
