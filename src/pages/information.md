@@ -12,11 +12,11 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-We are currently looking to appoint a class teacher to cover maternity leave in our EYFS setting. Please use the links below to download documentation for this role:
+We are currently looking to appoint a class teacher to cover a secondment in year 1. Please use the links below to download documentation for this role:
 
-- [Application Pack](/docs/EYFS-Application-Pack.pdf)
-- [Job Description](/docs/EYFS-Class-Teacher-JD.pdf)
-- [Person Specification](/docs/EYFS-Class-Teacher-Person-Specification.pdf)
+- [Application Pack](/docs/Application-Pack-2020-y1.pdf)
+- [Job Description](/docs/Class-Teacher-JD.pdf)
+- [Person Specification](/docs/Teacher-Person-Spec-Y1.pdf)
 - [Application Form](/docs/Application-Form-Teaching.docx)
 
 ## Statutory Information
