@@ -64,6 +64,20 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
+### Spring 2020
+
+<div class="cf infoButtons">
+	[Reception Curriculum](/docs/yr-curriculum-spring-2020.pdf)
+	[Year 1 Curriculum](/docs/y1-curriculum-spring-2020.pdf)
+	[Year 2 Curriculum](/docs/y2-curriculum-spring-2020.pdf)
+	[Year 3 Curriculum](/docs/y3-curriculum-spring-2020.pdf)
+	[Year 4 Curriculum](/docs/y4-curriculum-spring-2020.pdf)
+	[Year 5 Curriculum](/docs/y5-curriculum-spring-2020.pdf)
+	[Year 6 Curriculum](/docs/y6-curriculum-spring-2020.pdf)
+</div>
+
+### Autumn 2019
+
 <div class="cf infoButtons">
 	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Autumn-2019.pdf)
 	[Year 1 Curriculum](/docs/Year-1-Curriculum-Overview-Autumn-2019.pdf)
