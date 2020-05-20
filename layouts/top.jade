@@ -9,7 +9,8 @@ link(rel="icon" href="/favicon.ico" type="image/x-icon")
 link(href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic', rel='stylesheet' type='text/css')
 link(href='https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two&text=Welcome%20to%20Decoy%20Community%20Primary%20School', rel='stylesheet', type='text/css')
 link(rel="stylesheet", type="text/css" href="/styles/style.css")
-title #{title} | #{site.title}
+-var t = title ? title + ' |' : '' 
+title #{t} #{site.title}
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 script.

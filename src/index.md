@@ -4,7 +4,7 @@ layout: page.jade
 permalink: false
 ---
 
-## EYFS Summer Starters
+## EYFS September Starters
 
 Mrs Smith has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
 
