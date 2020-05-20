@@ -23,8 +23,9 @@ html
 
 			#content
 				section.main
-					h1= title
-					hr
+					if title
+						h1= title
+						hr
 					!= contents
 
 					if path == 'our-governors'

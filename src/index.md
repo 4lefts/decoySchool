@@ -1,8 +1,14 @@
 ---
-title: Reach for the Stars!
+title:
 layout: page.jade
 permalink: false
 ---
+
+## EYFS Summer Starters
+
+Mrs Smith has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
+
+## Reach for the Stars
 
 Despite everyone being stuck at home, Mr Smith and the Year 5 children have put together this amazing video of "Reach for the Stars"! Well done everyone!
 <video width="100%" height="auto" controls>
@@ -17,7 +23,7 @@ _We are currently updating our website. Thank you for your understanding._
 
 ---
 
-## Welcome
+## Welcome Message from Mrs Poustie
 
 On behalf of the children, staff, and governors I should like to welcome you to Decoy Primary School.
 
