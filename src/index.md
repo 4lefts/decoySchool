@@ -6,7 +6,7 @@ permalink: false
 
 ## EYFS September Starters
 
-Mrs Smith has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
+The Early Years Team has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
 
 ## Reach for the Stars
 
