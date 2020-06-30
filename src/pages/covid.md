@@ -7,6 +7,8 @@ order: 0
 
 ## Phased Reopening of Decoy Community Primary School
 
+![Outdoor junk band](/images/misc/c2.jpg)
+
 ### An A-Z of our Provision
 
 Since schools closed from 23rd March, we have continued to provide childcare for vulnerable children and the children of critical workers who were unable to care for their children safely at home due to work commitments. Now that government restrictions are being lifted and having completing a comprehensive risk assessment that has been approved by the governing Body and submitted to the Local Authority. We have finalised our planning and preparation and staff are looking forward to welcoming more children back to school.
@@ -36,6 +38,8 @@ Children will need to be **dropped off and picked up by only one adult**. The de
 | **10**  | 9:10am    | 3:40pm     | BASC Gate in car park (queuing along car park)          |
 | **11**  | 8:50am    | 3:20pm     | Car Park Gate (queuing along car park)                  |
 
+![Children using computers](/images/misc/c4.jpg)
+
 We will use these staggered times to reduce the amount of people in and around the school at the start and end of the day. We strongly encourage a one-way system for walking up the slip road to the school car park with everyone walking on the left both to and from school. We have put up signage as a reminder to keep 2 metres apart.
 
 The car park will also have a one-way system which will be clearly marked. We ask that children/parents enter through the wider gate on the left as you arrive and exit through the pedestrian gate on the left as you leave.
@@ -53,6 +57,8 @@ As previously stated, parents/carers and children should not congregate outside 
 ### Attendance
 
 Attendance is not compulsory. We will respect your wishes and you will not be fined or receive any letters from the Educational Welfare Officer if you decide that you do not want your child to come into school.
+
+![Children doing science outside](/images/misc/c1.jpg)
 
 ### BASC
 
@@ -87,6 +93,8 @@ Whenever possible, first aid will be administered by staff from your child’s p
 Children will continue to wash hands regularly and at key points during the day with soap and water for 20 seconds and dry thoroughly. They may also use antibacterial hand gel. You can send in your own sanitiser for them to keep if you would prefer but please remind them that they cannot share this with anyone else. We ensure that children wash their hands when they arrive and after each activity and use songs and posters to engage the children and help them to understand how important this is.
 The latest guidance and video on hand washing can be found at:
 [https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands]
+
+![Children doing English](/images/misc/c3.jpg)
 
 ### Health
 
