@@ -4,6 +4,15 @@ layout: page.jade
 permalink: false
 ---
 
+## A Message from Mrs Poustie
+
+Here's Mrs Poustie's assembly to finish off this school year. There's a story and a message about what's coming up when we come back to school in September.
+<video width="100%" height="auto" controls>
+
+  <source src="/docs/Assembly.mp4" type="video/mp4">
+  Your browser does not support the HTML video.
+</video>
+
 ## EYFS September Starters
 
 The Early Years Team has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
