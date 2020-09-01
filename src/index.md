@@ -4,6 +4,15 @@ layout: page.jade
 permalink: false
 ---
 
+## Goodbye to Year 6!
+
+Here's our leavers' assembly for Year 6. We'll miss you all, and wish you all the best for next year.
+<video width="100%" height="auto" controls>
+
+  <source src="/docs/Leavers-Assembly-Final.m4v" type="video/mp4">
+  Your browser does not support the HTML video.
+</video>
+
 ## EYFS September Starters
 
 The Early Years Team has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
