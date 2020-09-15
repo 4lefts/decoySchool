@@ -4,33 +4,18 @@ layout: page.jade
 permalink: false
 ---
 
-## Goodbye to Year 6!
+## THANK YOU
 
-Here's our leavers' assembly for Year 6. We'll miss you all, and wish you all the best for next year.
-<video width="100%" height="auto" controls>
+Decoy Primary School would like to say a huge **“THANK YOU” to ‘Amberon’** for allowing our school to borrow 200 traffic cones in order to create our one-way ‘drop-off’ and ‘pick-up’ system around school. Their kindness in helping us out has meant that our school community has been able to stay much safer during what are the busiest times of the school day.
 
-  <source src="/docs/Leavers-Assembly-Final.m4v" type="video/mp4">
-  Your browser does not support the HTML video.
-</video>
+![Playground layout with cones](/images/misc/cones_playground1.jpeg)
 
-## EYFS September Starters
+**Amberon** were quick to get in touch with us and their communication and response to our request was more than impressive. Our contact, Ryan, was extremely helpful and we greatly appreciated his support with this.  
+From behalf of all of the children, staff, parents, families, Governors and wider school community, we would like to say a **big thank you for helping to ‘Keep Us Safe!’**
 
-The Early Years Team has put together a [presentation of useful information](/docs/Parent-Induction-Meeting-2020.pptx) for you all!
+![Playground layout with cones](/images/misc/cones_playground2.jpeg)
 
-## Reach for the Stars
-
-Despite everyone being stuck at home, Mr Smith and the Year 5 children have put together this amazing video of "Reach for the Stars"! Well done everyone!
-<video width="100%" height="auto" controls>
-
-  <source src="/docs/Reach-For-The-Stars-Year-5.m4v" type="video/mp4">
-  Your browser does not support the HTML video.
-</video>
-
----
-
-_We are currently updating our website. Thank you for your understanding._
-
----
+**THANK YOU!**
 
 ## Welcome Message from Mrs Poustie
 
