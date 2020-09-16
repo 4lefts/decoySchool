@@ -5,148 +5,187 @@ layout: page.jade
 order: 0
 ---
 
-## Phased Reopening of Decoy Community Primary School
+## Opening Decoy Community Primary School to All Children September 2020
 
-![Outdoor junk band](/images/misc/c2.jpg)
+Government guidance regarding schools’ opening in England in September 2020 was updated on Friday 28th August at 9pm.
 
-### An A-Z of our Provision
+You can read the full document [here](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools).
 
-Since schools closed from 23rd March, we have continued to provide childcare for vulnerable children and the children of critical workers who were unable to care for their children safely at home due to work commitments. Now that government restrictions are being lifted and having completing a comprehensive risk assessment that has been approved by the governing Body and submitted to the Local Authority. We have finalised our planning and preparation and staff are looking forward to welcoming more children back to school.
+We have put together a plan that will allow us to do so from the start of term, Monday 7th September 2020. The plan is in place for the first few weeks of term, and we will make changes to our arrangements as things settle and if we receive updated guidance from the government.
 
-The following information will explain how we have put in measures to keep our school community safe. We will be using the model where children belong to a **‘pod’**. Government guidance makes it clear that the expectation is for primary aged pods to be no bigger than 15 children and that staff members should, where possible only work with one pod. Children stay in their pod and do not mix with children in other pods. For Nursery children, groups should be no bigger than 16 children and preferably children will be in smaller groups within that.
+To minimise the risk of transmission between children they will stay in their own class within the **year group ‘bubble’**. Teachers will stay with their class, and wherever possible other staff will work within a year-group bubble although at times staff will need to work across several year groups. We will keep records to make sure we know which staff have been in contact with which group of children, as it will not always be possible for there to be no contact between groups (for example if a class has a supply teacher or when their teacher is released for planning and preparation time).
 
-Support for children with additional needs will be discussed and agreed with their parent/carer and Mrs Stables/Class Teacher.
+**Essential measures include:**
 
-## How this will work
+- a requirement that people who are ill stay at home
+- robust hand and respiratory hygiene
+- enhanced cleaning arrangements
+- active engagement with NHS Test and Trace
+- reducing contacts and maximising distancing between those in school wherever possible and minimise potential for contamination so far as is reasonably practicable
+- grouping children together in ‘bubbles’
+- avoiding contact between ‘bubbles’
+- staff maintaining distance from pupils and other staff as much as possible
+- using PPE if we need to
+
+We will _respond_ to any infections by engaging with the NHS Track and Trace system and following the advice of the local health protection team.
+
+### How this will work…
+
+Please make sure you go through the following arrangements with your child so that they know exactly what they should be doing.
 
 ### Arriving at and Leaving School
 
-Children will need to be **dropped off and picked up by only one adult**. The details about your child’s start and end times and which entrance they should use are described below.
+We are encouraging as many families as possible to arrive on foot, **please note scooters and bikes will not be allowed on site**. The details about your child’s drop off and pick up times, and which gate they should use are described below. The classrooms will be open from the times stated below, and the children should make their way straight into class at those times. More information and a map will be sent to parents via ParentMail before the start of term.
 
-| **POD** | **Start** | **Finish** | **Entrance**                                            |
-| ------- | --------- | ---------- | ------------------------------------------------------- |
-| **A**   | 9:30am    | 3:00pm     | Nursery Gate (queuing around parking bay)               |
-| **1**   | 9:00am    | 3:15pm     | Reception Playground Gate (queuing down Deer Park Road) |
-| **2**   | 9:00am    | 3:15pm     | Nursery Gate (queuing around parking bay)               |
-| **3**   | 8:55am    | 3:25pm     | Main Office (queuing around flower bed)                 |
-| **4**   | 8:50am    | 3:20pm     | BASC Gate in car park (queuing along car park)          |
-| **5**   | 9:00am    | 3:30pm     | Car Park Gate (queuing along car park)                  |
-| **6**   | 9:10am    | 3:40pm     | Main Gate (queuing down Deer Park Road)                 |
-| **7**   | 9:00am    | 3:30pm     | BASC Gate (queuing along car park)                      |
-| **8**   | 8:50am    | 3:20pm     | Main Gate (queuing down Deer Park Road)                 |
-| **9**   | 8:50am    | 3:20pm     | Main Gate (Queuing around the parking bay)              |
-| **10**  | 9:10am    | 3:40pm     | BASC Gate in car park (queuing along car park)          |
-| **11**  | 8:50am    | 3:20pm     | Car Park Gate (queuing along car park)                  |
+**Parents of children in our Nursery, Reception, Year 1, Year 2 and Year 3 will be able to come through the gates with their child/ren** and there will be a clear one-way system showing where to come in and where to leave. Please be assured that staff will be on hand to help. **Please do not come into the classroom with your child** as adults other than staff will not be permitted inside the school building except by prior appointment.
 
-![Children using computers](/images/misc/c4.jpg)
+**Our Year 4, Year 5 and Year 6 children will need to say goodbye to parents at the gate and come on site alone**. Mrs Stables, SENDCo, will liaise with parents whose children may need a slightly different arrangement.
 
-We will use these staggered times to reduce the amount of people in and around the school at the start and end of the day. We strongly encourage a one-way system for walking up the slip road to the school car park with everyone walking on the left both to and from school. We have put up signage as a reminder to keep 2 metres apart.
+If your children have different start or finish times, please could you wait with them until it is time for them to come into school. Please avoid congregating with other adults as social distancing is key to avoiding transmission. Wherever possible we ask that **only one parent/carer brings their child to school**. If possible, please can we ask that you walk to school or park away from the school possibly using Decoy Park Car park; we will try to get more parking permits for families.
 
-The car park will also have a one-way system which will be clearly marked. We ask that children/parents enter through the wider gate on the left as you arrive and exit through the pedestrian gate on the left as you leave.
+**NB – for the first Monday (7th September), Tuesday (8th September) and Wednesday (9th September), all children will be going to their last year’s class with their previous class teacher. For these three days, please follow that class’ staggered start and end to the day information, alongside their entrance and exit points to the school site.**
 
-**For the first few days after each new group of children join us, please be aware that the routine may take a little longer than we hope it does in the future as it will be new to staff, parents and children alike.**
+**From Thursday 10th September onward, your child will go to their new class, with their new class teacher, following the new start and end to the school day timings and entrance/exit points to school.
+For example - A child who was in Woodpeckers last year (2019 – 2020) with Mrs Campbell will be in Woodpeckers on Monday 7th, Tuesday 8th and Wednesday 9th September and will arrive at Decoy Primary for this year groups’ timings (8:40am start, 3:10pm finish - as highlighted below in yellow for those days). From Thursday 10th, the same child will move to their new class (Partridges with Mrs Hodgson and Mrs Lidbury) and follow the new class timings and points into and out of school: arriving at 8:50am and leaving at 3:20pm as highlighted in green below.**
 
-Please say goodbye to your child outside the designated gate and please help us all to stay safe by maintaining social distancing with other adults who will be dropping off their child. Similarly, we ask that as soon as you are ready to leave the school car park or leave the area outside the main gate, we ask you to do so as quickly as possible to avoid overcrowding.
+We need to make sure our timings help parents to socially distance and we will review the timings for the staggered start and end to the day towards the end of the second week.
 
-At the end of the day, you will need to collect your child from the same designated gates. If you have several children in different year groups, you can bring them all in to the designated gate at the latest pod start time for your children. For example, if you have a child starting at 8.45am entering school through the main office and another child starting at 9.15am entering school through the main gate, you can bring both children in at 9.15am through the main gate to help avoid any difficulty for parents. In the same way, to save parents waiting around outside school at the end of the day you can collect your children together at the earliest pick up time from the designated gate. However, if you are able to keep to the start and end times for each pod, this will, from the school’s point of view, be much easier to manage.
+**Punctuality is crucial to allow staggered times to be effective. Please try to arrive as close to the stated time rather than earlier to ensure we do not have parents and children congregating outside the school site.**
 
-In keeping with government guidance, adults other than staff will not be permitted inside the school site except by prior appointment.
+It is really important that families do not arrive too early to park near school and then sit and wait for their child’s drop off time. This will cause a lot of congestion. **Please arrive as close to your child’s class times as possible and leave promptly after dropping your child/ren. Please remember that the Parking ‘D’ by the main gate is not a parking place but only for dropping off.** Thank you for your help with this.
 
-As previously stated, parents/carers and children should not congregate outside of school and should walk to and from school in family units only. **NB: Parent punctuality is crucial to allow staggered times to be effective.**
+| Class       | Start         | Finish | Entrance Point      | Exit Point          |
+| ----------- | ------------- | ------ | ------------------- | ------------------- |
+| Nursery 1   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
+| Nursery 2   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
+| Dragonflies | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
+| Ladybirds   | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
+| Woodpeckers | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
+| Wrens       | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
+| Chaffinches | 8:50am        | 3:20pm | BASC Gate           | Staff Car Park Gate |
+| Partridges  | 8:50am        | 3:20pm | BASC Gate           | Staff Car Park Gate |
+| Puffins     | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
+| Swans       | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
+| Kingfishers | 8:50am        | 3:20pm | Main Gate           | Staff Car Park Gate |
+| Mallards    | 8:50am        | 3:20pm | Main Gate           | Staff Car Park Gate |
+| Owls        | 8:40am        | 3:10pm | Main Gate           | Staff Car Park Gate |
+| Kestrels    | 8:40am        | 3:10pm | Main Gate           | Staff Car Park Gate |
+| Falcons     | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
+| Eagles      | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
+
+Please remember that if children wear a facemask/covering on their way to and from school, they will not be able to bring it onto the school site.
+
+### Admin (office)
+
+In line with government guidance, adults other than staff are not able to come into the school building without having made an appointment. Please may we ask that parents/carers post all forms, letters etc. in the letter box by the office entrance and telephone or email messages rather than popping on to the office.
 
 ### Attendance
 
-Attendance is not compulsory. We will respect your wishes and you will not be fined or receive any letters from the Educational Welfare Officer if you decide that you do not want your child to come into school.
-
-![Children doing science outside](/images/misc/c1.jpg)
+Attendance from the start of the Autumn Term will be compulsory unless there are medical, or other exceptional reasons, for your child not to come to school. Please contact us directly if you think this is the case so that we can go through your individual circumstances with you.
 
 ### BASC
 
-Unfortunately, as already shared in previous communication with parents, **we are unable to run our BASC provision at this time** and whilst this will be under review, we do not foresee a change to this decision before the end of the Summer Term.
+We are planning for Breakfast and After School Club to be open during the Autumn Term. We are planning to open After School Club w/b 21st September 2020 and Breakfast Club will follow w/b 28th September 2020. We are finalising these plans now that we know that over 100 children would like to access this provision. We anticipate confirming arrangements during the first week of term.
 
 ### Belongings
 
-No belongings/resources can go between home and school. Please do not send in your child’s bookbag or any other equipment except for a water bottle and a lunchbox. The school will provide children with their own writing and drawing equipment which will not be shared with any other child in their pod or any other pod. Any sensory equipment/toys for pupils with SEND must remain in school and be part of a SEND support plan as agreed by Mrs Stables.
+Limited resources need to be taken between home and school. We will be providing all the stationery and a pencil case for each child, so please do not send in any additional equipment. They will need to bring to school the following: a water bottle; a lunchbox if they are having a packed lunch; outdoor clothing depending on the weather; and their reading book. This can be brought in a backpack but please keep the bags as small as possible! Please do not bring a book-bag as well.
 
 ### Classrooms
 
-Each pod will be allocated their own classroom. These will be pared back, with soft furnishings and items unable to be easily cleaned daily being removed. Our spaces will be reconfigured to reflect guidelines on maintaining spaces between seats and desks where possible. Windows and doors will be kept open for maximum ventilation at all times throughout the school day wherever possible.
+The children will be learning in their own classroom. These will be pared back, with all unnecessary furniture removed. Our spaces will be reconfigured to reflect guidelines and tables arranged so that children are not sitting face to face. In many classrooms this will mean that the tables will all be facing forward. Windows will be kept open for maximum ventilation whenever possible whilst. The children will spend most of their day in their class with their own teacher although we will make as much use of outside space as possible. Where other adults work with a group we will keep a record of close contacts so that, in the event of an infection, we would know who would need to contact to tell them to self-isolate.
 
 ### Cleaning
 
-Each Pod will have a cleaning kit which will allow staff to regularly wipe and clean equipment, handles and frequently touched surfaces as appropriate. We also have a new whole school cleaning regime following government guidance. We also have a ‘roaming cleaner’ who is on site during the day to clean toilets, wipe down door handles, hand rails, work surfaces and empty bins etc. All tissues are put into a pedal bin in each room which is emptied during the day and is separate to the classroom’s general waste bin.
+All classrooms will have their own cleaning kit. This will allow staff to regularly wipe and clean equipment, handles and frequently touched surfaces as appropriate. We have also arranged on-site enhanced cleaning throughout the day.
 
-### Contact Details
+Classroom based resources such as books, games and equipment can be used and shared within the class bubble and these will be cleaned regularly.
 
-It is even more important than usual that we have up to date contact details for you. If you have changed your email address or mobile number recently, please let us have the new ones as a matter of urgency. We **MUST** be able to contact you in case your child becomes unwell.
+### Computing
 
-### Crossing Patrol
+Children have access to chrome books and/or iPad. These will be cleaned between use by classes before they are returned to the charging trolley.
 
-Linda Lolly is still providing the school crossing patrol service.
+### Communication
+
+We shall continue to send ParentMails with information to our families and we also have a COVID-19 page on our website. The DfE have also asked that we share the following links with our families with regards to children returning to school.
+
+- https://twitter.com/educationgovuk/status/1295737399042027530
+- https://www.facebook.com/educationgovuk/photos/a.317627041606420/3191534104215685/?type=3&theater
+- https://www.gov.uk/backtoschool
+
+### Contact details
+
+It is even more important than usual that we have up to date contact details for you. If you have changed your email address or mobile number recently, please let us have the new ones. We must be able to contact a parent/carer at any time during the day should we need to.
 
 ### First Aid
 
-Whenever possible, first aid will be administered by staff from your child’s pod. A First Aid kit will be available in each pod together with the full range of PPE if needed.
+First aid will be administered by staff from your child’s year group. A First Aid kit will be available in each classroom together with the full range of PPE if needed.
 
 ### Handwashing
 
-Children will continue to wash hands regularly and at key points during the day with soap and water for 20 seconds and dry thoroughly. They may also use antibacterial hand gel. You can send in your own sanitiser for them to keep if you would prefer but please remind them that they cannot share this with anyone else. We ensure that children wash their hands when they arrive and after each activity and use songs and posters to engage the children and help them to understand how important this is.
-The latest guidance and video on hand washing can be found at:
-[https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands]
-
-![Children doing English](/images/misc/c3.jpg)
+Children will continue to wash hands regularly and at key points during the day with soap and water for 20 seconds and dry thoroughly. They may also use sanitiser.
 
 ### Health
 
-If you suspect your child is poorly, **do not send them to school**. If a child falls ill regardless of whether they have symptoms of COVID-19, we will phone you immediately so that you can collect your child. If Covid19 symptoms are present, children will be isolated in our Puffins classroom with a member of staff until collection and we will follow these steps based on the latest Government guidance for a suspected or confirmed cases within schools.
+All members of the school community need to engage with the NHS Test and Trace process. Anyone who displays symptoms needs to book a test. You can do that online: (https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested)
 
-If a child or staff member becomes symptomatic (new continuous cough, fever or loss or change in taste or smell) then they will isolate away from others until they can go home. If staff need to be within 2m of the child, but without physical contact then they should wear a mask. If staff need to be within 2m of the child and there will be physical contact then staff should wear PPE (apron, gloves and mask). The child will need to self-isolate at home for 7 days after the onset of symptoms and book a test. The household of the child or staff member will need to self-isolate for 14 days from the same date. The child or staff member’s bubble does not need to self-isolate. The school should notify the local Health Protection Team at PHE.
+If you suspect your child is poorly do not send them to school. If a child or member of staff falls ill at school, we will phone for collection as usual or send the member of staff home. If Covid19 symptoms are present they will be isolated until collection. They should then arrange to have a test (as above).
 
-If a child or staff member tests positive for Coronavirus then they will need to self-isolate at home for 7 days after the onset of symptoms or if asymptomatic, for 7 days after the test. The household of the child or staff member will need to self-isolate for 14 days from the same date. The child or staff member’s bubble will also need to self-isolate for 14 days from the same date. The school should notify the local Health Protection Team at PHE who will carry out the contact tracing and provide advice and support
+Parents and staff must inform us immediately of the results of a test.
 
-### Learning at Home
+- If someone tests negative they can stop self-isolating and return to school when they feel well enough. Other members of their household can also stop self-isolating.
+- If someone tests positive they should follow the ‘Stay at Home’ guidance for households and other members of their household should also self-isolate in line with the latest government guidance.
 
-Children not attending school will continue to receive weekly learning tasks in a similar format to that which we have been using.
+### Homework
 
-### Learning at School
+As we are reducing the number of items that go between home and school, we will be using Google classroom and Tapestry to set homework to avoid having homework books.
 
-Children will be following the curriculum in school regardless of whether they are in mixed age pods of single aged pods.
-Further to advice recently received from the Devon Early Years Adviser, it is clear that nursery children cannot be expected to socially distance and that activities and learning in groups will often reflect this. Children have been provided with their own equipment and have their own playdough and water trays for example. We are now reviewing our provision, as EYFS children working alone at a table or desk is counter-productive to the Early Learning Goals and the children’s social and emotional development. Further to additional risk assessments that we are currently undertaking we anticipate moving towards a provision where the children work together in small groups, share equipment that is washed regularly and collaborate together on some tasks.
+### Library
 
-### Learning Outside – when in school
-
-We have identified specific areas within the school grounds for each pod to use. These will be rotated regularly and staff are planning to maximise the use of outside space at every opportunity.
+There will be time slots allocated for the use of the library, with a limit to the number of children in there at any one time. Once books are returned they will be quarantined for 48 hours before they are put back on the shelves (72 hours if in a plastic cover). The children will be reminded to clean their hands before and after visits to the library.
 
 ### Lunchtime
 
-Lunch will be eaten in pods in classrooms or outside in designated areas if possible. Pods will have outside play during the lunch period in the same manner as break time, using various sectioned-off zoned areas of the school site.
+Lunch will be eaten in classrooms or the hall, a year group at a time. The hall will be cleaned between groups. The children will be allocated time to eat and to play, avoiding year groups mixing on the playground. There will be no contact sports, including football and basketball, but the children will be allowed to use the large apparatus (excepting the climbing wall). These will be cleaned between use by each group.
+
+School meals can be ordered using the current system via ParentPay. **In an exceptional circumstance**, if a meal is not ordered in advance it can be ordered when the register is taken but **please book using the ParentPay system whenever possible**. Every family has been sent their sign-in for ParentPay so please check your Junk/Spam box if you have not seen this information.
 
 ### Moving around the School
 
-This will be limited inside our buildings as we will make most use of outside routes to reach other areas. Sign posts will be placed around the school to remind staff and pupils of this.
+This will be limited inside as we will make most use of external doors and outside routes to reach most areas.
 
-### Pods
+### P.E. Kit
 
-Pods that are based in our classrooms are limited in size to the number of children who can socially distance by 2m. However, younger and primary aged children are not expected to maintain this distance at all times although we have put in measures to make this possible as much as possible. Our pods range between 9 – 12 children.
+There is a change to previous arrangements for children wearing PE kit. We are asking children to come into school in their PE kit when they have PE. A timetable will be shared with families to help plan for this. Along with all other arrangements, this will be reviewed during the first few weeks of term.
+
+### Playtimes
+
+Playtimes have been scheduled at different times, in different areas for each year group.
+
+### PPE
+
+Staff and children will not be routinely wearing protective equipment unless they are dealing with a medical issue or for other agreed circumstances. We have had clear guidance about when and how this equipment should be used, which we will be following carefully. The children will not be allowed to wear masks, and their teachers will not wear them unless they choose do so if they work across several year groups.
+
+### Reading
+
+Children will be reading in school daily and will be able to take books home. Every child from **Reception – Year 6** will be given a reading record during the Autumn Term and we ask that you complete it every time you read/share a book at home.
+
+Children will not be bringing books home on the first 3 days when they are with their previous teacher. Mrs Hughes, Literacy Subject Leader will also be sharing more information with parents about how you can support your child at home and as we cannot run our reading workshops for EYFS and KS1 parents we shall share links to workshop videos at a later date.
 
 ### Snacks
 
-Milk will not be provided for Nursery or our Reception children. Please remember to send your child to school with a full water bottle and send in a healthy snack for break time if you would like them to have one.
+Because of the changes to lunch and break time the children may need to have additional snacks. Please send in healthy snacks such as fruit, vegetable sticks or savoury snacks e.g. extra sandwiches. Please do not send in chocolate biscuits or crisps. This will help with reducing litter and plastic waste by bringing snacks without wrappers.
 
-### Staying sun safe
+### Stationery
 
-Please apply all-day sun cream to your child/ren before they come into school when the forecast is for sunny weather, older children can also keep their own bottle in school but cannot take it in and out of school. We are anticipating spending time outside every day and some of this will not be in a shaded area. We cannot apply sun cream to children during the day and children cannot share with their friends. Please also remember sunhats and if the weather changes – a waterproof coat!
+Children will have their own stationery which will be kept in a name labelled pencil case provided by the school for every child. Younger children may share some stationery within a small group but these will be cleaned regularly.
 
-### Toilet Use
+### Toilet use
 
-Children will access the toilets as pods at appropriate times of the day. For use between these times, we will ensure that only one child visits the toilet at any particular time; this will avoid children from other pods meeting together. We have also hired additional toilets for pods to use which will be located outside of their classrooms. Toilets will be cleaned regularly throughout the day.
+Children will access the toilets as they need them. They will be cleaned regularly throughout the day. The numbers of children using the toilets at any one time will be kept to a minimum.
 
-### Water
+### Uniform
 
-Children can bring one water bottle into school and take it home at the end of the day. Please remember that the drinking fountains will not be available but we will be able to refill water bottles on site.
+The children will need to wear their usual school uniform. Clothing they wear to school needs to be washed regularly.
 
-### Well-being
-
-There will be an added emphasis on well-being when we return to school. Staff are planning a range of activities to provide a well thought out programme to support the children’s mental health throughout this half-term.
-
-We hope that this information reassures you that every step has been taken to keep all of the children and staff safe during a phased reopening. Thank you for your patience whilst waiting for this information; we look forward to seeing your child soon.
+We hope this information has been useful and we shall keep you regularly updated.
