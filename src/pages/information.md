@@ -12,7 +12,13 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-There are currently no vacancies at Decoy Primary School. Thank you for your interest.
+We are looking to appoint an enthusiastic Teaching Assistant to join our dedicated staff team.
+
+This 1:1 Teaching Assistant role is to support a child with profound physical difficulties and cognitive delay within school. Work may be carried out in the classroom or may take place outside the main teaching area.
+
+- [Job Description](/docs/TA-Grade-C-JOB-DESCRIPTION.pdf)
+- [Person Specification](/docs/PERSON-SPECIFICATION.pdf)
+- [Application Form](/docs/Application-form-Support-Staff.docx)
 
 ## Statutory Information
 
