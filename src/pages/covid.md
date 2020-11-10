@@ -58,8 +58,8 @@ It is really important that families do not arrive too early to park near school
 | ----------- | ------------- | ------ | ------------------- | ------------------- |
 | Nursery 1   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
 | Nursery 2   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
-| Dragonflies | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
-| Ladybirds   | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
+| Dragonflies | 9:00am        | 3:30pm | Staff Car Park Gate | Main Gate           |
+| Ladybirds   | 9:00am        | 3:30pm | Staff Car Park Gate | Main Gate           |
 | Woodpeckers | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
 | Wrens       | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
 | Chaffinches | 8:50am        | 3:20pm | BASC Gate           | Staff Car Park Gate |
