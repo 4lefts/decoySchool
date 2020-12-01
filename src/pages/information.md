@@ -12,13 +12,7 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-Required from January 2021 (or earlier subject to availability), the Governors are seeking to
-appoint an outstanding Year 4 teacher for 2 terms, who can inspire and motivate children.
-This position is part time (0.4) Thursday and Friday. Please use the links below for supporting documentation:
-
-- [Job Advertisement](/docs/Yr4-Class-Teacher-advert.pdf)
-- [Person Specification](/docs/Person-Spec-teacher.pdf)
-- [Application Form](/docs/Application-form-teaching.docx)
+We don't currently have any vacancies. Thank you for your interest.
 
 ## Statutory Information
 
