@@ -15,9 +15,10 @@ Mr D. Lee
 
 ## Senior Leadership Team
 
-Mrs G. Quantrell - _EYFS and KS1 Team Leader_  
-Mrs Y. Morrell - _Numeracy, Year 3 and 4 Team Leader_  
-Mrs Becky Hughes - _Literacy, Year 5 and 6 Team Leader_
+Mrs S. Smith - _EYFS Team Leader_
+Mrs H. Thomsett - _KS1 Team Leader_
+Mrs Y. Morrell - _Mathematics, Year 3 and 4 Team Leader_  
+Mrs Becky Hughes - _English, Year 5 and 6 Team Leader_
 
 ## SEND Co-Ordinator
 
@@ -82,36 +83,32 @@ Mrs L. Morgan-Anstee _(TA)_
 ## Year 3 Team
 
 Mrs E. Pryde _(Teacher)_  
-Mr T. Goodwin _(Teacher)_  
 Mrs Y. Morrell _(Teacher)_  
+Mr J Kilkelly _(Teacher)_  
 Mrs D. Rogers _(TA)_  
 Mrs T. Hudson _(TA)_
 
 ## Year 4 Team
 
-Mr S. Ball _(Teacher)_  
+Mrs R. Hughes _(Teacher)_  
 Mrs R. Lawton _(Teacher)_  
-Ms K. Braund _(TA)_  
-Mrs M. Dower _(TA)_
+Ms K. Braund _(TA)_
 
 ## Year 5 Team
 
-Mrs R. Hughes _(Teacher)_  
+Mr S. Ball _(Teacher)_  
 Mr J. Smith _(Teacher)_  
+Mrs M. Dower _(TA)_
 Ms G. Grey _(TA)_  
-Mrs J. Sweatman _(TA)_  
 Ms M. Wright _(TA)_
 
 ## Year 6 Team
 
 Mr C. Veal _(Teacher)_  
 Mr T. Strick _(Teacher)_  
+Mrs J. Sweatman _(TA)_
 Mrs D. Minear _(TA)_  
 Mrs M. Wright _(TA)_
-
-## Modern Foreign Languages
-
-Mrs L. Cheeseworth
 
 ## Administration Team
 
