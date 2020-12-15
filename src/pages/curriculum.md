@@ -60,38 +60,38 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
-### Summer 2020
+### Autumn Term Overviews
 
 <div class="cf infoButtons">
-	[Reception Curriculum](/docs/yr-curriculum-summer-2020.pdf)
-	[Year 1 Curriculum](/docs/y1-curriculum-summer-2020.pdf)
-	[Year 2 Curriculum](/docs/y2-curriculum-summer-2020.pdf)
-	[Year 3 Curriculum](/docs/y3-curriculum-summer-2020.pdf)
-	[Year 4 Curriculum](/docs/y4-curriculum-summer-2020.pdf)
-	[Year 5 Curriculum](/docs/y5-curriculum-summer-2020.pdf)
-	[Year 6 Curriculum](/docs/y6-curriculum-summer-2020.pdf)
+	[Reception Curriculum](/docs/curriculum-autumn-yr.pdf)
+	[Year 1 Curriculum](/docs/curriculum-autumn-y1.pdf)
+	[Year 2 Curriculum](/docs/curriculum-autumn-y2.pdf)
+	[Year 3 Curriculum](/docs/curriculum-autumn-y3.pdf)
+	[Year 4 Curriculum](/docs/curriculum-autumn-y4.pdf)
+	[Year 5 Curriculum](/docs/curriculum-autumn-y5.pdf)
+	[Year 6 Curriculum](/docs/curriculum-autumn-y6.pdf)
 </div>
 
-### Spring 2020
+### Spring Term Overviews
 
 <div class="cf infoButtons">
-	[Reception Curriculum](/docs/yr-curriculum-spring-2020.pdf)
-	[Year 1 Curriculum](/docs/y1-curriculum-spring-2020.pdf)
-	[Year 2 Curriculum](/docs/y2-curriculum-spring-2020.pdf)
-	[Year 3 Curriculum](/docs/y3-curriculum-spring-2020.pdf)
-	[Year 4 Curriculum](/docs/y4-curriculum-spring-2020.pdf)
-	[Year 5 Curriculum](/docs/y5-curriculum-spring-2020.pdf)
-	[Year 6 Curriculum](/docs/y6-curriculum-spring-2020.pdf)
+	[Reception Curriculum](/docs/curriculum-spring-yr.pdf)
+	[Year 1 Curriculum](/docs/curriculum-spring-y1.pdf)
+	[Year 2 Curriculum](/docs/curriculum-spring-y2.pdf)
+	[Year 3 Curriculum](/docs/curriculum-spring-y3.pdf)
+	[Year 4 Curriculum](/docs/curriculum-spring-y4.pdf)
+	[Year 5 Curriculum](/docs/curriculum-spring-y5.pdf)
+	[Year 6 Curriculum](/docs/curriculum-spring-y6.pdf)
 </div>
 
-### Autumn 2019
+## Summer Term Overviews
 
 <div class="cf infoButtons">
-	[Reception Curriculum](/docs/Reception-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 1 Curriculum](/docs/Year-1-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 2 Curriculum](/docs/Year-2-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 3 Curriculum](/docs/Year-3-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 4 Curriculum](/docs/Year-4-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 5 Curriculum](/docs/Year-5-Curriculum-Overview-Autumn-2019.pdf)
-	[Year 6 Curriculum](/docs/Year-6-Curriculum-Overview-Autumn-2019.pdf)
+	[Reception Curriculum](/docs/curriculum-summer-yr.pdf)
+	[Year 1 Curriculum](/docs/curriculum-summer-y1.pdf)
+	[Year 2 Curriculum](/docs/curriculum-summer-y2.pdf)
+	[Year 3 Curriculum](/docs/curriculum-summer-y3.pdf)
+	[Year 4 Curriculum](/docs/curriculum-summer-y4.pdf)
+	[Year 5 Curriculum](/docs/curriculum-summer-y5.pdf)
+	[Year 6 Curriculum](/docs/curriculum-summer-y6.pdf)
 </div>
