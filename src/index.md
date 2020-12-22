@@ -4,18 +4,15 @@ layout: page.jade
 permalink: false
 ---
 
-## THANK YOU
+## Our Virtual Tours!
 
-Decoy Primary School would like to say a huge **“THANK YOU” to ‘Amberon’** for allowing our school to borrow 200 traffic cones in order to create our one-way ‘drop-off’ and ‘pick-up’ system around school. Their kindness in helping us out has meant that our school community has been able to stay much safer during what are the busiest times of the school day.
+Prospective parents (and parents of children who already come to the school!), please take a look at our Virtual School Tour!
 
-![Playground layout with cones](/images/misc/cones_playground1.jpeg)
+<iframe class="video" src="https://www.youtube.com/embed/Ntu1jTw1RdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Amberon** were quick to get in touch with us and their communication and response to our request was more than impressive. Our contact, Ryan, was extremely helpful and we greatly appreciated his support with this.  
-From behalf of all of the children, staff, parents, families, Governors and wider school community, we would like to say a **big thank you for helping to ‘Keep Us Safe!’**
+Also, have look at this video to give you a taste of what our Reception classes are like!
 
-![Playground layout with cones](/images/misc/cones_playground2.jpeg)
-
-**THANK YOU!**
+<iframe class="video" src="https://www.youtube.com/embed/5fYJbf7LlAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Welcome Message from Mrs Poustie
 
