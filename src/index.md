@@ -12,7 +12,7 @@ Prospective parents (and parents of children who already come to the school!), p
 
 Also, have look at this video to give you a taste of what our Reception classes are like!
 
-<iframe class="video" src="https://www.youtube.com/embed/5fYJbf7LlAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/2nzXgjt4v44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Welcome Message from Mrs Poustie
 
