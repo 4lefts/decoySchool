@@ -5,7 +5,19 @@ layout: page.jade
 order: 2
 ---
 
-_For details of the curriculum followed by each year group, please scroll [down](#down)._
+_For details of the curriculum followed by each year group, please scroll [down](#year-group-curricula)._
+
+---
+
+## Remote Learning Information
+
+The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
+
+<div class="cf infoButtons">
+	[Remote Education Information](/docs/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf)
+	[Nursery & Reception Guidance](/docs/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf)
+	[Key Stages 1 & 2 Guidanace](/docs/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf)
+</div>
 
 ---
 
@@ -56,7 +68,7 @@ At the start of the year, we run parent workshops for Reception – Year 2 paren
 
 Teaching of phonics is integral to the teaching of reading and although a major part, it is not the only thing we do. We have a range of reading books from which the children can choose. These are organised into colour bands, through which children progress as their phonic and comprehension skills develop. In addition to Letters and Sounds sessions, the children are taught by their teacher in what are called "guided reading" groups where teachers teach and assess children's reading skills. Children are also free to borrow books from our school library.
 
-## <a name="down"></a>Year Group Curricula
+## Year Group Curricula
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 

@@ -356,7 +356,9 @@ section.main {
   }
   table {
     margin: 1em 0;
+    width: 100%;
     border-collapse: collapse;
+    overflow-x: auto;
     td,
     th {
       border: 1px solid #aaa;
