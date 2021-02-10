@@ -5,10 +5,6 @@ layout: page.jade
 order: 0
 ---
 
-<div class="cf infoButtons">
-	[Child Protection and Safeguarding](/docs/CP-and-Safeguarding-Policy-Feb-2021.pdf)
-</div>
-
 ## Remote Learning Information
 
 The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
