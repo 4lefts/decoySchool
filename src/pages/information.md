@@ -21,6 +21,7 @@ The following statutory information is found on this site. A hyperlink will take
 
 | **Information**                         | **Location on our site**                                                                                                        |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **COVID 19 Catch-up Premium Plan**      | Can be downloaded from our [Covid 19 Information Page](/covid-19-information)                                                   |
 | **Contact Details**                     | On our [Contact Page][2].                                                                                                       |
 | **Admission Arrangements**              | On our [Admissions page][3]. Please also see the pages for [First Steps Nursery][4] and our [Breakfast & After School Club][5]. |
 | **Accessibility Plan**                  | For our 2016 - 2019 Accessibility Plan please click [here][28].                                                                 |

@@ -5,6 +5,16 @@ layout: page.jade
 order: 0
 ---
 
+## COVID-19 Catch-Up Premium
+
+This report details how the school will utilise the COVID-19 catch-up premium
+
+<div class="cf infoButtons">
+	[COVID-19 Premium Report](/docs/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf)
+</div>
+
+---
+
 ## Remote Learning Information
 
 The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
