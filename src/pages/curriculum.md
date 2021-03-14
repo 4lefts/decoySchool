@@ -9,18 +9,6 @@ _For details of the curriculum followed by each year group, please scroll [down]
 
 ---
 
-## Remote Learning Information
-
-The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
-
-<div class="cf infoButtons">
-	[Remote Education Information](/docs/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf)
-	[Nursery & Reception Guidance](/docs/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf)
-	[Key Stages 1 & 2 Guidanace](/docs/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf)
-</div>
-
----
-
 The curriculum is planned for Foundation Stage, Key Stage 1 and Key Stage 2. Key Stage 2 is now in two phases, "Lower" and "Upper" Key Stage 2.
 
 **Curriculum Intent** (currently under review): All children learn, practice, develop and refine a wide range of skills in their work across the curriculum. Every child's ability is recognised, developed and rewarded with our curriculum tailored to meet individual needs and aspirations. We have high expectations and a strong focus on literacy and numeracy across the curriculum.
@@ -34,6 +22,16 @@ Alongside the statutory National Curriculum, PSHE and RE, our curriculum also in
 The links below outline the curriculum during the academic year for each year group and the termly overviews.
 
 If you would like any other information about our school curriculum, please contact Mrs. Heather Poustie, Headteacher.
+
+## Remote Learning Information
+
+The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
+
+<div class="cf infoButtons">
+	[Remote Education Information](/docs/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf)
+	[Nursery & Reception Guidance](/docs/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf)
+	[Key Stages 1 & 2 Guidanace](/docs/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf)
+</div>
 
 ## Mathematics
 
