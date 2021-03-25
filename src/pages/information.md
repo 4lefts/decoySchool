@@ -12,7 +12,19 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-We don't currently have any vacancies. Thank you for your interest.
+We are currently looking to appoint a teaching assistant to support the children in Years 4 and 5. Please use the links below to download documents relating to this role:
+
+- [Teaching Assistant Job Advert](/docs/TA-vacancy-April-2021.pdf)
+- [Teaching Assistant Person Specification](/docs/Teaching-Assistant-Person-Specification.pdf)
+- [Teaching Assistant Job Description](/docs/TA-JOB-DESCRIPTION.pdf)
+- [Application From](/docs/Application-form-Support-Staff.docx)
+
+We are also looking to appoint a meal time assistant to support children at lunch times. Please use the links below to download documents relating to this role:
+
+- [Meal Time Assistant Job Advert](/docs/Mealtime-Assistant-Advert.pdf)
+- [Meal Time Assistant Person Specification](/docs/Mealtime-Assistant-Job-Description.pdf)
+- [Meal Time Assistant Job Description](/docs/MTA-Person-Specification.pdf)
+- [Application From](/docs/Application-form-Support-Staff.docx)
 
 ## Statutory Information
 
