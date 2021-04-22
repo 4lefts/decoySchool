@@ -12,7 +12,7 @@ For the rest of the year, or late applications, please e-mail <a href="mailto:ad
 
 If you have contacted Devon County Council and would like to arrange a visit to our school please email Mrs Jess Edwards at <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
 
-For the Admissions Policy 2019/2020 please click [here][5]
+For the Admissions Policy 2021/2022 please click [here][5]
 
 ## First Steps Nursery
 
@@ -25,4 +25,4 @@ Information regarding admissions to our Breakfast & After School Clubs can be fo
 [1]: http://www.devon.gov.uk/admissionsonline
 [2]: /first-steps-nursery
 [3]: /extended-schools-admissions
-[5]: https://drive.google.com/open?id=12OMElJHRyORsY0FoUlelKW1SwR02aIFP
+[5]: https://drive.google.com/file/d/1lEOh3F5C7bH_aWDarvOfdwJccEtpZpEt/view?usp=sharing

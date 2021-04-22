@@ -36,7 +36,7 @@ The following statutory information is found on this site. A hyperlink will take
 | **COVID 19 Catch-up Premium Plan**      | Can be downloaded from our [Covid 19 Information Page](/covid-19-information)                                                   |
 | **Contact Details**                     | On our [Contact Page][2].                                                                                                       |
 | **Admission Arrangements**              | On our [Admissions page][3]. Please also see the pages for [First Steps Nursery][4] and our [Breakfast & After School Club][5]. |
-| **Accessibility Plan**                  | For our 2016 - 2019 Accessibility Plan please click [here][28].                                                                 |
+| **Accessibility Plan**                  | For our 2019 - 2022 Accessibility Plan please click [here][28].                                                                 |
 | **Ofsted Report**                       | Our most recent reports can be found [here][6].                                                                                 |
 | **Ofsted: A Guide for Parents**         | A leaflet for parents & carers of children whose school is due for inspection can be found [here][25].                          |
 | **Most Recent Assessments**             | Please click [here](/ks2-data) for our latest KS2 data. Our online performance tables can be viewed [here][8].                  |
@@ -116,7 +116,7 @@ Below are four companies that all produce our uniform at excellent prices; all i
 [25]: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
 [26]: https://drive.google.com/open?id=10E202ibBKpTv5QFdyMiYDnQuikmluP5F
 [27]: https://drive.google.com/file/d/0B76W__U5CTntbGxfWE15dXhRVEk/view?usp=sharing
-[28]: https://drive.google.com/open?id=1he_FBoD3AwQILReiuWBbqEEePv7Owa-L
+[28]: https://drive.google.com/file/d/1ykPpY4IMxLaxqbLO4RUgNLMXDoeRpOQN/view?usp=sharing
 [29]: https://www.devonjobs.gov.uk/teaching-primary-and-foundation-stage-school-posts-class-teacher-decoy-community-primary-school/55306.job
 [30]: https://drive.google.com/open?id=0B76W__U5CTntdUw3Q0pOVzhrUlE
 [31]: https://drive.google.com/drive/folders/0B76W__U5CTntRWJJQ2VLV3BvOHM?usp=sharing
