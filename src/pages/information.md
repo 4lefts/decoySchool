@@ -19,6 +19,8 @@ There are currently no vacancies at the school. Thank you for your interest.
 The government defines [what maintained schools must publish online][1]. This is to help parents make informed choices and to assist Ofsted in their evaluation of our school.
 The following statutory information is found on this site. A hyperlink will take you to the relevant section of the site. If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
 
+**New for 2020/2021:** We now have to have a link to the following webpage which is dedicated to our school on the [schools financial benchmarking service](https://schools-financial-benchmarking.service.gov.uk/).
+
 | **Information**                         | **Location on our site**                                                                                                        |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **COVID 19 Catch-up Premium Plan**      | Can be downloaded from our [Covid 19 Information Page](/covid-19-information)                                                   |
