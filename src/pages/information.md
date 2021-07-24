@@ -12,15 +12,7 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-Required from September 2021, the Governors are seeking make a permanent appointment for an
-outstanding KS2 teacher who can inspire and motivate children. This position is full time in the
-first year with a possible reduction to (0.7) from September 2022. This is because 0.3 of the role
-is to cover a secondment.
-
-Please use these links to download an application pack and application form.
-
-- [Application Pack](/docs/Decoy-Class-Teacher-Application-Pack.pdf)
-- [Application Form](/docs/Application-Form-Teaching.docx)
+There are currently no vacancies at our school. Thank you for your interest.
 
 ## Statutory Information
 
