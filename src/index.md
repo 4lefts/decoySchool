@@ -3,6 +3,10 @@ title:
 layout: page.jade
 permalink: false
 ---
+## Farewell Year 6!
+Here's our Year 6 Leavers' assembly 2021. We wish you all the best for the future!
+
+<iframe class="video" src="https://www.youtube.com/embed/nxcAhNp5G_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our Virtual Tours!
 
