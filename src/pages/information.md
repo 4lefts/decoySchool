@@ -12,7 +12,11 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-There are currently no vacancies at our school. Thank you for your interest.
+Vacancies have arisen for Meal Time Assistants and Play Workers in our Breakfast and After School Club. Please use the links below to download details of the posts and application forms.
+
+- [MTA Advertisment Details](/docs/MTA-advert-details.docx)
+- [BASC Advertisment Details](/docs/BASC-advert-details.docx)
+- [Application Form](#)
 
 ## Statutory Information
 
