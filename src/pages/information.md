@@ -12,10 +12,11 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-Vacancies have arisen for Meal Time Assistants and Play Workers in our Breakfast and After School Club. Please use the links below to download details of the posts and application forms.
+We are looking to appoint a teaching assistant to support a child, currently in our Reception class, with complex needs. The post is fixed term linked to SEN funding.
 
-- [MTA Advertisment Details](/docs/MTA-advert-details.docx)
-- [BASC Advertisment Details](/docs/BASC-advert-details.docx)
+- [Advertisment Details](/docs/TA-Advert-details.docx)
+- [Job Description](/docs/TA-JOB-DESCRIPTION.pdf)
+- [Person Specification](/docs/TA-Person-Specification-October-2021.docx)
 - [Application Form](/docs/Application-form-support-staff-2021.docx)
 
 ## Statutory Information
