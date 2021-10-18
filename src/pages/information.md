@@ -12,12 +12,7 @@ _For further useful information, such as term dates and letters to parents, plea
 
 ## Job Vacancies
 
-We are looking to appoint a teaching assistant to support a child, currently in our Reception class, with complex needs. The post is fixed term linked to SEN funding.
-
-- [Advertisment Details](/docs/TA-Advert-details.docx)
-- [Job Description](/docs/TA-JOB-DESCRIPTION.pdf)
-- [Person Specification](/docs/TA-Person-Specification-October-2021.docx)
-- [Application Form](/docs/Application-form-support-staff-2021.docx)
+There are currently no vacancies at our school. Thank you for your interest.
 
 ## Statutory Information
 
