@@ -1,3 +1,6 @@
+# Decoy School Website
+## !! This is the old website !!
+
 Code to build a static site for [Decoy Community Primary School](http://decoyschool.co.uk). Uses [Metalsmith](http://metalsmith.io).
 
 To build:
